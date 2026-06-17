@@ -416,10 +416,92 @@ function openModal(card) {
   $("#modalText").textContent = card.text;
   $("#modalText").hidden = !card.text;
   syncModalFav();
+  setupEbay(card);
 
   modal.hidden = false;
   document.body.style.overflow = "hidden";
 }
+
+// ---- Live eBay prices (optional; needs the Worker proxy) -------
+const EBAY_PROXY = (window.TCG_VAULT_CONFIG && window.TCG_VAULT_CONFIG.ebayProxyUrl) || "";
+const ebayBlock = $("#ebayBlock");
+const ebayGrade = $("#ebayGrade");
+const ebayResult = $("#ebayResult");
+let ebayReqId = 0; // guards against out-of-order responses
+
+function setupEbay(card) {
+  if (!EBAY_PROXY) {
+    ebayBlock.hidden = true;
+    return;
+  }
+  ebayBlock.hidden = false;
+  ebayGrade.value = "raw";
+  loadEbayPrices(card, "raw");
+}
+
+// Build a focused eBay search query for a card (+ optional grade).
+function ebayQuery(card, grade) {
+  const parts = [card.name];
+  if (card.game === "pokemon") {
+    if (card.series) parts.push(card.series);
+    const num = (card.meta.find((m) => m[0] === "Number") || [])[1];
+    if (num) parts.push(num.split(" ")[0]); // collector number, e.g. "6"
+  } else {
+    parts.push("Weiss Schwarz", card.id);
+  }
+  if (grade && grade !== "raw") parts.push(grade);
+  return parts.join(" ");
+}
+
+async function loadEbayPrices(card, grade) {
+  const reqId = ++ebayReqId;
+  ebayResult.innerHTML = '<span class="ebay-loading">Checking eBay…</span>';
+  const q = ebayQuery(card, grade);
+  const url =
+    `${EBAY_PROXY.replace(/\/$/, "")}/search?q=${encodeURIComponent(q)}&limit=25` +
+    (card.game === "pokemon" ? "&category=183454" : "");
+
+  try {
+    const res = await fetch(url);
+    if (!res.ok) throw new Error("proxy " + res.status);
+    const data = await res.json();
+    if (reqId !== ebayReqId) return; // a newer request superseded this one
+    renderEbay(data);
+  } catch (err) {
+    if (reqId !== ebayReqId) return;
+    ebayResult.innerHTML = '<span class="ebay-empty">Couldn’t reach the eBay proxy.</span>';
+  }
+}
+
+function renderEbay(data) {
+  if (!data || !data.count) {
+    ebayResult.innerHTML = '<span class="ebay-empty">No active listings found.</span>';
+    return;
+  }
+  const cur = data.currency === "USD" ? "$" : (data.currency || "") + " ";
+  const money = (n) => cur + Number(n).toFixed(2);
+  const stat = (label, val) => `<div class="ebay-stat"><span>${label}</span><strong>${money(val)}</strong></div>`;
+
+  const listings = (data.items || [])
+    .slice(0, 3)
+    .map(
+      (it) =>
+        `<a class="ebay-listing" href="${it.url}" target="_blank" rel="noopener">
+           <span class="ebay-listing-title">${escapeHtml(it.title)}</span>
+           <span class="ebay-listing-price">${money(it.price)}</span>
+         </a>`
+    )
+    .join("");
+
+  ebayResult.innerHTML =
+    `<div class="ebay-stats">${stat("Lowest", data.low)}${stat("Median", data.median)}${stat("Highest", data.high)}</div>` +
+    `<div class="ebay-count">${data.count} active listing${data.count === 1 ? "" : "s"}</div>` +
+    `<div class="ebay-listings">${listings}</div>`;
+}
+
+ebayGrade.addEventListener("change", () => {
+  if (modalCard) loadEbayPrices(modalCard, ebayGrade.value);
+});
 
 function syncModalFav() {
   const btn = $("#modalFav");

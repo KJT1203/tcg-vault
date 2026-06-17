@@ -71,6 +71,18 @@ python scripts/build_weiss.py
 python scripts/build_signatures.py
 ```
 
+## 💰 Optional: live eBay prices
+
+The card detail view can show **live eBay prices** (with a PSA/BGS/CGC grade
+selector). It's **off by default** so the app stays a pure static site. Because
+eBay blocks browser calls and its OAuth needs a server-held secret, enabling it
+means deploying the tiny Cloudflare Worker in [`worker/`](worker/) and pasting
+its URL into [`config.js`](config.js) — full steps in [worker/README.md](worker/README.md).
+
+Note: this surfaces **asking prices from active listings**, not completed-sale
+values (eBay's sold-price API is access-restricted). For ungraded Pokémon,
+the TCGplayer *market* price is already shown with no setup.
+
 ## 📚 Data sources
 
 - **Pokémon** — the [Pokémon TCG API](https://pokemontcg.io) (`api.pokemontcg.io`)

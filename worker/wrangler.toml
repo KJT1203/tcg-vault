@@ -1,0 +1,13 @@
+name = "tcg-vault-ebay-proxy"
+main = "ebay-proxy.js"
+compatibility_date = "2025-01-01"
+
+# Non-secret config. ALLOWED_ORIGIN should be your site's origin in production
+# (e.g. "https://kjt1203.github.io") so the proxy only answers your app.
+[vars]
+EBAY_MARKETPLACE = "EBAY_US"
+# ALLOWED_ORIGIN = "https://kjt1203.github.io"
+
+# Secrets are NOT stored here. Set them once with:
+#   wrangler secret put EBAY_CLIENT_ID
+#   wrangler secret put EBAY_CLIENT_SECRET

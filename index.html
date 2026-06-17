@@ -119,6 +119,23 @@
         <div class="modal-rarity" id="modalRarity"></div>
         <dl class="modal-stats" id="modalStats"></dl>
         <p class="modal-text" id="modalText"></p>
+
+        <!-- Live eBay prices (only shown when an eBay proxy is configured) -->
+        <div class="ebay-block" id="ebayBlock" hidden>
+          <div class="ebay-head">
+            <span class="ebay-title">eBay listings</span>
+            <select id="ebayGrade" class="ebay-grade" aria-label="Card grade">
+              <option value="raw">Ungraded</option>
+              <option value="PSA 10">PSA 10</option>
+              <option value="PSA 9">PSA 9</option>
+              <option value="BGS 9.5">BGS 9.5</option>
+              <option value="CGC 9.5">CGC 9.5</option>
+            </select>
+          </div>
+          <div class="ebay-result" id="ebayResult"></div>
+          <p class="ebay-note">Lowest asking prices from active eBay listings — not completed-sale values.</p>
+        </div>
+
         <button class="fav-btn modal-fav" id="modalFav" aria-pressed="false">
           <span class="heart">♥</span> <span class="fav-label">Add to collection</span>
         </button>
@@ -126,6 +143,7 @@
     </div>
   </div>
 
+  <script src="config.js"></script>
   <script src="app.js"></script>
 </body>
 </html>
