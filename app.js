@@ -31,11 +31,13 @@ const GAMES = {
           r.types && r.types.length && ["Type", r.types.join(" / ")],
           r.supertype && ["Category", r.supertype],
           r.subtypes && r.subtypes.length && ["Subtype", r.subtypes.join(", ")],
+          r.setName && ["Set", r.setName],
           r.number && ["Number", r.number + (r.printedTotal ? " / " + r.printedTotal : "")],
           r.artist && ["Illustrator", r.artist],
         ].filter(Boolean),
         facet: {
-          series: r.setName,
+          category: r.category || r.setName || "Other",
+          set: r.setName || "—",
           rarity: r.rarity || "—",
           type: (r.types && r.types[0]) || r.supertype || "—",
         },
@@ -52,6 +54,7 @@ const GAMES = {
       return {
         id: c.id,
         name: c.name,
+        category: c.set && c.set.series,
         setName: c.set && c.set.name,
         setId: c.set && c.set.id,
         number: c.number,
@@ -96,9 +99,11 @@ const GAMES = {
           r.soul != null && ["Soul", String(r.soul)],
           r.traits && r.traits.length && ["Traits", r.traits.join(" · ")],
           r.trigger && r.trigger.length && ["Trigger", r.trigger.join(", ")],
+          r.setCode && ["Set", r.setCode],
         ].filter(Boolean),
         facet: {
-          series: r.franchise,
+          category: r.franchise,
+          set: r.setCode ? r.setCode.split("/").pop() : "—",
           rarity: r.rarity || "—",
           type: r.color || r.type || "—",
         },
@@ -112,7 +117,7 @@ const state = {
   game: "pokemon",
   view: "browse", // browse | collection
   query: "",
-  filters: { series: "all", rarity: "all", type: "all" },
+  filters: { category: "all", set: "all", rarity: "all", type: "all" },
   sort: "default",
   cards: [], // all cards for the current game (bundled, or live results)
   filtered: [], // after search + filters + sort
@@ -128,7 +133,8 @@ const $ = (sel) => document.querySelector(sel);
 const grid = $("#grid");
 const searchInput = $("#search");
 const searchSpinner = $("#searchSpinner");
-const seriesChips = $("#seriesChips");
+const categoryChips = $("#categoryChips");
+const setFilter = $("#setFilter");
 const rarityFilter = $("#rarityFilter");
 const typeFilter = $("#typeFilter");
 const sortFilter = $("#sortFilter");
@@ -185,7 +191,8 @@ function applyFilters() {
     );
   }
 
-  if (filters.series !== "all") list = list.filter((c) => c.facet.series === filters.series);
+  if (filters.category !== "all") list = list.filter((c) => c.facet.category === filters.category);
+  if (filters.set !== "all") list = list.filter((c) => c.facet.set === filters.set);
   if (filters.rarity !== "all") list = list.filter((c) => c.facet.rarity === filters.rarity);
   if (filters.type !== "all") list = list.filter((c) => c.facet.type === filters.type);
 
@@ -220,28 +227,38 @@ function rarityRank(r) {
 function buildFilters() {
   const game = GAMES[state.game];
   $("#typeLabel").textContent = game.typeLabel;
+  $("#setLabel").textContent = game.id === "weiss" ? "Set" : "Set";
 
-  const seriesValues = uniqueFacet("series");
-  const rarityValues = uniqueFacet("rarity");
-  const typeValues = uniqueFacet("type");
+  // Category chips (kept in data order, e.g. Mega Evolution first).
+  const categoryValues = uniqueFacet("category", false);
+  categoryChips.innerHTML = "";
+  makeChip("All", "all", state.filters.category === "all");
+  categoryValues.forEach((v) => makeChip(v, v, state.filters.category === v));
 
-  // Series chips
-  seriesChips.innerHTML = "";
-  makeChip("All", "all", state.filters.series === "all");
-  seriesValues.forEach((v) => makeChip(v, v, state.filters.series === v));
-
-  // Selects
-  fillSelect(rarityFilter, rarityValues, state.filters.rarity);
-  fillSelect(typeFilter, typeValues, state.filters.type);
+  buildSetSelect();
+  fillSelect(rarityFilter, uniqueFacet("rarity"), state.filters.rarity);
+  fillSelect(typeFilter, uniqueFacet("type"), state.filters.type);
 }
 
-function uniqueFacet(key) {
-  const set = new Set();
+// The Set dropdown only lists sets within the active category.
+function buildSetSelect() {
+  const cat = state.filters.category;
+  const seen = [];
+  state.cards.forEach((c) => {
+    if (cat !== "all" && c.facet.category !== cat) return;
+    const v = c.facet.set;
+    if (v && v !== "—" && !seen.includes(v)) seen.push(v);
+  });
+  fillSelect(setFilter, seen, state.filters.set);
+}
+
+function uniqueFacet(key, sort = true) {
+  const seen = [];
   state.cards.forEach((c) => {
     const v = c.facet[key];
-    if (v && v !== "—") set.add(v);
+    if (v && v !== "—" && !seen.includes(v)) seen.push(v);
   });
-  return [...set].sort();
+  return sort ? seen.sort() : seen;
 }
 
 function makeChip(label, value, active) {
@@ -249,19 +266,21 @@ function makeChip(label, value, active) {
   b.className = "chip" + (active ? " is-active" : "");
   b.textContent = label;
   b.addEventListener("click", () => {
-    state.filters.series = value;
-    document.querySelectorAll("#seriesChips .chip").forEach((c) => c.classList.remove("is-active"));
+    state.filters.category = value;
+    state.filters.set = "all"; // reset set when the category changes
+    document.querySelectorAll("#categoryChips .chip").forEach((c) => c.classList.remove("is-active"));
     b.classList.add("is-active");
+    buildSetSelect();
     refresh();
   });
-  seriesChips.appendChild(b);
+  categoryChips.appendChild(b);
 }
 
 function fillSelect(sel, values, current) {
   sel.innerHTML = "";
   const all = document.createElement("option");
   all.value = "all";
-  all.textContent = sel === rarityFilter ? "All rarities" : "All";
+  all.textContent = sel === rarityFilter ? "All rarities" : sel === setFilter ? "All sets" : "All";
   sel.appendChild(all);
   values.forEach((v) => {
     const o = document.createElement("option");
@@ -436,6 +455,7 @@ document.addEventListener("keydown", (e) => {
 
 // ---- Orchestration --------------------------------------------
 function refresh() {
+  state.filters.set = setFilter.value;
   state.filters.rarity = rarityFilter.value;
   state.filters.type = typeFilter.value;
   state.sort = sortFilter.value;
@@ -447,7 +467,7 @@ function refresh() {
 async function switchGame(gameId) {
   state.game = gameId;
   document.body.dataset.game = gameId;
-  state.filters = { series: "all", rarity: "all", type: "all" };
+  state.filters = { category: "all", set: "all", rarity: "all", type: "all" };
   state.query = "";
   searchInput.value = "";
   resultCount.textContent = "Loading…";
@@ -547,6 +567,7 @@ document.querySelectorAll(".view-btn").forEach((btn) => {
   });
 });
 
+setFilter.addEventListener("change", refresh);
 rarityFilter.addEventListener("change", refresh);
 typeFilter.addEventListener("change", refresh);
 sortFilter.addEventListener("change", refresh);

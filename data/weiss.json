@@ -12712,5 +12712,2703 @@
 "trigger": [],
 "text": "【AUTO】 This ability activates up to 1 time per turn. When you play an event card, this card gets +2000 power until end of turn. 【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 1 or lower, you may 【REVERSE】 that character.",
 "image": "https://www.encoredecks.com/images/JP/S70/045.gif"
+},
+{
+"id": "UMA/W106-001",
+"name": "千紫万紅にまぎれぬ一凛 グラスワンダー",
+"franchise": "Uma Musume Pretty Derby",
+"setCode": "UMA/W106",
+"type": "Character",
+"color": "Yellow",
+"level": 0,
+"cost": 0,
+"power": 1000,
+"soul": 1,
+"rarity": "RR",
+"traits": [
+"Uma Musume"
+],
+"trigger": [],
+"text": "[A] – When this card is placed on Stage from Hand, look at up to two cards from the top of your Deck, place them on top of Deck in any order. [A] – [(1) Send the top card of your Deck to Clock] When this card is placed on Stage from Hand, you may pay the cost. If you did, search your Deck for up to one Level 1 or lower Character, reveal it to your opponent, add it to Hand, shuffle your Deck afterwards.",
+"image": "https://www.encoredecks.com/images/JP/W106/001.gif"
+},
+{
+"id": "UMA/W106-002",
+"name": "Dear Mr. C.B. ミスターシービー",
+"franchise": "Uma Musume Pretty Derby",
+"setCode": "UMA/W106",
+"type": "Character",
+"color": "Yellow",
+"level": 3,
+"cost": 2,
+"power": 8000,
+"soul": 2,
+"rarity": "RR",
+"traits": [
+"Uma Musume"
+],
+"trigger": [
+"SOUL"
+],
+"text": "#2 3/2 Mr C.B RR (Uma Musume) [C] – This card gets -1 Level in your Hand. [C] – If you have two or more other《Uma Musume》Characters, this card gains +3000 Power. [A] – When this card is placed on Stage from Hand, you may send the top card of your Clock to Waiting Room. [A] – [REST two of your Characters] If your Level is 2 or less, when this card is placed on Stage from Hand, you may pay the cost. If you did not, send this card to Waiting Room.",
+"image": "https://www.encoredecks.com/images/JP/W106/002.gif"
+},
+{
+"id": "UMA/W106-003",
+"name": "あぶそりゅーと☆LOVE スマートファルコン",
+"franchise": "Uma Musume Pretty Derby",
+"setCode": "UMA/W106",
+"type": "Character",
+"color": "Yellow",
+"level": 0,
+"cost": 0,
+"power": 1500,
+"soul": 1,
+"rarity": "R",
+"traits": [
+"Uma Musume"
+],
+"trigger": [],
+"text": "[A] – When this card is placed on Stage from Hand, if you have two or more other《Uma Musume》Characters, you may draw one card. If you did, choose one card in your Hand, send it to Waiting Room. [A] – [(1) Send one card from Hand to Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, search your Deck for up to one《Uma Musume》Character, reveal it to your opponent, add it to Hand, shuffle your Deck afterwards.",
+"image": "https://www.encoredecks.com/images/JP/W106/003.gif"
+},
+{
+"id": "UMA/W106-004",
+"name": "unsigned エアシャカール",
+"franchise": "Uma Musume Pretty Derby",
+"setCode": "UMA/W106",
+"type": "Character",
+"color": "Yellow",
+"level": 0,
+"cost": 0,
+"power": 1500,
+"soul": 1,
+"rarity": "R",
+"traits": [
+"Uma Musume"
+],
+"trigger": [],
+"text": "[A] – When this card is placed on Stage from Hand, look at the top card of your Deck, place it on top of Deck or Waiting Room. [S] – BRAINSTORM [(1) REST this card] Flip the top four cards of your Deck, send them to Waiting Room. For each Climax among those cards, choose up to one Character in your Waiting Room, add it to Hand.",
+"image": "https://www.encoredecks.com/images/JP/W106/004.gif"
+},
+{
+"id": "UMA/W106-005",
+"name": "岩穿つ青 グラスワンダー",
+"franchise": "Uma Musume Pretty Derby",
+"setCode": "UMA/W106",
+"type": "Character",
+"color": "Yellow",
+"level": 0,
+"cost": 0,
+"power": 2000,
+"soul": 1,
+"rarity": "R",
+"traits": [
+"Uma Musume"
+],
+"trigger": [],
+"text": "[A] – [(1) Send one card from Hand to Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, choose one《Uma Musume》Character in your Waiting Room, add it to Hand, choose one of your other《Uma Musume》Characters, during this turn, it gains +1000 Power. [A] – INHERITANCE When your other Character is placed on Stage from Hand, if that Character does not have a Marker underneath it, you may choose up to one Marker underneath this card and this card, place them underneath that Character face-up as Markers in any order. If you did, send the remaining Markers to Waiting Room.",
+"image": "https://www.encoredecks.com/images/JP/W106/005.gif"
+},
+{
+"id": "UMA/W106-006",
+"name": "四白流星の襲 ヤエノムテキ",
+"franchise": "Uma Musume Pretty Derby",
+"setCode": "UMA/W106",
+"type": "Character",
+"color": "Yellow",
+"level": 0,
+"cost": 0,
+"power": 2000,
+"soul": 1,
+"rarity": "R",
+"traits": [
+"Uma Musume"
+],
+"trigger": [],
+"text": "[C] – During your turn, this card gains +1000 Power. [A] – When this card is REVERSE, you may reveal up to three cards from the top of your Deck. If you revealed one or more cards, choose up to one《Uma Musume》Character among them, add it to Hand, choose one card in your Hand, send it to Waiting Room.",
+"image": "https://www.encoredecks.com/images/JP/W106/006.gif"
+},
+{
+"id": "UMA/W106-007",
+"name": "キング・オブ・エメラルド キングヘイロー",
+"franchise": "Uma Musume Pretty Derby",
+"setCode": "UMA/W106",
+"type": "Character",
+"color": "Yellow",
+"level": 1,
+"cost": 0,
+"power": 1000,
+"soul": 1,
+"rarity": "R",
+"traits": [
+"Uma Musume"
+],
+"trigger": [],
+"text": "[A] – When this card is placed on Stage from Hand, if you have another《Uma Musume》Character, this card gains +6000 Power. [A] – [Send one Marker underneath this card to Waiting Room] When this card is REVERSE in battle, if you have two or more other《Uma Musume》Characters, you may pay the cost. If you did, look at up to three cards from the top of your Deck, choose up to one card among them, add it to Hand, send the remaining cards to Waiting Room.",
+"image": "https://www.encoredecks.com/images/JP/W106/007.gif"
+},
+{
+"id": "UMA/W106-008",
+"name": "あおぐもサミング セイウンスカイ",
+"franchise": "Uma Musume Pretty Derby",
+"setCode": "UMA/W106",
+"type": "Character",
+"color": "Yellow",
+"level": 1,
+"cost": 0,
+"power": 2500,
+"soul": 1,
+"rarity": "R",
+"traits": [
+"Uma Musume"
+],
+"trigger": [
+"SOUL"
+],
+"text": "[C] – If all of your Characters are《Uma Musume》, this card gains the following two effects: -[C] – During your turn, this card gains +4000 Power. -[A] – [(1)] During the turn this card is placed on Stage from Hand, at the beginning of your Encore Step, you may pay the cost. If you did, draw up to two cards, choose two cards in your Hand, send them to Waiting Room. [A] – When this card's battle opponent is REVERSE, if you have [Gigue.] in your Climax Zone, if you have two or more other《Uma Musume》Characters, look at up to three cards from the top of your Deck, choose up to one card among them, add it to Hand, send the remaining cards to Waiting Room. Note: this card has a Soul Trigger",
+"image": "https://www.encoredecks.com/images/JP/W106/008.gif"
+},
+{
+"id": "UMA/W106-009",
+"name": "陰陽八卦☆開運衣 コパノリッキー",
+"franchise": "Uma Musume Pretty Derby",
+"setCode": "UMA/W106",
+"type": "Character",
+"color": "Yellow",
+"level": 1,
+"cost": 0,
+"power": 3500,
+"soul": 1,
+"rarity": "R",
+"traits": [
+"Uma Musume"
+],
+"trigger": [],
+"text": "[C] – During your turn, if you have another《Uma Musume》Character, this card gains +3000 Power. [A] – When this card is placed on Stage from Hand, if this card has a Marker underneath it, choose one of your other《Uma Musume》Characters, during this turn, it gains +2000 Power and the following effect: -[A] – When this card's battle opponent is REVERSE, search your Deck for up to one《Uma Musume》Character, reveal it to your opponent, add it to Hand, shuffle your Deck afterwards.",
+"image": "https://www.encoredecks.com/images/JP/W106/009.gif"
+},
+{
+"id": "UMA/W106-010",
+"name": "ボーノ☆アラモーダ ヒシアケボノ",
+"franchise": "Uma Musume Pretty Derby",
+"setCode": "UMA/W106",
+"type": "Character",
+"color": "Yellow",
+"level": 1,
+"cost": 0,
+"power": 5000,
+"soul": 1,
+"rarity": "R",
+"traits": [
+"Uma Musume"
+],
+"trigger": [],
+"text": "[A] – When this card is placed on Stage from Hand, all players perform the following effect: -If you have five or more cards in your Memory, choose four cards, send all other cards in Memory to Waiting Room. [A] – When this card attacks, choose one of your other《Uma Musume》Characters, during this turn, it gains +X Power. X is the number of your other《Uma Musume》Characters x500.",
+"image": "https://www.encoredecks.com/images/JP/W106/010.gif"
+},
+{
+"id": "UMA/W106-011",
+"name": "スペシャルドリーマー スペシャルウィーク",
+"franchise": "Uma Musume Pretty Derby",
+"setCode": "UMA/W106",
+"type": "Character",
+"color": "Yellow",
+"level": 3,
+"cost": 2,
+"power": 9000,
+"soul": 2,
+"rarity": "R",
+"traits": [
+"Uma Musume"
+],
+"trigger": [
+"SOUL"
+],
+"text": "[A] – When this card is placed on Stage from Hand, send up to one card from the top of your Clock to Waiting Room, during this turn, this card gains +3000 Power. [A] – CX COMBO [(2)] When this card attacks, if you have [みんなにとっての\"日本一\"] in your Climax Zone, if this card has a Marker underneath it, if you have another《Uma Musume》Character, you may pay the cost. If you did, your opponent reveals the top three cards of their Deck, choose up to one Character or Event and up to one Climax among them, send them to Clock in any order, send the remaining cards to Waiting Room.",
+"image": "https://www.encoredecks.com/images/JP/W106/011.gif"
+},
+{
+"id": "UMA/W106-012",
+"name": "フォーミュラオブルージュ マルゼンスキー",
+"franchise": "Uma Musume Pretty Derby",
+"setCode": "UMA/W106",
+"type": "Character",
+"color": "Yellow",
+"level": 3,
+"cost": 2,
+"power": 9500,
+"soul": 2,
+"rarity": "R",
+"traits": [
+"Uma Musume"
+],
+"trigger": [
+"SOUL"
+],
+"text": "[A] – When this card attacks, choose one of your other《Uma Musume》Characters, during this turn, it gains +2000 Power. [A] – This effect activates up to once per turn. During the turn this card is placed on Stage from Hand, when this card's dealt damage is canceled, send the top card of your Deck to Waiting Room, deal X damage to your opponent. X is the Level of that card +1. (Climax is considered Level 0. Damage can be canceled)",
+"image": "https://www.encoredecks.com/images/JP/W106/012.gif"
+},
+{
+"id": "UMA/W106-013",
+"name": "うららん一等賞♪ ハルウララ",
+"franchise": "Uma Musume Pretty Derby",
+"setCode": "UMA/W106",
+"type": "Character",
+"color": "Yellow",
+"level": 0,
+"cost": 0,
+"power": 2000,
+"soul": 1,
+"rarity": "U",
+"traits": [
+"Uma Musume"
+],
+"trigger": [],
+"text": "[A] – [(1) Send one Climax from Hand to Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, choose one Climax in your Waiting Room, add it to Hand. [A] – CX COMBO When [いつだって一緒だよ!] is placed in your Climax Zone, if you have two or more other《Uma Musume》Characters, send the top three cards of your Deck to Waiting Room, choose up to one Level X or lower《Uma Musume》Character in your Waiting Room, add it to Hand. X is the number of《Uma Musume》Characters, sent to Waiting Room by this effect.",
+"image": "https://www.encoredecks.com/images/JP/W106/013.gif"
+},
+{
+"id": "UMA/W106-014",
+"name": "Clear Bliss ミスターシービー",
+"franchise": "Uma Musume Pretty Derby",
+"setCode": "UMA/W106",
+"type": "Character",
+"color": "Yellow",
+"level": 1,
+"cost": 0,
+"power": 3000,
+"soul": 1,
+"rarity": "U",
+"traits": [
+"Uma Musume"
+],
+"trigger": [],
+"text": "[C] – During your turn, this card gains +4000 Power. [A] – During this card's battle, if damage dealt to you is canceled, you may return this card to Hand.",
+"image": "https://www.encoredecks.com/images/JP/W106/014.gif"
+},
+{
+"id": "UMA/W106-015",
+"name": "ティアード・ペタル ニシノフラワー",
+"franchise": "Uma Musume Pretty Derby",
+"setCode": "UMA/W106",
+"type": "Character",
+"color": "Yellow",
+"level": 1,
+"cost": 0,
+"power": 4000,
+"soul": 1,
+"rarity": "U",
+"traits": [
+"Uma Musume"
+],
+"trigger": [],
+"text": "[A] – When this card attacks, if you have two or more other《Uma Musume》Characters, during this turn, this card gains +2000 Power. [A] – [(1)] During opponent's turn, when this card is REVERSE, you may pay the cost. If you did, REST this card, at the beginning of your next Encore Step, send to Waiting Room.",
+"image": "https://www.encoredecks.com/images/JP/W106/015.gif"
+},
+{
+"id": "UMA/W106-016",
+"name": "シューティンスタァ・ルヴュ フジキセキ",
+"franchise": "Uma Musume Pretty Derby",
+"setCode": "UMA/W106",
+"type": "Character",
+"color": "Yellow",
+"level": 2,
+"cost": 1,
+"power": 1000,
+"soul": 1,
+"rarity": "U",
+"traits": [
+"Uma Musume"
+],
+"trigger": [
+"SOUL"
+],
+"text": "[A] – When this card is placed on Stage from Hand, send the top three cards of your Deck to Waiting Room. If there is a Climax among those cards, you may choose one of your opponent's Level 3 or lower Characters in Front Row, send it to Waiting Room. [A] – When this card is REVERSE, if this card's battle opponent's Level is higher than your opponent's Level, you may send that Character to Stock. If you did, send the bottom card of opponent's Stock to Waiting Room.",
+"image": "https://www.encoredecks.com/images/JP/W106/016.gif"
+},
+{
+"id": "UMA/W106-017",
+"name": "Meisterschaft エイシンフラッシュ",
+"franchise": "Uma Musume Pretty Derby",
+"setCode": "UMA/W106",
+"type": "Character",
+"color": "Yellow",
+"level": 2,
+"cost": 1,
+"power": 2500,
+"soul": 1,
+"rarity": "U",
+"traits": [
+"Uma Musume"
+],
+"trigger": [
+"SOUL"
+],
+"text": "[A] – When you use this card's BACKUP, choose one of your battling Characters, during this turn it gains the following effect: -[A] – When this card's battle opponent is REVERSE, send that Character to Memory. [S] – COUNTER 3000 Power BACKUP Level 2",
+"image": "https://www.encoredecks.com/images/JP/W106/017.gif"
+},
+{
+"id": "UMA/W106-018",
+"name": "Rocket☆Star シーキングザパール",
+"franchise": "Uma Musume Pretty Derby",
+"setCode": "UMA/W106",
+"type": "Character",
+"color": "Yellow",
+"level": 2,
+"cost": 1,
+"power": 4000,
+"soul": 1,
+"rarity": "U",
+"traits": [
+"Uma Musume"
+],
+"trigger": [
+"SOUL"
+],
+"text": "[C] – If all of your Characters are《Uma Musume》, this card gains +7000 Power and +1 Soul. [A] – CX COMBO When this card attacks, if you have [登場, 暴走, 団長] in your Climax Zone, if you have two or more other《Uma Musume》Characters, look at up to four cards from the top of your Deck, choose up to one《Uma Musume》Character among them, reveal it to your opponent, add it to Hand, send the remaining cards to Waiting Room, during this turn, this card gains the following effect: -[A] – If this card's dealt damage is canceled, until end of opponent's next turn, this card gains +4000 Power.",
+"image": "https://www.encoredecks.com/images/JP/W106/018.gif"
+},
+{
+"id": "UMA/W106-019",
+"name": "プリンセス・オブ・ピンク カワカミプリンセス",
+"franchise": "Uma Musume Pretty Derby",
+"setCode": "UMA/W106",
+"type": "Character",
+"color": "Yellow",
+"level": 2,
+"cost": 1,
+"power": 5000,
+"soul": 1,
+"rarity": "U",
+"traits": [
+"Uma Musume"
+],
+"trigger": [
+"SOUL"
+],
+"text": "[C] – If this card has a Marker underneath it, if you have two or more other《Uma Musume》Characters, this card gains +3000 Power. [C] – If you have two or more other《Uma Musume》 Characters, this card gains +6000 Power.",
+"image": "https://www.encoredecks.com/images/JP/W106/019.gif"
+},
+{
+"id": "UMA/W106-020",
+"name": "エル☆Número 1 エルコンドルパサー",
+"franchise": "Uma Musume Pretty Derby",
+"setCode": "UMA/W106",
+"type": "Character",
+"color": "Yellow",
+"level": 3,
+"cost": 2,
+"power": 10000,
+"soul": 2,
+"rarity": "U",
+"traits": [
+"Uma Musume"
+],
+"trigger": [
+"SOUL"
+],
+"text": "[A] – During your Main Phase, when this card is placed on Stage from Hand, during this turn, this card gains +2000 Power, reveal the top card of your Deck. If that card is a《Uma Musume》Character, place it on any slot on Stage. (If not return card to its original position) [A] – [Send one card from Hand to Waiting Room] When this card attacks, if this card has a Marker underneath it, if you have another《Uma Musume》Character, you may pay the cost. If you did, send the bottom four cards of opponent's Deck to Waiting Room, deal X damage to your opponent. X is the number of Climaxes among those cards. (Damage can be canceled)",
+"image": "https://www.encoredecks.com/images/JP/W106/020.gif"
+},
+{
+"id": "UMA/W106-021",
+"name": "華麗なジェントル娘 フジキセキ",
+"franchise": "Uma Musume Pretty Derby",
+"setCode": "UMA/W106",
+"type": "Character",
+"color": "Yellow",
+"level": 0,
+"cost": 0,
+"power": 1000,
+"soul": 1,
+"rarity": "C",
+"traits": [
+"Uma Musume"
+],
+"trigger": [],
+"text": "[A] – When this card attacks, choose one of your other《Uma Musume》Characters, during this turn, it gains +X Power. X is the number of your other《Uma Musume》Characters x500. [A] – When this card is REVERSE, if this card's battle opponent is Level 0 or lower, you may send that Character to Stock. If you did, your opponent sends the bottom card of Stock to Waiting Room.",
+"image": "https://www.encoredecks.com/images/JP/W106/021.gif"
+},
+{
+"id": "UMA/W106-022",
+"name": "豪快おてんばウマ娘 カワカミプリンセス",
+"franchise": "Uma Musume Pretty Derby",
+"setCode": "UMA/W106",
+"type": "Character",
+"color": "Yellow",
+"level": 0,
+"cost": 0,
+"power": 1000,
+"soul": 1,
+"rarity": "C",
+"traits": [
+"Uma Musume"
+],
+"trigger": [],
+"text": "[C] – ASSIST All of your Characters in front of this card gains +500 Power. [A] – [Send this card to Waiting Room] When your other《Uma Musume》Character is sent from Stage to Waiting Room, if this card is in your Back Row, you may pay the cost. If you did, place that Character in its previous slot in REST.",
+"image": "https://www.encoredecks.com/images/JP/W106/022.gif"
+},
+{
+"id": "UMA/W106-023",
+"name": "不可能をパールにするお姉さん シーキングザパール",
+"franchise": "Uma Musume Pretty Derby",
+"setCode": "UMA/W106",
+"type": "Character",
+"color": "Yellow",
+"level": 0,
+"cost": 0,
+"power": 1000,
+"soul": 1,
+"rarity": "C",
+"traits": [
+"Uma Musume"
+],
+"trigger": [],
+"text": "[A] – [Return two Characters in your Waiting Room to your Deck, shuffle your Deck afterwards] When this card is placed on Stage from Hand, you may pay the cost. If you did, choose one of your other Characters, during this turn, it gains +1500 Power. [A] – When this card attacks, choose one of your opponent's Characters, during this turn it gets -1000 Power.",
+"image": "https://www.encoredecks.com/images/JP/W106/023.gif"
+},
+{
+"id": "UMA/W106-024",
+"name": "スーパーカーお姉さん マルゼンスキー",
+"franchise": "Uma Musume Pretty Derby",
+"setCode": "UMA/W106",
+"type": "Character",
+"color": "Yellow",
+"level": 0,
+"cost": 0,
+"power": 1500,
+"soul": 1,
+"rarity": "C",
+"traits": [
+"Uma Musume"
+],
+"trigger": [],
+"text": "[A] – At the beginning of opponent's Attack Phase, if all of your Characters are《Uma Musume》, you may send the top card of your Deck to Waiting Room. If that card is a Level 2 or lower Character, during this turn, this card gains the following effect: -[A] – When this card is Front Attacked, you may return this card to Hand. [A] – INHERITANCE When your other Character is placed on Stage from Hand, if that Character does not have a Marker underneath it, you may choose up to one Marker underneath this card and this card, place them underneath that Character face-up as Markers in any order. If you did, send the remaining Markers to Waiting Room.",
+"image": "https://www.encoredecks.com/images/JP/W106/024.gif"
+},
+{
+"id": "UMA/W106-025",
+"name": "謹厳実直なメッチェン エイシンフラッシュ",
+"franchise": "Uma Musume Pretty Derby",
+"setCode": "UMA/W106",
+"type": "Character",
+"color": "Yellow",
+"level": 0,
+"cost": 0,
+"power": 1500,
+"soul": 1,
+"rarity": "C",
+"traits": [
+"Uma Musume"
+],
+"trigger": [],
+"text": "[A] – When this card attacks, if you have two or more other《Uma Musume》Characters, during this turn, this card gains +2000 Power. [A] – When this card's battle opponent is REVERSE, you may draw one card. If you did, choose one card in your Hand, send it to Waiting Room.",
+"image": "https://www.encoredecks.com/images/JP/W106/025.gif"
+},
+{
+"id": "UMA/W106-026",
+"name": "気配り上手なウマ娘 ニシノフラワー",
+"franchise": "Uma Musume Pretty Derby",
+"setCode": "UMA/W106",
+"type": "Character",
+"color": "Yellow",
+"level": 0,
+"cost": 0,
+"power": 1500,
+"soul": 1,
+"rarity": "C",
+"traits": [
+"Uma Musume"
+],
+"trigger": [],
+"text": "[C] – During your turn, if all of your Characters are《Uma Musume》, this card gains +3000 Power. [A] – [Send this card to Waiting Room] When your other《Uma Musume》Character is Front Attacked, you may pay the cost. If you did, choose one of your battling Characters, during this turn, it gains +1000 Power.",
+"image": "https://www.encoredecks.com/images/JP/W106/026.gif"
+},
+{
+"id": "UMA/W106-027",
+"name": "漂う雲のように… セイウンスカイ",
+"franchise": "Uma Musume Pretty Derby",
+"setCode": "UMA/W106",
+"type": "Character",
+"color": "Yellow",
+"level": 0,
+"cost": 0,
+"power": 2000,
+"soul": 1,
+"rarity": "C",
+"traits": [
+"Uma Musume"
+],
+"trigger": [],
+"text": "[A] – [Send one card from Hand to Waiting Room] When this card attacks, you may pay the cost. If you did, during this attack, perform Trigger Check twice during Trigger Step. [A] – When this card Trigger Checks a card with Soul Trigger Icon, choose one of your other《Uma Musume》Character, during this turn, it gains +1 Soul.",
+"image": "https://www.encoredecks.com/images/JP/W106/027.gif"
+},
+{
+"id": "UMA/W106-028",
+"name": "高飛車お嬢様 キングヘイロー",
+"franchise": "Uma Musume Pretty Derby",
+"setCode": "UMA/W106",
+"type": "Character",
+"color": "Yellow",
+"level": 0,
+"cost": 0,
+"power": 2000,
+"soul": 1,
+"rarity": "C",
+"traits": [
+"Uma Musume"
+],
+"trigger": [],
+"text": "[C] – If you have no other Characters, this card gets +2 Level and +3000 Power.",
+"image": "https://www.encoredecks.com/images/JP/W106/028.gif"
+},
+{
+"id": "UMA/W106-029",
+"name": "常識外れの天才ガール エアシャカール",
+"franchise": "Uma Musume Pretty Derby",
+"setCode": "UMA/W106",
+"type": "Character",
+"color": "Yellow",
+"level": 1,
+"cost": 0,
+"power": 1500,
+"soul": 1,
+"rarity": "C",
+"traits": [
+"Uma Musume"
+],
+"trigger": [],
+"text": "[S] – COUNTER 1000 Power BACKUP Level 1 [S] – BRAINSTORM [(1) REST this card] Flip the top five cards of your Deck, send them to Waiting Room. For each Climax among those cards, search your Deck for up to one《Uma Musume》Character, reveal it to your opponent, add it to Hand, shuffle your Deck afterwards.",
+"image": "https://www.encoredecks.com/images/JP/W106/029.gif"
+},
+{
+"id": "UMA/W106-030",
+"name": "北米の怪鳥！ エルコンドルパサー",
+"franchise": "Uma Musume Pretty Derby",
+"setCode": "UMA/W106",
+"type": "Character",
+"color": "Yellow",
+"level": 1,
+"cost": 0,
+"power": 2000,
+"soul": 1,
+"rarity": "C",
+"traits": [
+"Uma Musume"
+],
+"trigger": [
+"SOUL"
+],
+"text": "[A] – When this card is placed on Stage from Hand, reveal the top card of your Deck. If that card is a《Uma Musume》Character, during this turn, this card gains +1 Soul. (Return revealed card to its original position) [A] – When this card is REVERSE, if this card's battle opponent is cost 0 or lower, you may send that Character to Stock. If you did, your opponent sends the bottom card of Stock to Waiting Room.",
+"image": "https://www.encoredecks.com/images/JP/W106/030.gif"
+},
+{
+"id": "UMA/W106-031",
+"name": "熱きヒーロー、見参！ ビコーペガサス",
+"franchise": "Uma Musume Pretty Derby",
+"setCode": "UMA/W106",
+"type": "Character",
+"color": "Yellow",
+"level": 1,
+"cost": 0,
+"power": 3500,
+"soul": 1,
+"rarity": "C",
+"traits": [
+"Uma Musume"
+],
+"trigger": [],
+"text": "[C] – For each of your other《Uma Musume》Characters, this card gains +500 Power. [A] – When this card attacks, if the Character across from this card is Level 2, during this turn, this card gains +6000 Power.",
+"image": "https://www.encoredecks.com/images/JP/W106/031.gif"
+},
+{
+"id": "UMA/W106-032",
+"name": "夢は三冠！！常に全力！！ ツルマルツヨシ",
+"franchise": "Uma Musume Pretty Derby",
+"setCode": "UMA/W106",
+"type": "Character",
+"color": "Yellow",
+"level": 1,
+"cost": 0,
+"power": 3500,
+"soul": 1,
+"rarity": "C",
+"traits": [
+"Uma Musume"
+],
+"trigger": [],
+"text": "[C] – During your turn, all of your other《Uma Musume》Characters gain +1000 Power. [A] – INHERITANCE When your other Character is placed on Stage from Hand, if that Character does not have a Marker underneath it, you may choose up to one Marker underneath this card and this card, place them underneath that Character face-up as Markers in any order. If you did, send the remaining Markers to Waiting Room. [S] – [REST this card] Choose one of your Characters, during this turn, it gains +500 Power.",
+"image": "https://www.encoredecks.com/images/JP/W106/032.gif"
+},
+{
+"id": "UMA/W106-033",
+"name": "ボーノをどうぞ♪ ヒシアケボノ",
+"franchise": "Uma Musume Pretty Derby",
+"setCode": "UMA/W106",
+"type": "Character",
+"color": "Yellow",
+"level": 2,
+"cost": 1,
+"power": 5500,
+"soul": 1,
+"rarity": "C",
+"traits": [
+"Uma Musume"
+],
+"trigger": [
+"SOUL"
+],
+"text": "[A] – When your other《Uma Musume》 Character attacks, during this turn, this card gains +3000 Power. [A] – [(1)] At the beginning of your Encore Step, if you have no other REST Characters in your Front Row, you may pay the cost. If you did, REST this card.",
+"image": "https://www.encoredecks.com/images/JP/W106/033.gif"
+},
+{
+"id": "UMA/W106-034",
+"name": "未来のトップウマドル スマートファルコン",
+"franchise": "Uma Musume Pretty Derby",
+"setCode": "UMA/W106",
+"type": "Character",
+"color": "Yellow",
+"level": 2,
+"cost": 1,
+"power": 7000,
+"soul": 1,
+"rarity": "C",
+"traits": [
+"Uma Musume"
+],
+"trigger": [
+"SOUL"
+],
+"text": "[A] – When this card attacks, during this turn, this card gains +X Power. X is the number of your other《Uma Musume》Characters x1000. [A] – During this card's battle, if damage dealt to you is canceled, you may return this card to Hand.",
+"image": "https://www.encoredecks.com/images/JP/W106/034.gif"
+},
+{
+"id": "UMA/W106-035",
+"name": "学園理事長 秋川やよい",
+"franchise": "Uma Musume Pretty Derby",
+"setCode": "UMA/W106",
+"type": "Event",
+"color": "Yellow",
+"level": 2,
+"cost": 0,
+"power": 0,
+"soul": 0,
+"rarity": "C",
+"traits": [],
+"trigger": [],
+"text": "If you have two or less Memory, send this card to Memory. [S] – RECOLLECTION [Send this card in Memory to Waiting Room] Choose one Character in your Waiting Room, add it to Hand. [S] – RECOLLECTION [Send one other [学園理事長 秋川やよい] and this card in Memory to Waiting Room] Deal two damage to your opponent. (Damage can be canceled) [S] – RECOLLECTION [Send two other [学園理事長 秋川やよい] and this card in Memory to Waiting Room] Deal three damage to your opponent, choose one of your Characters, during this turn, it gains +3000 Power. (Damage can be canceled)",
+"image": "https://www.encoredecks.com/images/JP/W106/035.gif"
+},
+{
+"id": "UMA/W106-036",
+"name": "みんなにとっての\"日本一\"",
+"franchise": "Uma Musume Pretty Derby",
+"setCode": "UMA/W106",
+"type": "Climax",
+"color": "Yellow",
+"level": 0,
+"cost": 0,
+"power": 0,
+"soul": 0,
+"rarity": "CC",
+"traits": [],
+"trigger": [
+"CHOICE"
+],
+"text": "[C] – All of your Characters gain +1000 Power and +1 Soul. （Choice: When this card is triggered, you may choose one Character with a Soul Trigger Icon, add it to Hand or place it into Stock.)",
+"image": "https://www.encoredecks.com/images/JP/W106/036.gif"
+},
+{
+"id": "UMA/W106-037",
+"name": "Gigue.",
+"franchise": "Uma Musume Pretty Derby",
+"setCode": "UMA/W106",
+"type": "Climax",
+"color": "Yellow",
+"level": 0,
+"cost": 0,
+"power": 0,
+"soul": 0,
+"rarity": "CC",
+"traits": [],
+"trigger": [
+"CHOICE"
+],
+"text": "[C] – All of your Characters gain +1000 Power and +1 Soul. （Choice: When this card is triggered, you may choose one Character with a Soul Trigger Icon, add it to Hand or place it into Stock.)",
+"image": "https://www.encoredecks.com/images/JP/W106/037.gif"
+},
+{
+"id": "UMA/W106-038",
+"name": "登場、暴走、団長",
+"franchise": "Uma Musume Pretty Derby",
+"setCode": "UMA/W106",
+"type": "Climax",
+"color": "Yellow",
+"level": 0,
+"cost": 0,
+"power": 0,
+"soul": 0,
+"rarity": "CC",
+"traits": [],
+"trigger": [
+"SOUL",
+"RETURN"
+],
+"text": "[C] – All of your Characters gain +1000 Power and +1 Soul. （Wind: When this card is triggered, you may choose one of your opponent's Characters, return it to Hand.)",
+"image": "https://www.encoredecks.com/images/JP/W106/038.gif"
+},
+{
+"id": "UMA/W106-039",
+"name": "いつだって一緒だよ！",
+"franchise": "Uma Musume Pretty Derby",
+"setCode": "UMA/W106",
+"type": "Climax",
+"color": "Yellow",
+"level": 0,
+"cost": 0,
+"power": 0,
+"soul": 0,
+"rarity": "CC",
+"traits": [],
+"trigger": [
+"SOUL",
+"SOUL"
+],
+"text": "[A] – When this card is placed in Climax Zone from Hand, choose up to one Level 1 or lower Character in your Waiting Room, send it to Stock, during this turn, all of your Characters gain +1 Soul.",
+"image": "https://www.encoredecks.com/images/JP/W106/039.gif"
+},
+{
+"id": "UMA/W106-040",
+"name": "独奏・螺旋追走曲 マンハッタンカフェ",
+"franchise": "Uma Musume Pretty Derby",
+"setCode": "UMA/W106",
+"type": "Character",
+"color": "Green",
+"level": 0,
+"cost": 0,
+"power": 1500,
+"soul": 1,
+"rarity": "RR",
+"traits": [
+"Uma Musume"
+],
+"trigger": [],
+"text": "[C] – If you have two or more other《Uma Musume》Characters, this card gains +1000 Power. [A] – [Send the top card of your Stock to Clock] When this card is sent from stage to Waiting Room, you may pay the cost. If you did, search your Deck for up to one cost 0 or lower Character whose Level is less than or equal to your Level, place it on any slot on Stage in REST, shuffle your Deck afterwards.",
+"image": "https://www.encoredecks.com/images/JP/W106/040.gif"
+},
+{
+"id": "UMA/W106-041",
+"name": "桃色のバックショット ナリタトップロード",
+"franchise": "Uma Musume Pretty Derby",
+"setCode": "UMA/W106",
+"type": "Character",
+"color": "Green",
+"level": 0,
+"cost": 0,
+"power": 1500,
+"soul": 1,
+"rarity": "RR",
+"traits": [
+"Uma Musume"
+],
+"trigger": [],
+"text": "[C] – If all of your Characters are《Uma Musume》, this card gains +1000 Power. [C] – During opponent's turn, if you have another《Uma Musume》Character, this card gains +1500 Power. [A] – At the beginning of opponent's Attack Phase, you may move this card to an empty slot in your Front Row with an opponent's Character across from it.",
+"image": "https://www.encoredecks.com/images/JP/W106/041.gif"
+},
+{
+"id": "UMA/W106-042",
+"name": "Noble Seamair ファインモーション",
+"franchise": "Uma Musume Pretty Derby",
+"setCode": "UMA/W106",
+"type": "Character",
+"color": "Green",
+"level": 0,
+"cost": 0,
+"power": 500,
+"soul": 1,
+"rarity": "R",
+"traits": [
+"Uma Musume"
+],
+"trigger": [],
+"text": "[A] – [Send one card from Hand to Waiting Room] When a Climax is placed in your Climax Zone, you may pay the cost. If you did, reveal the top two cards of your Deck, your opponent chooses one Character or Event among those cards, add it to your Hand, send the remaining cards to Waiting Room. [S] – BRAINSTORM [(1) REST this card] Flip the top four cards of your Deck, send them to Waiting Room. For each Climax among those cards, perform the following effect: -Look at up to three cards from the top of your Deck, choose up to one card among them, add it to Hand, send the remaining cards to Waiting Room.",
+"image": "https://www.encoredecks.com/images/JP/W106/042.gif"
+},
+{
+"id": "UMA/W106-043",
+"name": "サイレントイノセンス サイレンススズカ",
+"franchise": "Uma Musume Pretty Derby",
+"setCode": "UMA/W106",
+"type": "Character",
+"color": "Green",
+"level": 1,
+"cost": 0,
+"power": 4000,
+"soul": 1,
+"rarity": "R",
+"traits": [
+"Uma Musume"
+],
+"trigger": [],
+"text": "[C] – During your turn, this card gains +2000 Power. [A] – CX COMBO When this card attacks, if you have [夢を目指す二人三脚] in your Climax in your Climax Zone, if you have four or more other《Uma Musume》Characters, choose one《Uma Musume》Character in your Waiting Room, add it to Hand, if you have no other REST Character in your Front Row, until end of opponent's next turn, this card gains the following effect: -[A] – When this card is Front Attacked, send the top card of your Deck to Waiting Room. If that card is a Level 2 or lower Character, you may return this card to Hand.",
+"image": "https://www.encoredecks.com/images/JP/W106/043.gif"
+},
+{
+"id": "UMA/W106-044",
+"name": "tach-nology アグネスタキオン",
+"franchise": "Uma Musume Pretty Derby",
+"setCode": "UMA/W106",
+"type": "Character",
+"color": "Green",
+"level": 1,
+"cost": 0,
+"power": 4000,
+"soul": 1,
+"rarity": "R",
+"traits": [
+"Uma Musume"
+],
+"trigger": [],
+"text": "[A] – When this card is placed on Stage from Hand, look at up to two cards from the top of your Deck, place them on top of Deck in the same order. You may shuffle your Deck afterwards. [A] – When this card is placed on Stage from Hand, during this turn, this card gains +1500 Power.",
+"image": "https://www.encoredecks.com/images/JP/W106/044.gif"
+},
+{
+"id": "UMA/W106-045",
+"name": "一等星を目指して アドマイヤベガ",
+"franchise": "Uma Musume Pretty Derby",
+"setCode": "UMA/W106",
+"type": "Character",
+"color": "Green",
+"level": 1,
+"cost": 0,
+"power": 4500,
+"soul": 1,
+"rarity": "R",
+"traits": [
+"Uma Musume"
+],
+"trigger": [],
+"text": "[C] – During your turn, if this card has a Marker underneath it, if you have another《Uma Musume》Character, this card gains +5000 Power. [A] – [(1)] At the beginning of Encore Step, if you have no other REST, you may pay the cost. If you did, REST this card.",
+"image": "https://www.encoredecks.com/images/JP/W106/045.gif"
+},
+{
+"id": "UMA/W119-001",
+"name": "楽しんでいってよ フジキセキ",
+"franchise": "Uma Musume Pretty Derby",
+"setCode": "UMA/W119",
+"type": "Character",
+"color": "Yellow",
+"level": 0,
+"cost": 0,
+"power": 500,
+"soul": 1,
+"rarity": "RR",
+"traits": [
+"Uma Musume"
+],
+"trigger": [
+"SOUL"
+],
+"text": "AUTO - INHERITANCE When your other character is placed on stage from hand, if that character does not have a Marker underneath it, you may choose up to 1 Marker underneath this and this card, you may place them underneath that card face-up as Markers in any order. If you do, send the rest of the Markers to Waiting Room. ACT - BRAINSTORM [(1) Rest this] Flip over the top 5 cards of your deck, then send them to Waiting Room. If there is a Climax among them, choose 1 character from your Waiting Room, and add it to hand.  *Note: Has a Soul Trigger",
+"image": "https://www.encoredecks.com/images/JP/W119/001.gif"
+},
+{
+"id": "UMA/W119-002",
+"name": "漆黒のエンターテイナー フジキセキ",
+"franchise": "Uma Musume Pretty Derby",
+"setCode": "UMA/W119",
+"type": "Character",
+"color": "Yellow",
+"level": 1,
+"cost": 0,
+"power": 3000,
+"soul": 1,
+"rarity": "RR",
+"traits": [
+"Uma Musume"
+],
+"trigger": [
+"SOUL"
+],
+"text": "CONT - During your turn, if you have 2 or more other <Uma Musume> characters, this gets +1 level and +3500 power. AUTO - {CX Combo} At the end of this card's attack, if you have the Choice CX (027) in your CX Area, and you have 2 or more other <Uma Musume> characters, look at 1 cards from the top of your deck, choose up to 1 <Uma Musume> character or an Event from among them, show it to your opponent, add it to hand, send the rest to Waiting Room, hen you may send this to Memory. If you do, at the start of your next Draw Phase, choose 1 {this card} from Memory, and place it on stage in any slot. *Note: Has a Soul Trigger",
+"image": "https://www.encoredecks.com/images/JP/W119/002.gif"
+},
+{
+"id": "UMA/W119-003",
+"name": "限界を越えた先 ジャングルポケット",
+"franchise": "Uma Musume Pretty Derby",
+"setCode": "UMA/W119",
+"type": "Character",
+"color": "Yellow",
+"level": 3,
+"cost": 2,
+"power": 8000,
+"soul": 2,
+"rarity": "RR",
+"traits": [
+"Uma Musume"
+],
+"trigger": [
+"SOUL"
+],
+"text": "CONT - During your turn, this gets +3000 power. AUTO - When this is placed on stage from hand, choose 1 of the following 2 effects and resolve it, a) \"You may Heal 1.\" b) \"[Discard 1 card] You may pay cost. If you do, put the top card of your clock underneath this face-up as a Marker.\" AUTO - {CX Combo} When this attacks, if you have the Choice CX (025) in your CX Area, and you have 2 or more other <Uma Musume> characters, deal 1 damage to your opponent X times. X is equal to 1 if there are 2 or less Markers underneath this, 2 if 3 Markers, 3 if 4 or more Markers.",
+"image": "https://www.encoredecks.com/images/JP/W119/003.gif"
+},
+{
+"id": "UMA/W119-004",
+"name": "ひたむきな努力 ダンツフレーム",
+"franchise": "Uma Musume Pretty Derby",
+"setCode": "UMA/W119",
+"type": "Character",
+"color": "Yellow",
+"level": 0,
+"cost": 0,
+"power": 500,
+"soul": 1,
+"rarity": "R",
+"traits": [
+"Uma Musume"
+],
+"trigger": [],
+"text": "AUTO - [(1) Discard 1 card] When this is placed on stage from hand, you may pay cost. If you do, look at up to 3 cards from the top of your deck, choose up to 1 card among them, add it to hand, and send the rest to Waiting Room. AUTO - [Discard 1 <Uma Musume> character] When this is placed on stage from hand, you may pay cost. If you do, draw 1 card.",
+"image": "https://www.encoredecks.com/images/JP/W119/004.gif"
+},
+{
+"id": "UMA/W119-005",
+"name": "トレセン学園 ジャングルポケット",
+"franchise": "Uma Musume Pretty Derby",
+"setCode": "UMA/W119",
+"type": "Character",
+"color": "Yellow",
+"level": 0,
+"cost": 0,
+"power": 1000,
+"soul": 1,
+"rarity": "R",
+"traits": [
+"Uma Musume"
+],
+"trigger": [],
+"text": "CONT - During your turn, if there is a Marker underneath this, and you have another <Uma Musume> character, this gets +5000 power. AUTO - (1) When this is placed on stage from hand, you may pay cost. If you do, choose 1 character with INHERITANCE in your Waiting Room, place it underneath this card face-up as a Marker. AUTO - INHERITANCE When your other character is placed on stage from hand, if that character does not have a Marker underneath it, you may choose up to 1 Marker underneath this and this card, you may place them underneath that card face-up as Markers in any order. If you do, send the rest of the Markers to Waiting Room.",
+"image": "https://www.encoredecks.com/images/JP/W119/005.gif"
+},
+{
+"id": "UMA/W119-006",
+"name": "誰からも慕われているウマ娘 フジキセキ",
+"franchise": "Uma Musume Pretty Derby",
+"setCode": "UMA/W119",
+"type": "Character",
+"color": "Yellow",
+"level": 0,
+"cost": 0,
+"power": 2000,
+"soul": 1,
+"rarity": "R",
+"traits": [
+"Uma Musume"
+],
+"trigger": [],
+"text": "AUTO - When this Direct Attacks, choose 1 of your other characters, Rest it, and move it to an empty Back Row slot.",
+"image": "https://www.encoredecks.com/images/JP/W119/006.gif"
+},
+{
+"id": "UMA/W119-007",
+"name": "お人よしなウマ娘 ダンツフレーム",
+"franchise": "Uma Musume Pretty Derby",
+"setCode": "UMA/W119",
+"type": "Character",
+"color": "Yellow",
+"level": 0,
+"cost": 0,
+"power": 2500,
+"soul": 1,
+"rarity": "R",
+"traits": [
+"Uma Musume"
+],
+"trigger": [],
+"text": "AUTO - When this is placed on stage from hand, if you have another <Uma Musume> character, choose 1 of the following 2 effects and resolve it, a) \"Choose 1 card from your hand, you may send it to Stock.\" b) \"Choose 1 of your other characters, choose up to 1 character with INHERITANCE from your hand, show it to your opponent, and place it underneath that character face-up as a Marker.\"",
+"image": "https://www.encoredecks.com/images/JP/W119/007.gif"
+},
+{
+"id": "UMA/W119-008",
+"name": "託した願い フジキセキ",
+"franchise": "Uma Musume Pretty Derby",
+"setCode": "UMA/W119",
+"type": "Character",
+"color": "Yellow",
+"level": 0,
+"cost": 0,
+"power": 1000,
+"soul": 1,
+"rarity": "U",
+"traits": [
+"Uma Musume"
+],
+"trigger": [],
+"text": "CONT - All of your other characters with \"Jungle Pocket\" in its name gets +500 power and the following ability, \"CONT - This cannot be targeted by your opponent's effects.\"",
+"image": "https://www.encoredecks.com/images/JP/W119/008.gif"
+},
+{
+"id": "UMA/W119-009",
+"name": "信頼の証 フジキセキ",
+"franchise": "Uma Musume Pretty Derby",
+"setCode": "UMA/W119",
+"type": "Character",
+"color": "Yellow",
+"level": 0,
+"cost": 0,
+"power": 1000,
+"soul": 1,
+"rarity": "U",
+"traits": [
+"Uma Musume"
+],
+"trigger": [],
+"text": "AUTO - [Discard 1 card] When this is placed on stage from hand, you may pay cost. If you do, choose 1 character with \"Jungle Pocket\" in its name from your Waiting Room, add it to hand.",
+"image": "https://www.encoredecks.com/images/JP/W119/009.gif"
+},
+{
+"id": "UMA/W119-010",
+"name": "先輩ウマ娘 フジキセキ",
+"franchise": "Uma Musume Pretty Derby",
+"setCode": "UMA/W119",
+"type": "Character",
+"color": "Yellow",
+"level": 0,
+"cost": 0,
+"power": 2000,
+"soul": 1,
+"rarity": "U",
+"traits": [
+"Uma Musume"
+],
+"trigger": [],
+"text": "CONT - All of your other characters with \"Jungle Pocket\" in its name gains the following ability, \"AUTO - (1) At the start of Encore Step, if you do not have any other Rested characters in your Front Row, you may pay cost. If you do, Rest this.\"",
+"image": "https://www.encoredecks.com/images/JP/W119/010.gif"
+},
+{
+"id": "UMA/W119-011",
+"name": "新時代 ジャングルポケット",
+"franchise": "Uma Musume Pretty Derby",
+"setCode": "UMA/W119",
+"type": "Character",
+"color": "Yellow",
+"level": 1,
+"cost": 0,
+"power": 3000,
+"soul": 1,
+"rarity": "U",
+"traits": [
+"Uma Musume"
+],
+"trigger": [
+"SOUL"
+],
+"text": "CONT - For each Marker underneath this card, this gets +2000 power. CONT - If you have 2 or more other <Uma Musume> characters, this gets +1000 power and the 2 following abilities, - \"CONT - This cannot be Side Attacked.\" - \"CONT - This cannot be targeted by your opponent's effects.\" *Note: Has a Soul Trigger",
+"image": "https://www.encoredecks.com/images/JP/W119/011.gif"
+},
+{
+"id": "UMA/W119-012",
+"name": "託された願い ジャングルポケット",
+"franchise": "Uma Musume Pretty Derby",
+"setCode": "UMA/W119",
+"type": "Character",
+"color": "Yellow",
+"level": 1,
+"cost": 0,
+"power": 4000,
+"soul": 1,
+"rarity": "U",
+"traits": [
+"Uma Musume"
+],
+"trigger": [],
+"text": "CONT - During your turn, if you have another <Uma Musume> character, this gets +3000 power. AUTO - {CX Combo} When this attacks, if you have the Shot CX (026) in your CX Area, and you have 2 or more other <Uma Musume> characters, choose 1 of the following 2 effects and resolve it, a) \"Look at up to 4 cards from the top of your deck, choose up to 1 <Uma Musume> character from among them, show it to your opponent, add it to hand, send the rest to Waiting Room.\" b) \"Choose up to 2 of your characters, this turn, they get +1 Soul.\"",
+"image": "https://www.encoredecks.com/images/JP/W119/012.gif"
+},
+{
+"id": "UMA/W119-013",
+"name": "始まりの一戦 ダンツフレーム",
+"franchise": "Uma Musume Pretty Derby",
+"setCode": "UMA/W119",
+"type": "Character",
+"color": "Yellow",
+"level": 1,
+"cost": 0,
+"power": 4000,
+"soul": 1,
+"rarity": "U",
+"traits": [
+"Uma Musume"
+],
+"trigger": [],
+"text": "AUTO - (2) When this is placed on stage from hand, you may pay cost. If you do, shuffle all cards from your Waiting Room into your deck. AUTO - INHERITANCE When your other character is placed on stage from hand, if that character does not have a Marker underneath it, you may choose up to 1 Marker underneath this and this card, you may place them underneath that card face-up as Markers in any order. If you do, send the rest of the Markers to Waiting Room.",
+"image": "https://www.encoredecks.com/images/JP/W119/013.gif"
+},
+{
+"id": "UMA/W119-014",
+"name": "帰ってきたエンターテイナー フジキセキ",
+"franchise": "Uma Musume Pretty Derby",
+"setCode": "UMA/W119",
+"type": "Character",
+"color": "Yellow",
+"level": 2,
+"cost": 1,
+"power": 1500,
+"soul": 1,
+"rarity": "U",
+"traits": [
+"Uma Musume"
+],
+"trigger": [
+"SOUL"
+],
+"text": "CONT - ASSIST Level x 500. ACT - [Rest this] Choose 1 of your {RR 3/2 Jungle Pocket - 003}, choose 1 character with INHERITANCE in your Waiting Room, place it underneath that character face-up as a Marker.",
+"image": "https://www.encoredecks.com/images/JP/W119/014.gif"
+},
+{
+"id": "UMA/W119-015",
+"name": "写真撮影 ハルウララ",
+"franchise": "Uma Musume Pretty Derby",
+"setCode": "UMA/W119",
+"type": "Character",
+"color": "Yellow",
+"level": 2,
+"cost": 1,
+"power": 2500,
+"soul": 1,
+"rarity": "U",
+"traits": [
+"Uma Musume"
+],
+"trigger": [
+"SOUL"
+],
+"text": "AUTO - (2) When you use this card's BACKUP, you may pay cost. If you do, shuffle all cards from your Waiting Room into your deck. ACT - BACKUP +2500",
+"image": "https://www.encoredecks.com/images/JP/W119/015.gif"
+},
+{
+"id": "UMA/W119-016",
+"name": "宣戦布告 ジャングルポケット",
+"franchise": "Uma Musume Pretty Derby",
+"setCode": "UMA/W119",
+"type": "Character",
+"color": "Yellow",
+"level": 3,
+"cost": 2,
+"power": 8500,
+"soul": 2,
+"rarity": "U",
+"traits": [
+"Uma Musume"
+],
+"trigger": [
+"SOUL"
+],
+"text": "AUTO - When this is placed on stage from hand, if you have 2 or more other <Uma Musume> characters, you may draw 2 cards. if you do, discard 2 cards. AUTO - [Discard 1 {Copy of this}] When this is placed on stage from hand, you may pay cost. If you do, your opponent sends all of their Stock to Waiting Room, then puts an equal number of cards from the top of their deck into Stock, and this turn, this gets +3000 power.",
+"image": "https://www.encoredecks.com/images/JP/W119/016.gif"
+},
+{
+"id": "UMA/W119-017",
+"name": "フリースタイル・レースのカリスマ ジャングルポケット",
+"franchise": "Uma Musume Pretty Derby",
+"setCode": "UMA/W119",
+"type": "Character",
+"color": "Yellow",
+"level": 0,
+"cost": 0,
+"power": 500,
+"soul": 1,
+"rarity": "C",
+"traits": [
+"Uma Musume"
+],
+"trigger": [],
+"text": "CONT - All of your other <Uma Musume> characters gets +500 power. AUTO - When this is Reversed, if the battle opponent's Level is 0 or lower, you may send that character to Stock. If you do, put the bottom card of your opponent's Stock into Waiting Room.",
+"image": "https://www.encoredecks.com/images/JP/W119/017.gif"
+},
+{
+"id": "UMA/W119-018",
+"name": "願いの成就 フジキセキ",
+"franchise": "Uma Musume Pretty Derby",
+"setCode": "UMA/W119",
+"type": "Character",
+"color": "Yellow",
+"level": 0,
+"cost": 0,
+"power": 2000,
+"soul": 1,
+"rarity": "C",
+"traits": [
+"Uma Musume"
+],
+"trigger": [],
+"text": "AUTO - [Mill the top card of your deck, discard 1 card] When this is placed on stage from hand, you may pay cost. If the level of the card milled for the cost of this ability is 1 or higher, look at up to 4 cards from the top of your deck, choose up to 1 <Uma Musume> character from among them, show it to your opponent, add it to hand, send the rest to Waiting Room. If the level of the card milled for the cost of this ability is 0 or lower, choose 1 Level 2 or higher <Uma Musume> character in your Waiting Room, add it to hand.",
+"image": "https://www.encoredecks.com/images/JP/W119/018.gif"
+},
+{
+"id": "UMA/W119-019",
+"name": "光を追って ダンツフレーム",
+"franchise": "Uma Musume Pretty Derby",
+"setCode": "UMA/W119",
+"type": "Character",
+"color": "Yellow",
+"level": 1,
+"cost": 0,
+"power": 3500,
+"soul": 1,
+"rarity": "C",
+"traits": [
+"Uma Musume"
+],
+"trigger": [],
+"text": "AUTO - When this is placed on stage from hand or attacks, choose 1 of your <Uma Musume> characters, this turn, it gets +1500 power.",
+"image": "https://www.encoredecks.com/images/JP/W119/019.gif"
+},
+{
+"id": "UMA/W119-020",
+"name": "新たな時代の幕開け フジキセキ",
+"franchise": "Uma Musume Pretty Derby",
+"setCode": "UMA/W119",
+"type": "Character",
+"color": "Yellow",
+"level": 1,
+"cost": 0,
+"power": 4000,
+"soul": 1,
+"rarity": "C",
+"traits": [
+"Uma Musume"
+],
+"trigger": [
+"SOUL"
+],
+"text": "AUTO - [(1) Discard 1 card] During the turn this was placed on stage from your hand, when a CX with a Choice Trigger is placed in your CX Area, you may pay cost. If you do, choose up to 1 CX with a Choice Trigger in your Waiting Room, add it to hand. *Note: This has a Soul trigger",
+"image": "https://www.encoredecks.com/images/JP/W119/020.gif"
+},
+{
+"id": "UMA/W119-021",
+"name": "オレのライブ ジャングルポケット",
+"franchise": "Uma Musume Pretty Derby",
+"setCode": "UMA/W119",
+"type": "Character",
+"color": "Yellow",
+"level": 1,
+"cost": 1,
+"power": 3000,
+"soul": 1,
+"rarity": "C",
+"traits": [
+"Uma Musume"
+],
+"trigger": [
+"SOUL"
+],
+"text": "AUTO - When your character's Trigger Check reveals a Soul Trigger, choose 1 of your <Uma Musume> characters, this turn, it gets +2000 power. AUTO - When this is Reversed, if the battle opponent's Level is higher than your opponent's Level, you may send that character to Stock. If you do, send the bottom card of your opponent's Stock to Waiting Room.",
+"image": "https://www.encoredecks.com/images/JP/W119/021.gif"
+},
+{
+"id": "UMA/W119-022",
+"name": "不穏な気配 ジャングルポケット",
+"franchise": "Uma Musume Pretty Derby",
+"setCode": "UMA/W119",
+"type": "Character",
+"color": "Yellow",
+"level": 2,
+"cost": 1,
+"power": 3500,
+"soul": 1,
+"rarity": "C",
+"traits": [
+"Uma Musume"
+],
+"trigger": [
+"SOUL"
+],
+"text": "CONT - When this attacks, reveal the top card of your deck. If that card is an <Uma Musume> character, this turn, all of your characters gets +5000 power.",
+"image": "https://www.encoredecks.com/images/JP/W119/022.gif"
+},
+{
+"id": "UMA/W119-023",
+"name": "光を追って ジャングルポケット",
+"franchise": "Uma Musume Pretty Derby",
+"setCode": "UMA/W119",
+"type": "Character",
+"color": "Yellow",
+"level": 2,
+"cost": 1,
+"power": 4500,
+"soul": 1,
+"rarity": "C",
+"traits": [
+"Uma Musume"
+],
+"trigger": [
+"SOUL"
+],
+"text": "CONT - If you have 4 or more other <Uma Musume> characters, this gets +6000 power. AUTO - When this is placed on stage from hand, if you have 2 or more other <Uma Musume> characters, you may draw 2 cards. if you do, discard 2 cards.",
+"image": "https://www.encoredecks.com/images/JP/W119/023.gif"
+},
+{
+"id": "UMA/W119-024",
+"name": "ベテラントレーナー タナベ",
+"franchise": "Uma Musume Pretty Derby",
+"setCode": "UMA/W119",
+"type": "Event",
+"color": "Yellow",
+"level": 1,
+"cost": 0,
+"power": 0,
+"soul": 0,
+"rarity": "U",
+"traits": [],
+"trigger": [],
+"text": "COUNTER - If you don't have a <Uma Musume> character, this cannot be played from hand. Look at up to 4 cards from the top of your deck, choose up to 1 <Uma Musume> character from among them, show it to your opponent, add it to hand, send the rest to Waiting Room.",
+"image": "https://www.encoredecks.com/images/JP/W119/024.gif"
+},
+{
+"id": "UMA/W119-025",
+"name": "先に行くぜ",
+"franchise": "Uma Musume Pretty Derby",
+"setCode": "UMA/W119",
+"type": "Climax",
+"color": "Yellow",
+"level": 0,
+"cost": 0,
+"power": 0,
+"soul": 0,
+"rarity": "CR",
+"traits": [],
+"trigger": [
+"CHOICE"
+],
+"text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。 （[CHOICE]があるキャラを1枚選び、手札に戻すかストック置場に置いてよい）",
+"image": "https://www.encoredecks.com/images/JP/W119/025.gif"
+},
+{
+"id": "UMA/W119-026",
+"name": "勝利の雄叫び",
+"franchise": "Uma Musume Pretty Derby",
+"setCode": "UMA/W119",
+"type": "Climax",
+"color": "Yellow",
+"level": 0,
+"cost": 0,
+"power": 0,
+"soul": 0,
+"rarity": "CR",
+"traits": [],
+"trigger": [
+"SOUL",
+"SHOT"
+],
+"text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。 （[SHOT]：このターン中、このカードをトリガーした攻撃キャラが次に与えるダメージがキャンセルされた時、相手に1ダメージを与える）",
+"image": "https://www.encoredecks.com/images/JP/W119/026.gif"
+},
+{
+"id": "UMA/W119-027",
+"name": "夢の続き",
+"franchise": "Uma Musume Pretty Derby",
+"setCode": "UMA/W119",
+"type": "Climax",
+"color": "Yellow",
+"level": 0,
+"cost": 0,
+"power": 0,
+"soul": 0,
+"rarity": "CR",
+"traits": [],
+"trigger": [
+"CHOICE"
+],
+"text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。 （[CHOICE]があるキャラを1枚選び、手札に戻すかストック置場に置いてよい）",
+"image": "https://www.encoredecks.com/images/JP/W119/027.gif"
+},
+{
+"id": "UMA/W119-028",
+"name": "憧れに並ぶ為に メイショウドトウ",
+"franchise": "Uma Musume Pretty Derby",
+"setCode": "UMA/W119",
+"type": "Character",
+"color": "Green",
+"level": 0,
+"cost": 0,
+"power": 1000,
+"soul": 1,
+"rarity": "RR",
+"traits": [
+"Uma Musume"
+],
+"trigger": [],
+"text": "AUTO - When this attacks, choose 1 of your other character, this turn, it gets +1500 power. AUTO - [(1) Put the top card of your deck into Clock] When this is sent from stage to Waiting Room, you may pay cost. If you do, look at up to 2 cards from the top of your deck, choose up to 2 <Uma Musume> characters from among them, show them to your opponent, add them to hand, and send the rest to Waiting Room.",
+"image": "https://www.encoredecks.com/images/JP/W119/028.gif"
+},
+{
+"id": "UMA/W119-029",
+"name": "勝利の栄光へ テイエムオペラオー",
+"franchise": "Uma Musume Pretty Derby",
+"setCode": "UMA/W119",
+"type": "Character",
+"color": "Green",
+"level": 3,
+"cost": 2,
+"power": 10000,
+"soul": 2,
+"rarity": "RR",
+"traits": [
+"Uma Musume"
+],
+"trigger": [
+"SOUL"
+],
+"text": "AUTO - When this is placed on stage from hand, you may Heal 1. AUTO - {CX Combo} [(1) Discard 1 card] When this attacks, if you have the Bar CX (052) in your CX Area, and there is a Marker underneath this, and you have another <Uma Musume> character, you may pay cost. If you do, look at the top card of your deck, then declare a number, and deal X damage to your opponent. X is equal to the number you declared.",
+"image": "https://www.encoredecks.com/images/JP/W119/029.gif"
+},
+{
+"id": "UMA/W119-030",
+"name": "想いを背負って ナリタトップロード",
+"franchise": "Uma Musume Pretty Derby",
+"setCode": "UMA/W119",
+"type": "Character",
+"color": "Green",
+"level": 3,
+"cost": 2,
+"power": 10500,
+"soul": 2,
+"rarity": "RR",
+"traits": [
+"Uma Musume"
+],
+"trigger": [
+"SOUL"
+],
+"text": "AUTO - [(2) Discard 1 card] At the start of your Encore Step, you may pay cost. If you do, deal 1 damage to your opponent. AUTO - CHANGE [Send this to Waiting Room] At the start of your Draw Phase, you may pay cost. If you do, choose up to 1 <Uma Musume> character in your Waiting Room, place it on stage in this card's former slot, and this turn, it gets +3000 power.",
+"image": "https://www.encoredecks.com/images/JP/W119/030.gif"
+},
+{
+"id": "UMA/W119-031",
+"name": "百戦錬磨の絶対王者 テイエムオペラオー",
+"franchise": "Uma Musume Pretty Derby",
+"setCode": "UMA/W119",
+"type": "Character",
+"color": "Green",
+"level": 0,
+"cost": 0,
+"power": 500,
+"soul": 1,
+"rarity": "R",
+"traits": [
+"Uma Musume"
+],
+"trigger": [],
+"text": "AUTO - When this is placed on stage from hand, this turn, this gets +1500 power. AUTO - When this is placed on stage from hand, this turn, all of your opponent's front row characters get -500 power.",
+"image": "https://www.encoredecks.com/images/JP/W119/031.gif"
+},
+{
+"id": "UMA/W119-032",
+"name": "頂きへの道 ナリタトップロード",
+"franchise": "Uma Musume Pretty Derby",
+"setCode": "UMA/W119",
+"type": "Character",
+"color": "Green",
+"level": 0,
+"cost": 0,
+"power": 1500,
+"soul": 1,
+"rarity": "R",
+"traits": [
+"Uma Musume"
+],
+"trigger": [],
+"text": "ACT - [Rest this] If you have 4 or more other <Uma Musume> character, draw 1 card, then discard 1 card. ACT - BRAINSTORM [(1) Rest this] Flip over the top 4 cards of your deck, then send them to Waiting Room. For each CX among them, search your deck for up to 1 <Uma Musume> character, show it to your opponent, add it to hand, and shuffle your deck afterwards.",
+"image": "https://www.encoredecks.com/images/JP/W119/032.gif"
+},
+{
+"id": "UMA/W119-033",
+"name": "世紀末覇王 テイエムオペラオー",
+"franchise": "Uma Musume Pretty Derby",
+"setCode": "UMA/W119",
+"type": "Character",
+"color": "Green",
+"level": 0,
+"cost": 0,
+"power": 2000,
+"soul": 1,
+"rarity": "R",
+"traits": [
+"Uma Musume"
+],
+"trigger": [],
+"text": "AUTO - (1) When your CX is placed on the CX Area, you may pay cost. If you do, look at up to 4 cards from the top of your deck, choose up to 1 <Uma Musume> character from among them, show it to your opponent, add it to hand, and send the rest to Waiting Room. AUTO - INHERITANCE When your other character is placed on stage from hand, if that character does not have a Marker underneath it, you may choose up to 1 Marker underneath this and this card, you may place them underneath that card face-up as Markers in any order. If you do, send the rest of the Markers to Waiting Room.",
+"image": "https://www.encoredecks.com/images/JP/W119/033.gif"
+},
+{
+"id": "UMA/W119-034",
+"name": "トレセン学園 アグネスタキオン",
+"franchise": "Uma Musume Pretty Derby",
+"setCode": "UMA/W119",
+"type": "Character",
+"color": "Green",
+"level": 0,
+"cost": 0,
+"power": 2000,
+"soul": 1,
+"rarity": "R",
+"traits": [
+"Uma Musume"
+],
+"trigger": [],
+"text": "AUTO - [Send 1 of your other <Uma Musume> characters on stage to Waiting Room] At the end of this card's attack, you may pay cost. If you do, move this to an open position in your back row. AUTO - INHERITANCE When your other character is placed on stage from hand, if that character does not have a Marker underneath it, you may choose up to 1 Marker underneath this and this card, you may place them underneath that card face-up as Markers in any order. If you do, send the rest of the Markers to Waiting Room.",
+"image": "https://www.encoredecks.com/images/JP/W119/034.gif"
+},
+{
+"id": "UMA/W119-035",
+"name": "頂きへの道 テイエムオペラオー",
+"franchise": "Uma Musume Pretty Derby",
+"setCode": "UMA/W119",
+"type": "Character",
+"color": "Green",
+"level": 1,
+"cost": 0,
+"power": 4000,
+"soul": 1,
+"rarity": "R",
+"traits": [
+"Uma Musume"
+],
+"trigger": [],
+"text": "CONT - If you have 2 or more other <Uma Musume> characters, this gets +2000 power. AUTO - {CX Combo} [Discard 1 card] When this attacks, if you have the Bar CX (053) in your CX Area, and you have 2 or more other <Uma Musume> characters, you may pay cost. If you do, choose 1 <Uma Musume> character in your Waiting Room, add it to hand, and until the end of your opponent's next turn, this gains the following ability, \"CONT - During your opponent's turn, this cannot be Reversed.\"",
+"image": "https://www.encoredecks.com/images/JP/W119/035.gif"
+},
+{
+"id": "UMA/W119-036",
+"name": "頂きへの道 メイショウドトウ",
+"franchise": "Uma Musume Pretty Derby",
+"setCode": "UMA/W119",
+"type": "Character",
+"color": "Green",
+"level": 2,
+"cost": 1,
+"power": 3000,
+"soul": 1,
+"rarity": "R",
+"traits": [
+"Uma Musume"
+],
+"trigger": [
+"SOUL"
+],
+"text": "AUTO - [(2) Discard 1 <Uma Musume> character] When you use this card's BACKUP, you may pay cost. If you do, choose 1 of your opponent's characters, this turn, it gets -2 Souls. ACT - BACKUP +2500",
+"image": "https://www.encoredecks.com/images/JP/W119/036.gif"
+},
+{
+"id": "UMA/W119-037",
+"name": "狂気の光 アグネスタキオン",
+"franchise": "Uma Musume Pretty Derby",
+"setCode": "UMA/W119",
+"type": "Character",
+"color": "Green",
+"level": 3,
+"cost": 2,
+"power": 9000,
+"soul": 2,
+"rarity": "R",
+"traits": [
+"Uma Musume"
+],
+"trigger": [
+"SOUL"
+],
+"text": "CONT - If you have 2 or less CXes in your Waiting Room, this gets -1 Level in hand. CONT - During your turn, if you have another <Uma Musume> character, this gets +3000 power. AUTO - [(1) Discard 2 <Uma Musume> characters] This ability activates up to once per turn. During the turn this was placed on stage from hand, when this card's battle opponent is Reversed, you may pay cost. If you do, Stand this.",
+"image": "https://www.encoredecks.com/images/JP/W119/037.gif"
+},
+{
+"id": "UMA/W119-038",
+"name": "負けられない戦い メイショウドトウ",
+"franchise": "Uma Musume Pretty Derby",
+"setCode": "UMA/W119",
+"type": "Character",
+"color": "Green",
+"level": 0,
+"cost": 0,
+"power": 2000,
+"soul": 1,
+"rarity": "U",
+"traits": [
+"Uma Musume"
+],
+"trigger": [],
+"text": "AUTO - When this direct attacks, this turn, this gets +1 Soul. AUTO - [(1) Send this to Waiting Room] When your other <Uma Musume> character is Front Attacked, you may pay cost. If you do, return that character to hand.",
+"image": "https://www.encoredecks.com/images/JP/W119/038.gif"
+},
+{
+"id": "UMA/W119-039",
+"name": "可能性の探究 アグネスタキオン",
+"franchise": "Uma Musume Pretty Derby",
+"setCode": "UMA/W119",
+"type": "Character",
+"color": "Green",
+"level": 1,
+"cost": 0,
+"power": 4500,
+"soul": 1,
+"rarity": "U",
+"traits": [
+"Uma Musume"
+],
+"trigger": [],
+"text": "AUTO - (1) When this is placed on stage from hand, you may pay cost. If you do, discard any number of cards in your hand, then draw X cards. X is equal to the number of cards discarded by this effect.",
+"image": "https://www.encoredecks.com/images/JP/W119/039.gif"
+},
+{
+"id": "UMA/W119-040",
+"name": "覇王の意地 テイエムオペラオー",
+"franchise": "Uma Musume Pretty Derby",
+"setCode": "UMA/W119",
+"type": "Character",
+"color": "Green",
+"level": 2,
+"cost": 1,
+"power": 4000,
+"soul": 1,
+"rarity": "U",
+"traits": [
+"Uma Musume"
+],
+"trigger": [
+"SOUL"
+],
+"text": "CONT - If you have 4 or more <Uma Musume> characters, this gets -1 Level in hand. CONT - If this is in your front row center slot, this gets +6000 power. AUTO - When this card's battle opponent is Reversed, if you have a CX in your CX Area, you may send that character to the top of your opponent's deck.",
+"image": "https://www.encoredecks.com/images/JP/W119/040.gif"
+},
+{
+"id": "UMA/W119-041",
+"name": "ルームメイト ナリタトップロード",
+"franchise": "Uma Musume Pretty Derby",
+"setCode": "UMA/W119",
+"type": "Character",
+"color": "Green",
+"level": 2,
+"cost": 1,
+"power": 5000,
+"soul": 1,
+"rarity": "U",
+"traits": [
+"Uma Musume"
+],
+"trigger": [
+"SOUL"
+],
+"text": "CONT - ASSIST +2000 to Level 3 or higher characters. ACT - [Rest this] Look at up to 2 cards from the top of your opponent's deck, and put them back on top in any order.",
+"image": "https://www.encoredecks.com/images/JP/W119/041.gif"
+},
+{
+"id": "UMA/W119-042",
+"name": "プランB アグネスタキオン",
+"franchise": "Uma Musume Pretty Derby",
+"setCode": "UMA/W119",
+"type": "Character",
+"color": "Green",
+"level": 2,
+"cost": 1,
+"power": 7000,
+"soul": 1,
+"rarity": "U",
+"traits": [
+"Uma Musume"
+],
+"trigger": [
+"SOUL"
+],
+"text": "CONT - During your turn, if you have 2 or more other <Uma Musume> characters, this gets +4000 power. AUTO - {CX Combo} When this attacks, if you have the Bar CX (054) in your CX Area, during this attack this gets +2000 power, and during the Trigger Step, perform Trigger Check twice.",
+"image": "https://www.encoredecks.com/images/JP/W119/042.gif"
+},
+{
+"id": "UMA/W119-043",
+"name": "私のライブ アグネスタキオン",
+"franchise": "Uma Musume Pretty Derby",
+"setCode": "UMA/W119",
+"type": "Character",
+"color": "Green",
+"level": 0,
+"cost": 0,
+"power": 1000,
+"soul": 1,
+"rarity": "C",
+"traits": [
+"Uma Musume"
+],
+"trigger": [],
+"text": "AUTO - When this is placed on stage from hand, this turn, this gets +3000 power. AUTO - [Discard 1 CX] When this is placed on stage from hand, you may pay cost. If you do, choose 1 <Uma Musume> character from your Waiting Room, and add it to hand.",
+"image": "https://www.encoredecks.com/images/JP/W119/043.gif"
+},
+{
+"id": "UMA/W119-044",
+"name": "写真撮影 アドマイヤベガ＆カレンチャン",
+"franchise": "Uma Musume Pretty Derby",
+"setCode": "UMA/W119",
+"type": "Character",
+"color": "Green",
+"level": 0,
+"cost": 0,
+"power": 1500,
+"soul": 1,
+"rarity": "C",
+"traits": [
+"Uma Musume"
+],
+"trigger": [],
+"text": "AUTO - When this is placed on stage from hand, this turn, this gets +4500 power.",
+"image": "https://www.encoredecks.com/images/JP/W119/044.gif"
+},
+{
+"id": "UMA/W119-045",
+"name": "データ収集 アグネスタキオン",
+"franchise": "Uma Musume Pretty Derby",
+"setCode": "UMA/W119",
+"type": "Character",
+"color": "Green",
+"level": 0,
+"cost": 0,
+"power": 2500,
+"soul": 1,
+"rarity": "C",
+"traits": [
+"Uma Musume"
+],
+"trigger": [],
+"text": "AUTO - When a CX is placed in your CX Area, reveal the top card of your deck. If that card is a Level 0 or lower character, send it to Stock.",
+"image": "https://www.encoredecks.com/images/JP/W119/045.gif"
+},
+{
+"id": "UMA/W134-001",
+"name": "“剛毅朴訥武道少女”ヤエノムテキ",
+"franchise": "Uma Musume: Cinderella Gray",
+"setCode": "UMA/W134",
+"type": "Character",
+"color": "Yellow",
+"level": 0,
+"cost": 0,
+"power": 1000,
+"soul": 1,
+"rarity": "RR",
+"traits": [
+"Uma Musume",
+"Cinderella Gray"
+],
+"trigger": [],
+"text": "AUTO - When this is Reversed, if the battle opponent's level is 0 or lower, you may send that character to Stock. If you do, put the bottom card of your opponent's Stock into Waiting Room. AUTO - When this is sent from Stage to Waiting Room, look at up to 3 cards from the top of your deck, choose up to 1 CX from among them, add it to hand, and send the rest to Waiting Room. If you added a card to hand, discard 1 card.",
+"image": "https://www.encoredecks.com/images/JP/UMA/W134/001.png"
+},
+{
+"id": "UMA/W134-002",
+"name": "“灰被りの少女”オグリキャップ",
+"franchise": "Uma Musume: Cinderella Gray",
+"setCode": "UMA/W134",
+"type": "Character",
+"color": "Yellow",
+"level": 1,
+"cost": 0,
+"power": 2000,
+"soul": 1,
+"rarity": "RR",
+"traits": [
+"Uma Musume",
+"Cinderella Gray"
+],
+"trigger": [
+"SOUL"
+],
+"text": "CONT - If all of your characters are <Uma Musume>, this gets +4000 power. AUTO - {CX Combo} EXPERIENCE 1 - When the Choice CX (031) is placed in your CX Area, if the sum of Levels of cards in your Level Zone is 1 or more, and you have another <Uma Musume> character, choose 1 of your characters, this turn, it gains the following ability, \"AUTO - When this card's battle opponent is Reversed, look at up to 4 cards from the top of your deck, choose up to 2 level 1 or higher cards from among them, show them to your opponent, choose 1 add it to hand, choose 1 send it Stock, send the rest to Waiting Room.\" *Note: Has a Soul Trigger",
+"image": "https://www.encoredecks.com/images/JP/UMA/W134/002.png"
+},
+{
+"id": "UMA/W134-003",
+"name": "“栗毛の弾丸”ディクタストライカ",
+"franchise": "Uma Musume: Cinderella Gray",
+"setCode": "UMA/W134",
+"type": "Character",
+"color": "Yellow",
+"level": 3,
+"cost": 2,
+"power": 7000,
+"soul": 2,
+"rarity": "RR",
+"traits": [
+"Uma Musume",
+"Cinderella Gray"
+],
+"trigger": [
+"SOUL"
+],
+"text": "CONT - If you have 2 or less or 6 or more CXes in your Waiting Room, this gets -1 Level in hand. CONT - If you have 2 or more other <Uma Musume> characters, this gets +4000 power. AUTO - EXPERIENCE 3 [Discard 1 card] When this is placed on stage from hand, if the sum of Levels of cards in your Level Zone is 3 or more, heal up to 1, then you may pay cost. If you paid cost, choose 1 of your opponent's characters, return it to hand.",
+"image": "https://www.encoredecks.com/images/JP/UMA/W134/003.png"
+},
+{
+"id": "UMA/W134-004",
+"name": "“カサマツトレセン学園”ノルンエース",
+"franchise": "Uma Musume: Cinderella Gray",
+"setCode": "UMA/W134",
+"type": "Character",
+"color": "Yellow",
+"level": 0,
+"cost": 0,
+"power": 2000,
+"soul": 1,
+"rarity": "R",
+"traits": [
+"Uma Musume",
+"Cinderella Gray"
+],
+"trigger": [],
+"text": "AUTO - {CX Combo} At the start of your CX Phase, choose 1 {Shot CX - 032} in your hand, and 1 CX with a Shot Trigger in your Waiting Room, you may swap them. ACT - BRAINSTORM [(1) Rest this] Flip over the top 4 cards of your deck, then send them to Waiting Room. For each Shot CX among them, search your deck for up to 1 <Uma Musume> character, show it to your opponent, add it to hand, and shuffle your deck afterwards.",
+"image": "https://www.encoredecks.com/images/JP/UMA/W134/004.png"
+},
+{
+"id": "UMA/W134-005",
+"name": "“カサマツトレセン学園”オグリキャップ",
+"franchise": "Uma Musume: Cinderella Gray",
+"setCode": "UMA/W134",
+"type": "Character",
+"color": "Yellow",
+"level": 0,
+"cost": 0,
+"power": 2500,
+"soul": 1,
+"rarity": "R",
+"traits": [
+"Uma Musume",
+"Cinderella Gray"
+],
+"trigger": [],
+"text": "ACT - [Discard 1 card, Send this to Waiting Room] Choose up to 1 character with \"Oguri Cap\" in its name in your hand whose Level is equal to or lower than your Level, and place it on stage in this card's former slot.",
+"image": "https://www.encoredecks.com/images/JP/UMA/W134/005.png"
+},
+{
+"id": "UMA/W134-006",
+"name": "“不撓不屈”オグリキャップ",
+"franchise": "Uma Musume: Cinderella Gray",
+"setCode": "UMA/W134",
+"type": "Character",
+"color": "Yellow",
+"level": 0,
+"cost": 0,
+"power": 3000,
+"soul": 1,
+"rarity": "R",
+"traits": [
+"Uma Musume",
+"Cinderella Gray"
+],
+"trigger": [],
+"text": "CONT - This cannot side attack. AUTO - When this card's battle opponent is Reversed, choose 1 of your other <Uma Musume> characters, Rest it, and move it to an empty Back Row slot.",
+"image": "https://www.encoredecks.com/images/JP/UMA/W134/006.png"
+},
+{
+"id": "UMA/W134-007",
+"name": "“一番の選択”オグリキャップ",
+"franchise": "Uma Musume: Cinderella Gray",
+"setCode": "UMA/W134",
+"type": "Character",
+"color": "Yellow",
+"level": 1,
+"cost": 0,
+"power": 1500,
+"soul": 1,
+"rarity": "R",
+"traits": [
+"Uma Musume",
+"Cinderella Gray"
+],
+"trigger": [
+"SOUL"
+],
+"text": "CONT - During your turn, this gets +5000 power. AUTO - {CX Combo} When this attacks, if you have the Shot CX (033) in your CX Area, and you have another <Uma Musume> character, until the end of your opponent's next turn, this gains the following 2 abilities, - \"AUTO - {1 Per Turn} When this card's damage is cancelled, choose {3/2 Fujimasa March - 011} in your Waiting Room, you may add it to hand.\" - \"AUTO - When this is Front Attacked, you may return this to hand.\" *Note: Has a Soul Trigger",
+"image": "https://www.encoredecks.com/images/JP/UMA/W134/007.png"
+},
+{
+"id": "UMA/W134-008",
+"name": "“デビュー”オグリキャップ",
+"franchise": "Uma Musume: Cinderella Gray",
+"setCode": "UMA/W134",
+"type": "Character",
+"color": "Yellow",
+"level": 1,
+"cost": 0,
+"power": 2500,
+"soul": 1,
+"rarity": "R",
+"traits": [
+"Uma Musume",
+"Cinderella Gray"
+],
+"trigger": [
+"SOUL"
+],
+"text": "CONT - EXPERIENCE 1 - During your turn, if the sum of Levels of cards in your Level Zone is 1 or more, this gets +4500 power. AUTO - [(1) Discard 1 card, Rest 1 of your other Standing <Uma Musume> characters] During the turn this is placed on stage from hand, when this card's battle opponent is Reversed, you may pay cost. If you do, choose up to 2  <Uma Musume> characters in your Waiting Room, add them to hand. *Note: Has a Soul Trigger",
+"image": "https://www.encoredecks.com/images/JP/UMA/W134/008.png"
+},
+{
+"id": "UMA/W134-009",
+"name": "“カサマツトレセン学園”ベルノライト",
+"franchise": "Uma Musume: Cinderella Gray",
+"setCode": "UMA/W134",
+"type": "Character",
+"color": "Yellow",
+"level": 2,
+"cost": 1,
+"power": 3500,
+"soul": 1,
+"rarity": "R",
+"traits": [
+"Uma Musume",
+"Cinderella Gray"
+],
+"trigger": [
+"SOUL"
+],
+"text": "CONT - {CX Combo} All of your other {RR 0/0 Belno Light - 073} and {Choice CX for 1/0 Oguri Cap - 031} in any area gains a Soul Trigger. CONT - ASSIST Level x 1000 During your turn. AUTO - EXPERIENCE - If this is in your Level Zone, at the start of your Attack Phase, choose 1 of your <Uma Musume> characters, this turn, it gains the following ability, \"AUTO - When this card's battle opponent is Reversed, choose 1 <Uma Musume> character in your Waiting Room, add it to hand, then discard 1 card.\"",
+"image": "https://www.encoredecks.com/images/JP/UMA/W134/009.png"
+},
+{
+"id": "UMA/W134-010",
+"name": "“その名は”オグリキャップ",
+"franchise": "Uma Musume: Cinderella Gray",
+"setCode": "UMA/W134",
+"type": "Character",
+"color": "Yellow",
+"level": 3,
+"cost": 2,
+"power": 9500,
+"soul": 2,
+"rarity": "R",
+"traits": [
+"Uma Musume",
+"Cinderella Gray"
+],
+"trigger": [
+"SOUL"
+],
+"text": "AUTO - When this is placed on stage from hand, this turn, this gets +X power. X equals the number of your <Uma Musume> characters times 1000. AUTO - {1 Per Turn} [(2) Discard 1 card] During the turn this was placed on stage from hand, when this card's battle opponent is Reversed, you may pay cost. If you do, send all of your Stock to Waiting Room, then Stand this.",
+"image": "https://www.encoredecks.com/images/JP/UMA/W134/010.png"
+},
+{
+"id": "UMA/W134-011",
+"name": "“カサマツトレセン学園”フジマサマーチ",
+"franchise": "Uma Musume: Cinderella Gray",
+"setCode": "UMA/W134",
+"type": "Character",
+"color": "Yellow",
+"level": 3,
+"cost": 2,
+"power": 10000,
+"soul": 2,
+"rarity": "R",
+"traits": [
+"Uma Musume",
+"Cinderella Gray"
+],
+"trigger": [
+"SOUL"
+],
+"text": "AUTO - When this is placed on stage from hand, you may Heal 1. AUTO - {CX Combo} [Discard 1 card] When this attacks, if you have the Shot CX (034) in your CX Area, and you have 2 or more other <Uma Musume> characters, you may pay cost. If you do, choose 1 of your characters, this turn, it gains the following ability, \"AUTO - {1 Per Turn} When this card's damage is cancelled, you may deal 2 damage to your opponent. If that damage is cancelled, you may deal 2 damage to your opponent.\"",
+"image": "https://www.encoredecks.com/images/JP/UMA/W134/011.png"
+},
+{
+"id": "UMA/W134-012",
+"name": "“カサマツ音頭”オグリキャップ",
+"franchise": "Uma Musume: Cinderella Gray",
+"setCode": "UMA/W134",
+"type": "Character",
+"color": "Yellow",
+"level": 0,
+"cost": 0,
+"power": 500,
+"soul": 1,
+"rarity": "U",
+"traits": [
+"Uma Musume",
+"Cinderella Gray"
+],
+"trigger": [],
+"text": "AUTO - When this is placed on stage from hand, choose 1 of your <Uma Musume> characters, this turn, it gets +3000 power. AUTO - [Shuffle 2 <Uma Musume> characters from your Waiting Room into your deck] When this is placed on stage from hand, you may pay cost. If you do, choose 1 of your <Uma Musume> characters, this turn, it gets +1 soul.",
+"image": "https://www.encoredecks.com/images/JP/UMA/W134/012.png"
+},
+{
+"id": "UMA/W134-013",
+"name": "“デレが顕著”ノルンエース",
+"franchise": "Uma Musume: Cinderella Gray",
+"setCode": "UMA/W134",
+"type": "Character",
+"color": "Yellow",
+"level": 0,
+"cost": 0,
+"power": 500,
+"soul": 1,
+"rarity": "U",
+"traits": [
+"Uma Musume",
+"Cinderella Gray"
+],
+"trigger": [],
+"text": "AUTO - BOND [Discard 1 card] to {RR 1/0 Oguri Cap - 002} or {R 1/0 Oguri Cap - 007} ACT - [(1) Send this to Waiting Room] Look at up to 4 cards from the top of your deck, choose up to 1 <Uma Musume> character from among them, show it to your opponent, add it to hand, and send the rest to Waiting Room.",
+"image": "https://www.encoredecks.com/images/JP/UMA/W134/013.png"
+},
+{
+"id": "UMA/W134-014",
+"name": "“登るべき頂”フジマサマーチ",
+"franchise": "Uma Musume: Cinderella Gray",
+"setCode": "UMA/W134",
+"type": "Character",
+"color": "Yellow",
+"level": 0,
+"cost": 0,
+"power": 1000,
+"soul": 1,
+"rarity": "U",
+"traits": [
+"Uma Musume",
+"Cinderella Gray"
+],
+"trigger": [],
+"text": "AUTO - When this is placed on stage from hand, this turn, this gets +3000 power. AUTO - When this is Reversed, if you have 4 or more hand, reveal the top card of your deck. If that card has a Soul Trigger, you may return this to hand.",
+"image": "https://www.encoredecks.com/images/JP/UMA/W134/014.png"
+},
+{
+"id": "UMA/W134-015",
+"name": "“ルドルフの理解者”マルゼンスキー",
+"franchise": "Uma Musume: Cinderella Gray",
+"setCode": "UMA/W134",
+"type": "Character",
+"color": "Yellow",
+"level": 0,
+"cost": 0,
+"power": 1000,
+"soul": 1,
+"rarity": "U",
+"traits": [
+"Uma Musume",
+"Cinderella Gray"
+],
+"trigger": [],
+"text": "AUTO - BOND [Discard 1 card] to {RR 2/1 Sakura Chiyono O - 055} or {U 0/0 Sakura Chiyono O - 062} AUTO - INHERITANCE When your other character is placed on stage from hand, if that character does not have a Marker underneath it, you may choose up to 1 Marker underneath this and this card, you may place them underneath that card face-up as Markers in any order. If you do, send the rest of the Markers to Waiting Room.",
+"image": "https://www.encoredecks.com/images/JP/UMA/W134/015.png"
+},
+{
+"id": "UMA/W134-016",
+"name": "“スーパーカー”マルゼンスキー",
+"franchise": "Uma Musume: Cinderella Gray",
+"setCode": "UMA/W134",
+"type": "Character",
+"color": "Yellow",
+"level": 0,
+"cost": 0,
+"power": 2000,
+"soul": 1,
+"rarity": "U",
+"traits": [
+"Uma Musume",
+"Cinderella Gray"
+],
+"trigger": [],
+"text": "CONT - During your turn, if you have 4 or more hand, this gets +1500 power. AUTO - [(1) Discard 1 card] When this is placed on stage from hand, you may pay cost. If you do, choose 1 <Uma Musume> character from your Waiting Room, add it to hand, then choose 1 of your other <Uma Musume> characters, this turn, it gains the following ability, \"AUTO - When this attacks, look at up to 2 cards from the top of your deck, choose 1 card among them, put it back on top of your deck, and send the rest to Waiting Room.\"",
+"image": "https://www.encoredecks.com/images/JP/UMA/W134/016.png"
+},
+{
+"id": "UMA/W134-017",
+"name": "“期待の星”フジマサマーチ",
+"franchise": "Uma Musume: Cinderella Gray",
+"setCode": "UMA/W134",
+"type": "Character",
+"color": "Yellow",
+"level": 1,
+"cost": 0,
+"power": 2500,
+"soul": 1,
+"rarity": "U",
+"traits": [
+"Uma Musume",
+"Cinderella Gray"
+],
+"trigger": [
+"SOUL"
+],
+"text": "CONT - EXPERIENCE 1 - During your turn, if the sum of Levels of cards in your Level Zone is 1 or more, this gets +4500 power. AUTO - [(1) Discard 1 CX] When this is placed on stage from hand, you may pay cost. If you do, choose 1 CX from your Waiting Room, and add it to hand. *Note: Has a Soul Trigger",
+"image": "https://www.encoredecks.com/images/JP/UMA/W134/017.png"
+},
+{
+"id": "UMA/W134-018",
+"name": "“イタズラ好き”ミニーザレディ",
+"franchise": "Uma Musume: Cinderella Gray",
+"setCode": "UMA/W134",
+"type": "Character",
+"color": "Yellow",
+"level": 1,
+"cost": 0,
+"power": 4000,
+"soul": 1,
+"rarity": "U",
+"traits": [
+"Uma Musume",
+"Cinderella Gray"
+],
+"trigger": [],
+"text": "CONT - During your turn, all of your other <Uma Musume> characters get +1000 power. ACT - [Discard 1 card, Rest this] If you have another {R 0/0 Norn Ace - 013}, choose 1 Yellow character in your Waiting Room, add it to hand.",
+"image": "https://www.encoredecks.com/images/JP/UMA/W134/018.png"
+},
+{
+"id": "UMA/W134-019",
+"name": "“食べ放題”オグリキャップ",
+"franchise": "Uma Musume: Cinderella Gray",
+"setCode": "UMA/W134",
+"type": "Character",
+"color": "Yellow",
+"level": 2,
+"cost": 1,
+"power": 1000,
+"soul": 1,
+"rarity": "U",
+"traits": [
+"Uma Musume",
+"Cinderella Gray"
+],
+"trigger": [
+"SOUL"
+],
+"text": "AUTO - [(1) Send 1 of your <Uma Musume> characters from stage to Waiting Room] When you use this card's BACKUP, you may pay cost. If you do, choose 1 of your opponent's characters whose Level is higher than your opponent's Level, and send it to their Stock. ACT - BACKUP +2500",
+"image": "https://www.encoredecks.com/images/JP/UMA/W134/019.png"
+},
+{
+"id": "UMA/W134-020",
+"name": "“ウワサに聞く『都会』”オグリキャップ",
+"franchise": "Uma Musume: Cinderella Gray",
+"setCode": "UMA/W134",
+"type": "Character",
+"color": "Yellow",
+"level": 0,
+"cost": 0,
+"power": 1500,
+"soul": 1,
+"rarity": "C",
+"traits": [
+"Uma Musume",
+"Cinderella Gray"
+],
+"trigger": [],
+"text": "AUTO - When this is placed on stage from hand, look at the top card of your deck, and put it on top or bottom of your deck. AUTO - [Put 1 <Uma Musume> character from hand into Clock] When this is placed on stage from hand, you may pay cost. If you do, look at up to X cards from the top of your deck, choose up to 1 card from among them, add it to hand, and send the rest to Waiting Room. X equals the number of your opponent's characters.",
+"image": "https://www.encoredecks.com/images/JP/UMA/W134/020.png"
+},
+{
+"id": "UMA/W134-021",
+"name": "“史上三人目の三冠ウマ娘”ミスターシービー",
+"franchise": "Uma Musume: Cinderella Gray",
+"setCode": "UMA/W134",
+"type": "Character",
+"color": "Yellow",
+"level": 0,
+"cost": 0,
+"power": 2500,
+"soul": 1,
+"rarity": "C",
+"traits": [
+"Uma Musume",
+"Cinderella Gray"
+],
+"trigger": [],
+"text": "ACT - [Discard 1 card, send this to the bottom of your deck] Search your deck for up to 1 <Uma Musume> character, show it to your opponent, add it to hand, and shuffle your deck afterwards.",
+"image": "https://www.encoredecks.com/images/JP/UMA/W134/021.png"
+},
+{
+"id": "UMA/W134-022",
+"name": "“血気盛んな一面”ヤエノムテキ",
+"franchise": "Uma Musume: Cinderella Gray",
+"setCode": "UMA/W134",
+"type": "Character",
+"color": "Yellow",
+"level": 1,
+"cost": 0,
+"power": 3500,
+"soul": 1,
+"rarity": "C",
+"traits": [
+"Uma Musume",
+"Cinderella Gray"
+],
+"trigger": [],
+"text": "AUTO - When a CX is placed in your CX Area, this turn, this gets +4500 power. AUTO - (1) At the start of Encore Step, if you do not have any other Rested characters in your Front Row, you may pay cost. If you do, Rest this.",
+"image": "https://www.encoredecks.com/images/JP/UMA/W134/022.png"
+},
+{
+"id": "UMA/W134-023",
+"name": "“憧れの学園生活”ベルノライト",
+"franchise": "Uma Musume: Cinderella Gray",
+"setCode": "UMA/W134",
+"type": "Character",
+"color": "Yellow",
+"level": 1,
+"cost": 1,
+"power": 1000,
+"soul": 1,
+"rarity": "C",
+"traits": [
+"Uma Musume",
+"Cinderella Gray"
+],
+"trigger": [
+"SOUL"
+],
+"text": "AUTO - When you use this card's BACKUP, if all of your characters are <Uma Musume>, choose 1 level 1 or lower character in your Waiting Room, you may send it to the bottom of your Stock. ACT - BACKUP +2000",
+"image": "https://www.encoredecks.com/images/JP/UMA/W134/023.png"
+},
+{
+"id": "UMA/W134-024",
+"name": "“私のデビュー戦”ベルノライト",
+"franchise": "Uma Musume: Cinderella Gray",
+"setCode": "UMA/W134",
+"type": "Character",
+"color": "Yellow",
+"level": 1,
+"cost": 1,
+"power": 2500,
+"soul": 1,
+"rarity": "C",
+"traits": [
+"Uma Musume",
+"Cinderella Gray"
+],
+"trigger": [
+"SOUL"
+],
+"text": "AUTO - When this is Reversed, if the battle opponent's Level is higher than your opponent's Level, you may send that character to Stock. If you do, send the bottom card of your opponent's Stock to Waiting Room. AUTO - EXPERIENCE - If this is in your Level Zone, at the start of your Attack Phase, choose 1 of your <Uma Musume> characters, until the end of your opponent's next turn, it gains \"AUTO - ENCORE [Put 1 <Uma Musume> character from your Waiting Room on the bottom of your Clock]\"",
+"image": "https://www.encoredecks.com/images/JP/UMA/W134/024.png"
+},
+{
+"id": "UMA/W134-025",
+"name": "“身内に甘い”ルディレモーノ",
+"franchise": "Uma Musume: Cinderella Gray",
+"setCode": "UMA/W134",
+"type": "Character",
+"color": "Yellow",
+"level": 1,
+"cost": 1,
+"power": 3500,
+"soul": 1,
+"rarity": "C",
+"traits": [
+"Uma Musume",
+"Cinderella Gray"
+],
+"trigger": [
+"SOUL"
+],
+"text": "AUTO - When this is placed on stage from hand, if you have another {R 0/0 Norn Ace - 013} and {1/0 Mini The Lady - 018}, choose 1 <Uma Musume> character in your Waiting Room, you may send it to Stock. AUTO - When this is placed on stage from hand, this turn, this gets +X power. X equals the number of your opponent's characters times 1000. AUTO - (1) When this attacks, you may pay cost. If you do, during the Trigger Step of this attack, perform Trigger Check twice",
+"image": "https://www.encoredecks.com/images/JP/UMA/W134/025.png"
+},
+{
+"id": "UMA/W134-026",
+"name": "“私達の夢”オグリキャップ",
+"franchise": "Uma Musume: Cinderella Gray",
+"setCode": "UMA/W134",
+"type": "Character",
+"color": "Yellow",
+"level": 2,
+"cost": 1,
+"power": 4000,
+"soul": 1,
+"rarity": "C",
+"traits": [
+"Uma Musume",
+"Cinderella Gray"
+],
+"trigger": [
+"SOUL"
+],
+"text": "CONT - EXPERIENCE 3 - If the sum of Levels of cards in your Level Zone is 3 or more, this gets +2500 power and \"AUTO - ENCORE [Discard 1 <Uma Musume> character]\" AUTO - When this attacks, this turn, this gets +X power. X equals the number of your opponent's characters times 1500.",
+"image": "https://www.encoredecks.com/images/JP/UMA/W134/026.png"
+},
+{
+"id": "UMA/W134-027",
+"name": "“ここで走る決意”フジマサマーチ",
+"franchise": "Uma Musume: Cinderella Gray",
+"setCode": "UMA/W134",
+"type": "Character",
+"color": "Yellow",
+"level": 2,
+"cost": 1,
+"power": 4000,
+"soul": 1,
+"rarity": "C",
+"traits": [
+"Uma Musume",
+"Cinderella Gray"
+],
+"trigger": [
+"SOUL"
+],
+"text": "CONT - During your turn, for each of your other <Uma Musume> characters, this gets +2000 power. AUTO - When this is placed on stage from hand, if you have 2 or more other <Uma Musume> characters, you may draw 2 cards. If you do, discard 2 cards. AUTO - When this card's battle opponent is Reversed, if you have a CX with a Shot Trigger in your CX Area, choose 1 {R 3/2 Fujimasa March - 011} in your Waiting Room, you may add it to hand.",
+"image": "https://www.encoredecks.com/images/JP/UMA/W134/027.png"
+},
+{
+"id": "UMA/W134-028",
+"name": "“学年のエース”ディクタストライカ",
+"franchise": "Uma Musume: Cinderella Gray",
+"setCode": "UMA/W134",
+"type": "Character",
+"color": "Yellow",
+"level": 2,
+"cost": 1,
+"power": 6000,
+"soul": 1,
+"rarity": "C",
+"traits": [
+"Uma Musume",
+"Cinderella Gray"
+],
+"trigger": [
+"SOUL"
+],
+"text": "AUTO - When this attacks, if the Level of the character across from this is 3 or higher, this turn, this gets +7000 power and +1 soul. AUTO - EXPERIENCE - If this is in your Level Zone, at the start of your Attack Phase, choose 1 of your <Uma Musume> characters, this turn, it gains the following ability, \"AUTO - When this card's battle opponent is Reversed, you may send it to Memory.\"",
+"image": "https://www.encoredecks.com/images/JP/UMA/W134/028.png"
+},
+{
+"id": "UMA/W134-029",
+"name": "“トレーナー”北原 穣",
+"franchise": "Uma Musume: Cinderella Gray",
+"setCode": "UMA/W134",
+"type": "Event",
+"color": "Yellow",
+"level": 1,
+"cost": 0,
+"power": 0,
+"soul": 0,
+"rarity": "U",
+"traits": [],
+"trigger": [],
+"text": "If you have an <Uma Musume> character, Mill 4, choose up to 1 Level X or lower <Uma Musume> character from your Waiting Room, add it to hand. X equals the sum of Soul Triggers milled. AUTO - EXPERIENCE - If this is in your Level Zone, at the start of your Attack Phase, choose 1 of your <Uma Musume> characters, this turn, it gets +500.",
+"image": "https://www.encoredecks.com/images/JP/UMA/W134/029.png"
+},
+{
+"id": "UMA/W134-030",
+"name": "“走れ!!!”北原 穣",
+"franchise": "Uma Musume: Cinderella Gray",
+"setCode": "UMA/W134",
+"type": "Event",
+"color": "Yellow",
+"level": 2,
+"cost": 0,
+"power": 0,
+"soul": 0,
+"rarity": "U",
+"traits": [],
+"trigger": [],
+"text": "If you have an <Uma Musume> character, search your deck for up to 1 <Uma Musume> character, show it to your opponent, add it to hand, and shuffle your deck afterwards. AUTO - EXPERIENCE [(1) Send 1 of your {RR 1/0 Oguri Cap - 002} on stage to Waiting Room] If this is in your Level Zone, and you are Level 2 or higher, at the start of your Attack Phase, you may pay cost. If you do, choose 1 {New R 2/1 Oguri Cap - 080} in your Waiting Room, place it on stage in any slot, and this turn, it gets +1000 power.",
+"image": "https://www.encoredecks.com/images/JP/UMA/W134/030.png"
+},
+{
+"id": "UMA/W134-031",
+"name": "お前が時代を作れ！",
+"franchise": "Uma Musume: Cinderella Gray",
+"setCode": "UMA/W134",
+"type": "Climax",
+"color": "Yellow",
+"level": 0,
+"cost": 0,
+"power": 0,
+"soul": 0,
+"rarity": "CR",
+"traits": [],
+"trigger": [
+"CHOICE"
+],
+"text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。 （[CHOICE]があるキャラを1枚選び、手札に戻すかストック置場に置いてよい）",
+"image": "https://www.encoredecks.com/images/JP/UMA/W134/031.png"
+},
+{
+"id": "UMA/W134-032",
+"name": "不器用な仲直り",
+"franchise": "Uma Musume: Cinderella Gray",
+"setCode": "UMA/W134",
+"type": "Climax",
+"color": "Yellow",
+"level": 0,
+"cost": 0,
+"power": 0,
+"soul": 0,
+"rarity": "CR",
+"traits": [],
+"trigger": [
+"SOUL",
+"SHOT"
+],
+"text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。 （[SHOT]：このターン中、このカードをトリガーした攻撃キャラが次に与えるダメージがキャンセルされた時、相手に1ダメージを与える）",
+"image": "https://www.encoredecks.com/images/JP/UMA/W134/032.png"
+},
+{
+"id": "UMA/W134-033",
+"name": "ありがとう、カサマツ",
+"franchise": "Uma Musume: Cinderella Gray",
+"setCode": "UMA/W134",
+"type": "Climax",
+"color": "Yellow",
+"level": 0,
+"cost": 0,
+"power": 0,
+"soul": 0,
+"rarity": "CR",
+"traits": [],
+"trigger": [
+"SOUL",
+"SHOT"
+],
+"text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。 （[SHOT]：このターン中、このカードをトリガーした攻撃キャラが次に与えるダメージがキャンセルされた時、相手に1ダメージを与える）",
+"image": "https://www.encoredecks.com/images/JP/UMA/W134/033.png"
+},
+{
+"id": "UMA/W134-034",
+"name": "絶対に中央になど行かせない！",
+"franchise": "Uma Musume: Cinderella Gray",
+"setCode": "UMA/W134",
+"type": "Climax",
+"color": "Yellow",
+"level": 0,
+"cost": 0,
+"power": 0,
+"soul": 0,
+"rarity": "CR",
+"traits": [],
+"trigger": [
+"SOUL",
+"SHOT"
+],
+"text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。 （[SHOT]：このターン中、このカードをトリガーした攻撃キャラが次に与えるダメージがキャンセルされた時、相手に1ダメージを与える）",
+"image": "https://www.encoredecks.com/images/JP/UMA/W134/034.png"
+},
+{
+"id": "UMA/W134-035",
+"name": "“日本一のウマ娘”タマモクロス",
+"franchise": "Uma Musume: Cinderella Gray",
+"setCode": "UMA/W134",
+"type": "Character",
+"color": "Green",
+"level": 0,
+"cost": 0,
+"power": 500,
+"soul": 1,
+"rarity": "RR",
+"traits": [
+"Uma Musume",
+"Cinderella Gray"
+],
+"trigger": [],
+"text": "CONT - If this is in your front row center slot, this gets +3000 power AUTO - [(1) Put 1 <Uma Musume> character from your Waiting Room on the bottom of your Clock] When this is placed on stage from hand, you may pay cost. If you do, search your deck for up to 1 Level 1 or lower character, show it to your opponent, add it to hand, and shuffle your deck afterwards.",
+"image": "https://www.encoredecks.com/images/JP/UMA/W134/035.png"
+},
+{
+"id": "UMA/W134-036",
+"name": "“アメリカからの刺客”オベイユアマスター",
+"franchise": "Uma Musume: Cinderella Gray",
+"setCode": "UMA/W134",
+"type": "Character",
+"color": "Green",
+"level": 3,
+"cost": 2,
+"power": 10000,
+"soul": 2,
+"rarity": "RR",
+"traits": [
+"Uma Musume",
+"Cinderella Gray"
+],
+"trigger": [
+"SOUL"
+],
+"text": "CONT - This card can be played without meeting Color requirement. AUTO - (1) When this is placed on stage from hand, you may pay cost. If you do, your opponent sends all of their Stock to Waiting Room, then puts an equal number of cards from the top of their deck into Stock.",
+"image": "https://www.encoredecks.com/images/JP/UMA/W134/036.png"
+},
+{
+"id": "UMA/W134-037",
+"name": "“芦毛のウマ娘”タマモクロス",
+"franchise": "Uma Musume: Cinderella Gray",
+"setCode": "UMA/W134",
+"type": "Character",
+"color": "Green",
+"level": 0,
+"cost": 0,
+"power": 1000,
+"soul": 1,
+"rarity": "R",
+"traits": [
+"Uma Musume",
+"Cinderella Gray"
+],
+"trigger": [],
+"text": "AUTO - [Discard 1 card] When this is placed on stage from hand, you may pay cost. If you do, reveal the top card of your deck, then choose 1 Level X or lower character from your Waiting Room, and add it to hand. X equals the Level of the revealed card.",
+"image": "https://www.encoredecks.com/images/JP/UMA/W134/037.png"
+},
+{
+"id": "UMA/W134-038",
+"name": "“通算７連勝”タマモクロス",
+"franchise": "Uma Musume: Cinderella Gray",
+"setCode": "UMA/W134",
+"type": "Character",
+"color": "Green",
+"level": 0,
+"cost": 0,
+"power": 2000,
+"soul": 1,
+"rarity": "R",
+"traits": [
+"Uma Musume",
+"Cinderella Gray"
+],
+"trigger": [],
+"text": "AUTO - When a CX is placed is your CX Area, choose 1 of your characters, this turn, it gets +1000 power. AUTO - {CX Combo} When the Bar CX (052) is placed in your CX Area, if you have 2 or more other <Uma Musume> characters, choose 1 of your other characters, this turn, it gains the following ability, \"AUTO - [Discard 1 card] When this card's battle opponent is Reversed, you may pay cost. If you do, choose up to 2 <Uma Musume> characters in your Waiting Room, add them to hand.\"",
+"image": "https://www.encoredecks.com/images/JP/UMA/W134/038.png"
+},
+{
+"id": "UMA/W134-039",
+"name": "“現役最強”タマモクロス",
+"franchise": "Uma Musume: Cinderella Gray",
+"setCode": "UMA/W134",
+"type": "Character",
+"color": "Green",
+"level": 3,
+"cost": 2,
+"power": 6500,
+"soul": 2,
+"rarity": "R",
+"traits": [
+"Uma Musume",
+"Cinderella Gray"
+],
+"trigger": [
+"SOUL"
+],
+"text": "CONT - If you have 4 or more <Uma Musume> characters, this gets -1 Level in hand. AUTO - [Discard 1 card] When this is placed on stage from hand, this turn, this gets +4500 power, and you have 2 or more other <Uma Musume> characters, you may pay cost. IF you do, choose 1 card in your Clock, add it to hand. AUTO - EXPERIENCE - If this is in your Level Zone, at the start of your CX Phase, choose 1 card in your Waiting Room and this, you may swap them.",
+"image": "https://www.encoredecks.com/images/JP/UMA/W134/039.png"
+},
+{
+"id": "UMA/W134-040",
+"name": "“一瞬の出来事”ブラッキーエール",
+"franchise": "Uma Musume: Cinderella Gray",
+"setCode": "UMA/W134",
+"type": "Character",
+"color": "Green",
+"level": 1,
+"cost": 0,
+"power": 500,
+"soul": 1,
+"rarity": "U",
+"traits": [
+"Uma Musume",
+"Cinderella Gray"
+],
+"trigger": [],
+"text": "AUTO - When this is placed on stage from hand, reveal the top card of your deck. If that card is a <Uma Musume> character, choose 1 of your opponent's Front Row characters, this turn, it gets -6000 power. AUTO - During this card's battle, when the damage you take is cancelled, you may return this to your hand.",
+"image": "https://www.encoredecks.com/images/JP/UMA/W134/040.png"
+},
+{
+"id": "UMA/W134-041",
+"name": "“好敵手”タマモクロス",
+"franchise": "Uma Musume: Cinderella Gray",
+"setCode": "UMA/W134",
+"type": "Character",
+"color": "Green",
+"level": 1,
+"cost": 0,
+"power": 2500,
+"soul": 1,
+"rarity": "U",
+"traits": [
+"Uma Musume",
+"Cinderella Gray"
+],
+"trigger": [],
+"text": "AUTO - When this is placed on stage from hand, choose 1 card from your Level Zone and 1 card from your Waiting Room, you may swap them. AUTO - EXPERIENCE 2 - When this attacks, if the sum of Levels of cards in your Level Zone is 2 or more, choose 1 of your other <Uma Musume> characters, until the end of your opponent's next turn, it gets +2500 power and \"AUTO - ENCORE [Discard 1 character]\"",
+"image": "https://www.encoredecks.com/images/JP/UMA/W134/041.png"
+},
+{
+"id": "UMA/W134-042",
+"name": "“圧倒”タマモクロス",
+"franchise": "Uma Musume: Cinderella Gray",
+"setCode": "UMA/W134",
+"type": "Character",
+"color": "Green",
+"level": 1,
+"cost": 0,
+"power": 4500,
+"soul": 1,
+"rarity": "U",
+"traits": [
+"Uma Musume",
+"Cinderella Gray"
+],
+"trigger": [],
+"text": "AUTO - When this attacks, if you have a CX in your CX Area, reveal the top card of your deck. If that card is level 1 or higher, send it to Stock. AUTO - EXPERIENCE - When this attacks, if you have the {Green 3/0 Event - 051} in your Level Zone, choose 1 <Uma Musume> character in your Waiting Room, add it to hand, then discard 1 card, and this turn, this gets +1000 power.",
+"image": "https://www.encoredecks.com/images/JP/UMA/W134/042.png"
+},
+{
+"id": "UMA/W134-043",
+"name": "“宣戦布告”タマモクロス",
+"franchise": "Uma Musume: Cinderella Gray",
+"setCode": "UMA/W134",
+"type": "Character",
+"color": "Green",
+"level": 3,
+"cost": 2,
+"power": 10000,
+"soul": 2,
+"rarity": "U",
+"traits": [
+"Uma Musume",
+"Cinderella Gray"
+],
+"trigger": [
+"SOUL"
+],
+"text": "CONT - If you have {RR 0/0 Tamamo Cross - 035} in your Clock, this gets -1 level in hand. AUTO - {CX Combo} {1 Per Turn} When this card's damage is cancelled, if you have the Bar CX (053) in your CX Area, deal 1 damage to your opponent, then choose up to 1 character in your Waiting Room, add it to hand. AUTO - When this is sent from Stage to Waiting Room, you may return this to hand or send this to Stock. If you do, look at up to 2 cards from the top of your deck, choose up to 2 cards from among them, place them on top of your deck in any order, and send the rest to Waiting Room.",
+"image": "https://www.encoredecks.com/images/JP/UMA/W134/043.png"
+},
+{
+"id": "UMA/W134-044",
+"name": "“マイルの帝王”アキツテイオー",
+"franchise": "Uma Musume: Cinderella Gray",
+"setCode": "UMA/W134",
+"type": "Character",
+"color": "Green",
+"level": 0,
+"cost": 0,
+"power": 500,
+"soul": 1,
+"rarity": "C",
+"traits": [
+"Uma Musume",
+"Cinderella Gray"
+],
+"trigger": [],
+"text": "CONT - If all of your characters are <Uma Musume>, this gets +2500 power and the following ability, \"AUTO - During this card's battle, when damage you take is not cancelled, this turn, this gets +1500 power.\" AUTO - When this card's battle opponent is Reversed, you may choose 1 card in your clock, add it to your hand. If you do, choose 1 card in your hand and put it into Clock.",
+"image": "https://www.encoredecks.com/images/JP/UMA/W134/044.png"
+},
+{
+"id": "UMA/W134-045",
+"name": "“逃げの帝王”ロードロイヤル",
+"franchise": "Uma Musume: Cinderella Gray",
+"setCode": "UMA/W134",
+"type": "Character",
+"color": "Green",
+"level": 0,
+"cost": 0,
+"power": 1000,
+"soul": 1,
+"rarity": "C",
+"traits": [
+"Uma Musume",
+"Cinderella Gray"
+],
+"trigger": [],
+"text": "AUTO - At the start of your opponent's Draw Phase, mill 2. If there is a Level 2 or higher card among those cards, you may return this card to hand. AUTO - At the start of your opponent's Attack Phase, you may move this to an empty Front Row slot.",
+"image": "https://www.encoredecks.com/images/JP/UMA/W134/045.png"
 }
 ]

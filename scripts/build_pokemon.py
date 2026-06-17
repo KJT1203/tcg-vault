@@ -17,15 +17,35 @@ sys.stdout.reconfigure(encoding="utf-8")
 API = "https://api.pokemontcg.io/v2/cards"
 UA = {"User-Agent": "Mozilla/5.0 (compatible; tcg-vault-builder/1.0)"}
 
-# Iconic, visually consistent sets: the modern "151" reprint and the 1999 Base Set.
-SETS = ["sv3pt5", "base1"]
+# Sets to bundle, in the order they should appear by default.
+# The full Mega Evolution era leads, then the modern "151" reprint and the
+# 1999 Base Set as classics. The card's "series" (era) becomes its category.
+SETS = [
+    "me1",     # Mega Evolution
+    "me2",     # Phantasmal Flames
+    "me2pt5",  # Ascended Heroes
+    "me3",     # Perfect Order
+    "me4",     # Chaos Rising
+    "sv3pt5",  # 151
+    "base1",   # Base
+]
 
 
 def fetch_set(set_id):
-    url = f"{API}?q=set.id:{set_id}&pageSize=250&orderBy=number"
-    req = urllib.request.Request(url, headers=UA)
-    with urllib.request.urlopen(req, timeout=40) as r:
-        return json.load(r)["data"]
+    """Fetch every card in a set, following pagination (some sets are >250)."""
+    cards = []
+    page = 1
+    while True:
+        url = f"{API}?q=set.id:{set_id}&pageSize=250&page={page}&orderBy=number"
+        req = urllib.request.Request(url, headers=UA)
+        with urllib.request.urlopen(req, timeout=40) as r:
+            data = json.load(r)
+        batch = data.get("data", [])
+        cards.extend(batch)
+        if len(batch) < 250:
+            break
+        page += 1
+    return cards
 
 
 def market_price(card):
@@ -48,6 +68,7 @@ def normalize(card):
     return {
         "id": card.get("id"),
         "name": card.get("name"),
+        "category": set_obj.get("series"),  # the "era" — used to group sets
         "setName": set_obj.get("name"),
         "setId": set_obj.get("id"),
         "number": card.get("number"),

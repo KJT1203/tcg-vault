@@ -38,6 +38,30 @@
   --nav-bg: rgba(0, 0, 0, 0.7);
 }
 
+/* ---------- Per-game accent themes ----------
+   The accent variable threads through buttons, links, focus rings, the
+   collection badge, and the modal — so swapping it re-skins the whole UI. */
+body[data-game="pokemon"] {
+  --accent: #ee1515;        /* Poké Ball red */
+  --accent-press: #c20d0d;
+  --brand-grad: linear-gradient(135deg, #ffcb05 0%, #ff7a00 45%, #ee1515 100%);
+  --game-glow: rgba(238, 21, 21, 0.12);
+}
+body[data-game="weiss"] {
+  --accent: #c8102e;        /* Weiß Schwarz crimson */
+  --accent-press: #97091f;
+  --brand-grad: linear-gradient(135deg, #e4002b 0%, #7a0019 55%, #141414 100%);
+  --game-glow: rgba(200, 16, 46, 0.12);
+}
+[data-theme="dark"] body[data-game="pokemon"] {
+  --accent: #ff5a52;
+  --accent-press: #ee1515;
+}
+[data-theme="dark"] body[data-game="weiss"] {
+  --accent: #ff4565;
+  --accent-press: #c8102e;
+}
+
 * {
   box-sizing: border-box;
 }
@@ -48,7 +72,9 @@ html {
 
 body {
   margin: 0;
-  background: var(--bg);
+  background:
+    radial-gradient(1000px 420px at 50% -160px, var(--game-glow, transparent), transparent 70%),
+    var(--bg);
   color: var(--text);
   font-family: -apple-system, BlinkMacSystemFont, "SF Pro Display", "SF Pro Text",
     "Segoe UI", system-ui, Roboto, Helvetica, Arial, sans-serif;
@@ -103,8 +129,9 @@ a:hover {
   width: 24px;
   height: 24px;
   border-radius: 7px;
-  background: linear-gradient(135deg, #ffcb05 0%, #ff5a5f 45%, #7b5bff 100%);
+  background: var(--brand-grad, linear-gradient(135deg, #ffcb05, #ee1515));
   box-shadow: var(--shadow-sm);
+  transition: background 0.3s var(--ease);
 }
 
 .icon-btn {

@@ -39,6 +39,9 @@ SETS = [
     ("PD/S22", "Hatsune Miku Project DIVA"),
     ("BM/S15", "Bakemonogatari"),
     ("SPY/S106", "Spy x Family"),
+    ("UMA/W106", "Uma Musume Pretty Derby"),
+    ("UMA/W119", "Uma Musume Pretty Derby"),
+    ("UMA/W134", "Uma Musume: Cinderella Gray"),
 ]
 
 NUM_PER_SET = 45  # enumerate -001 .. -045 for each set
