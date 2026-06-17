@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>TCG Vault — explore Pokémon & Weiss Schwarz cards</title>
+  <meta name="description" content="A clean, fast browser for trading card games. Explore real Pokémon and Weiss Schwarz cards, search, filter, and build a collection." />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body data-game="pokemon">
+  <!-- Top navigation -->
+  <header class="nav">
+    <div class="nav-inner">
+      <a class="brand" href="#">
+        <span class="brand-mark" aria-hidden="true"></span>
+        <span class="brand-name">TCG&nbsp;Vault</span>
+      </a>
+      <button id="themeToggle" class="icon-btn" title="Toggle appearance" aria-label="Toggle light or dark mode">
+        <span class="theme-icon"></span>
+      </button>
+    </div>
+  </header>
+
+  <!-- Hero -->
+  <section class="hero">
+    <h1 class="hero-title">Explore the cards you love.</h1>
+    <p class="hero-sub">A clean browser for trading card games — real artwork, real stats. Pokémon and Weiss Schwarz, with more to come.</p>
+
+    <div class="segmented" id="gameSwitch" role="tablist" aria-label="Choose a game">
+      <button class="seg-btn is-active" data-game="pokemon" role="tab" aria-selected="true">Pokémon</button>
+      <button class="seg-btn" data-game="weiss" role="tab" aria-selected="false">Weiss Schwarz</button>
+      <span class="seg-thumb" aria-hidden="true"></span>
+    </div>
+  </section>
+
+  <!-- Toolbar -->
+  <div class="toolbar">
+    <div class="search">
+      <svg class="search-icon" viewBox="0 0 24 24" aria-hidden="true">
+        <path d="M21 21l-4.3-4.3M11 19a8 8 0 110-16 8 8 0 010 16z" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" />
+      </svg>
+      <input id="search" type="search" placeholder="Search cards…" autocomplete="off" aria-label="Search cards" />
+      <span id="searchSpinner" class="spinner" hidden></span>
+    </div>
+
+    <div class="view-toggle" role="tablist" aria-label="Browse or collection">
+      <button class="view-btn is-active" data-view="browse" role="tab" aria-selected="true">Browse</button>
+      <button class="view-btn" data-view="collection" role="tab" aria-selected="false">
+        Collection <span class="view-count" id="collectionCount">0</span>
+      </button>
+    </div>
+  </div>
+
+  <!-- Filters -->
+  <div class="filters" id="filters">
+    <div class="chips-row" id="seriesChips" aria-label="Filter by series"></div>
+    <div class="selects">
+      <label class="select">
+        <span id="rarityLabel">Rarity</span>
+        <select id="rarityFilter" aria-label="Filter by rarity"></select>
+      </label>
+      <label class="select">
+        <span id="typeLabel">Type</span>
+        <select id="typeFilter" aria-label="Filter by type"></select>
+      </label>
+      <label class="select">
+        <span>Sort</span>
+        <select id="sortFilter" aria-label="Sort cards">
+          <option value="default">Featured</option>
+          <option value="name">Name A–Z</option>
+          <option value="rarity">Rarity</option>
+          <option value="price-desc">Price: high → low</option>
+        </select>
+      </label>
+    </div>
+  </div>
+
+  <!-- Results -->
+  <main class="results">
+    <div class="results-meta">
+      <span id="resultCount">Loading…</span>
+      <span id="liveBadge" class="live-badge" hidden>Live results</span>
+    </div>
+
+    <div class="grid" id="grid" aria-live="polite"></div>
+
+    <div class="empty" id="empty" hidden>
+      <div class="empty-emoji">🔍</div>
+      <p class="empty-title">No cards found</p>
+      <p class="empty-sub">Try a different search or clear your filters.</p>
+    </div>
+
+    <div id="sentinel" class="sentinel" aria-hidden="true"></div>
+  </main>
+
+  <footer class="footer">
+    <p>
+      Pokémon data from the <a href="https://pokemontcg.io" target="_blank" rel="noopener">Pokémon TCG API</a>.
+      Weiss Schwarz data from <a href="https://www.encoredecks.com" target="_blank" rel="noopener">Encore Decks</a>.
+    </p>
+    <p class="footer-fine">Card images and names are © their respective owners. Built as a fan project for learning.</p>
+  </footer>
+
+  <!-- Card detail modal -->
+  <div class="modal" id="modal" hidden>
+    <div class="modal-backdrop" data-close></div>
+    <div class="modal-card" role="dialog" aria-modal="true" aria-label="Card details">
+      <button class="modal-close" data-close aria-label="Close">×</button>
+      <div class="modal-image">
+        <img id="modalImg" alt="" />
+      </div>
+      <div class="modal-info">
+        <p class="modal-series" id="modalSeries"></p>
+        <h2 class="modal-name" id="modalName"></h2>
+        <div class="modal-rarity" id="modalRarity"></div>
+        <dl class="modal-stats" id="modalStats"></dl>
+        <p class="modal-text" id="modalText"></p>
+        <button class="fav-btn modal-fav" id="modalFav" aria-pressed="false">
+          <span class="heart">♥</span> <span class="fav-label">Add to collection</span>
+        </button>
+      </div>
+    </div>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>

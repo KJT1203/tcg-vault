@@ -1,0 +1,16 @@
+# OS / editor noise
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+
+# Node (only used transiently by `npx serve`)
+node_modules/
+
+# Python
+__pycache__/
+*.pyc
+
+# Logs
+*.log

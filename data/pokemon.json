@@ -1,0 +1,6670 @@
+[
+{
+"id": "sv3pt5-1",
+"name": "Bulbasaur",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "1",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Basic"
+],
+"types": [
+"Grass"
+],
+"hp": "70",
+"rarity": "Common",
+"artist": "Yuu Nishida",
+"flavor": "While it is young, it uses the nutrients that are stored in the seed on its back in order to grow.",
+"image": "https://images.pokemontcg.io/sv3pt5/1_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/1.png",
+"price": 0.34
+},
+{
+"id": "sv3pt5-2",
+"name": "Ivysaur",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "2",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Stage 1"
+],
+"types": [
+"Grass"
+],
+"hp": "100",
+"rarity": "Uncommon",
+"artist": "Yuu Nishida",
+"flavor": "Exposure to sunlight adds to its strength. Sunlight also makes the bud on its back grow larger.",
+"image": "https://images.pokemontcg.io/sv3pt5/2_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/2.png",
+"price": 0.2
+},
+{
+"id": "sv3pt5-3",
+"name": "Venusaur ex",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "3",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Stage 2",
+"ex"
+],
+"types": [
+"Grass"
+],
+"hp": "340",
+"rarity": "Double Rare",
+"artist": "5ban Graphics",
+"flavor": "Your opponent's Active Pokémon is now Confused and Poisoned.",
+"image": "https://images.pokemontcg.io/sv3pt5/3_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/3.png",
+"price": 1.06
+},
+{
+"id": "sv3pt5-4",
+"name": "Charmander",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "4",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Basic"
+],
+"types": [
+"Fire"
+],
+"hp": "70",
+"rarity": "Common",
+"artist": "GIDORA",
+"flavor": "From the time it is born, a flame burns at the tip of its tail. Its life would end if the flame were to go out.",
+"image": "https://images.pokemontcg.io/sv3pt5/4_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/4.png",
+"price": 0.46
+},
+{
+"id": "sv3pt5-5",
+"name": "Charmeleon",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "5",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Stage 1"
+],
+"types": [
+"Fire"
+],
+"hp": "100",
+"rarity": "Uncommon",
+"artist": "GIDORA",
+"flavor": "If it becomes agitated during battle, it spouts intense flames, incinerating its surroundings.",
+"image": "https://images.pokemontcg.io/sv3pt5/5_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/5.png",
+"price": 0.46
+},
+{
+"id": "sv3pt5-6",
+"name": "Charizard ex",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "6",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Stage 2",
+"ex"
+],
+"types": [
+"Fire"
+],
+"hp": "330",
+"rarity": "Double Rare",
+"artist": "PLANETA Mochizuki",
+"flavor": "If this Pokémon has any damage counters on it, this attack does 100 more damage.",
+"image": "https://images.pokemontcg.io/sv3pt5/6_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/6.png",
+"price": 9.91
+},
+{
+"id": "sv3pt5-7",
+"name": "Squirtle",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "7",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Basic"
+],
+"types": [
+"Water"
+],
+"hp": "60",
+"rarity": "Common",
+"artist": "kantaro",
+"flavor": "When it feels threatened, it draws its limbs inside its shell and sprays water from its mouth.",
+"image": "https://images.pokemontcg.io/sv3pt5/7_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/7.png",
+"price": 0.39
+},
+{
+"id": "sv3pt5-8",
+"name": "Wartortle",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "8",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Stage 1"
+],
+"types": [
+"Water"
+],
+"hp": "100",
+"rarity": "Uncommon",
+"artist": "kantaro",
+"flavor": "It cleverly controls its furry ears and tail to maintain its balance while swimming.",
+"image": "https://images.pokemontcg.io/sv3pt5/8_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/8.png",
+"price": 0.23
+},
+{
+"id": "sv3pt5-9",
+"name": "Blastoise ex",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "9",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Stage 2",
+"ex"
+],
+"types": [
+"Water"
+],
+"hp": "330",
+"rarity": "Double Rare",
+"artist": "PLANETA Yamashita",
+"flavor": "Discard up to 2 Basic Water Energy cards from your hand. This attack does 140 damage for each card you discarded in this way.",
+"image": "https://images.pokemontcg.io/sv3pt5/9_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/9.png",
+"price": 2.26
+},
+{
+"id": "sv3pt5-10",
+"name": "Caterpie",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "10",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Basic"
+],
+"types": [
+"Grass"
+],
+"hp": "50",
+"rarity": "Common",
+"artist": "Tika Matsuno",
+"flavor": "Its short feet are tipped with suction pads that enable it to tirelessly climb slopes and walls.",
+"image": "https://images.pokemontcg.io/sv3pt5/10_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/10.png",
+"price": 0.3
+},
+{
+"id": "sv3pt5-11",
+"name": "Metapod",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "11",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Stage 1"
+],
+"types": [
+"Grass"
+],
+"hp": "90",
+"rarity": "Common",
+"artist": "Tika Matsuno",
+"flavor": "Even though it is encased in a sturdy shell, the body inside is tender. It can't withstand a harsh attack.",
+"image": "https://images.pokemontcg.io/sv3pt5/11_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/11.png",
+"price": 0.18
+},
+{
+"id": "sv3pt5-12",
+"name": "Butterfree",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "12",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Stage 2"
+],
+"types": [
+"Grass"
+],
+"hp": "130",
+"rarity": "Uncommon",
+"artist": "Tika Matsuno",
+"flavor": "It collects honey every day. It rubs honey onto the hairs on its legs to carry it back to its nest.",
+"image": "https://images.pokemontcg.io/sv3pt5/12_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/12.png",
+"price": 0.25
+},
+{
+"id": "sv3pt5-13",
+"name": "Weedle",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "13",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Basic"
+],
+"types": [
+"Grass"
+],
+"hp": "50",
+"rarity": "Common",
+"artist": "nisimono",
+"flavor": "Its poison stinger is very powerful. Its bright-colored body is intended to warn off its enemies.",
+"image": "https://images.pokemontcg.io/sv3pt5/13_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/13.png",
+"price": 0.16
+},
+{
+"id": "sv3pt5-14",
+"name": "Kakuna",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "14",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Stage 1"
+],
+"types": [
+"Grass"
+],
+"hp": "80",
+"rarity": "Common",
+"artist": "nisimono",
+"flavor": "While awaiting evolution, it hides from predators under leaves and in nooks of branches.",
+"image": "https://images.pokemontcg.io/sv3pt5/14_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/14.png",
+"price": 0.19
+},
+{
+"id": "sv3pt5-15",
+"name": "Beedrill",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "15",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Stage 2"
+],
+"types": [
+"Grass"
+],
+"hp": "130",
+"rarity": "Rare",
+"artist": "nisimono",
+"flavor": "May appear in a swarm. Flies at violent speeds, all the while stabbing with the toxic stinger on its rear.",
+"image": "https://images.pokemontcg.io/sv3pt5/15_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/15.png",
+"price": 1.48
+},
+{
+"id": "sv3pt5-16",
+"name": "Pidgey",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "16",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Basic"
+],
+"types": [
+"Colorless"
+],
+"hp": "50",
+"rarity": "Common",
+"artist": "Oswaldo KATO",
+"flavor": "It is docile and prefers to avoid conflict. If disturbed, however, it can ferociously strike back.",
+"image": "https://images.pokemontcg.io/sv3pt5/16_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/16.png",
+"price": 0.26
+},
+{
+"id": "sv3pt5-17",
+"name": "Pidgeotto",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "17",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Stage 1"
+],
+"types": [
+"Colorless"
+],
+"hp": "80",
+"rarity": "Common",
+"artist": "Oswaldo KATO",
+"flavor": "Very protective of its sprawling territorial area, this Pokémon will fiercely peck at any intruder.",
+"image": "https://images.pokemontcg.io/sv3pt5/17_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/17.png",
+"price": 0.32
+},
+{
+"id": "sv3pt5-18",
+"name": "Pidgeot",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "18",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Stage 2"
+],
+"types": [
+"Colorless"
+],
+"hp": "130",
+"rarity": "Uncommon",
+"artist": "Oswaldo KATO",
+"flavor": "It spreads its gorgeous wings widely to intimidate enemies. It races through the skies at Mach-2 speed.",
+"image": "https://images.pokemontcg.io/sv3pt5/18_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/18.png",
+"price": 0.19
+},
+{
+"id": "sv3pt5-19",
+"name": "Rattata",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "19",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Basic"
+],
+"types": [
+"Colorless"
+],
+"hp": "40",
+"rarity": "Common",
+"artist": "sowsow",
+"flavor": "This Pokémon is common but hazardous. Its sharp incisors can easily cut right through hard wood.",
+"image": "https://images.pokemontcg.io/sv3pt5/19_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/19.png",
+"price": 0.26
+},
+{
+"id": "sv3pt5-20",
+"name": "Raticate",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "20",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Stage 1"
+],
+"types": [
+"Colorless"
+],
+"hp": "70",
+"rarity": "Uncommon",
+"artist": "sowsow",
+"flavor": "Its whiskers are essential for maintaining its balance. No matter how friendly you are, it will get angry and bite you if you touch its whiskers.",
+"image": "https://images.pokemontcg.io/sv3pt5/20_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/20.png",
+"price": 0.28
+},
+{
+"id": "sv3pt5-21",
+"name": "Spearow",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "21",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Basic"
+],
+"types": [
+"Colorless"
+],
+"hp": "50",
+"rarity": "Common",
+"artist": "Gemi",
+"flavor": "Due to its short wings, it can't fly long distances. It wanders about restlessly and pecks at bug Pokémon.",
+"image": "https://images.pokemontcg.io/sv3pt5/21_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/21.png",
+"price": 1.44
+},
+{
+"id": "sv3pt5-22",
+"name": "Fearow",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "22",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Stage 1"
+],
+"types": [
+"Colorless"
+],
+"hp": "90",
+"rarity": "Uncommon",
+"artist": "Gemi",
+"flavor": "Carrying food through Fearow's territory is dangerous. It will snatch the food away from you in a flash!",
+"image": "https://images.pokemontcg.io/sv3pt5/22_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/22.png",
+"price": 0.29
+},
+{
+"id": "sv3pt5-23",
+"name": "Ekans",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "23",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Basic"
+],
+"types": [
+"Darkness"
+],
+"hp": "70",
+"rarity": "Common",
+"artist": "Kedamahadaitai Yawarakai",
+"flavor": "The eggs of bird Pokémon are its favorite food. It swallows eggs whole, so sometimes an egg gets stuck, and Ekans faints.",
+"image": "https://images.pokemontcg.io/sv3pt5/23_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/23.png",
+"price": 0.33
+},
+{
+"id": "sv3pt5-24",
+"name": "Arbok ex",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "24",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Stage 1",
+"ex"
+],
+"types": [
+"Darkness"
+],
+"hp": "270",
+"rarity": "Double Rare",
+"artist": "Eske Yoshinob",
+"flavor": "During your opponent's next turn, the Defending Pokémon can't retreat.",
+"image": "https://images.pokemontcg.io/sv3pt5/24_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/24.png",
+"price": 1.67
+},
+{
+"id": "sv3pt5-25",
+"name": "Pikachu",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "25",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Basic"
+],
+"types": [
+"Lightning"
+],
+"hp": "60",
+"rarity": "Common",
+"artist": "Naoyo Kimura",
+"flavor": "When it is angered, it immediately discharges the energy stored in the pouches in its cheeks.",
+"image": "https://images.pokemontcg.io/sv3pt5/25_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/25.png",
+"price": 0.73
+},
+{
+"id": "sv3pt5-26",
+"name": "Raichu",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "26",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Stage 1"
+],
+"types": [
+"Lightning"
+],
+"hp": "120",
+"rarity": "Rare",
+"artist": "Naoyo Kimura",
+"flavor": "Its tail discharges electricity into the ground, protecting it from getting shocked.",
+"image": "https://images.pokemontcg.io/sv3pt5/26_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/26.png",
+"price": 0.27
+},
+{
+"id": "sv3pt5-27",
+"name": "Sandshrew",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "27",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Basic"
+],
+"types": [
+"Fighting"
+],
+"hp": "60",
+"rarity": "Common",
+"artist": "kodama",
+"flavor": "It burrows into the ground to create its nest. If hard stones impede its tunneling, it uses its sharp claws to shatter them and then carries on digging.",
+"image": "https://images.pokemontcg.io/sv3pt5/27_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/27.png",
+"price": 0.29
+},
+{
+"id": "sv3pt5-28",
+"name": "Sandslash",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "28",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Stage 1"
+],
+"types": [
+"Fighting"
+],
+"hp": "120",
+"rarity": "Uncommon",
+"artist": "kodama",
+"flavor": "It climbs trees by hooking on with its sharp claws. Sandslash shares the berries it gathers, dropping them down to Sandshrew waiting below the tree.",
+"image": "https://images.pokemontcg.io/sv3pt5/28_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/28.png",
+"price": 0.13
+},
+{
+"id": "sv3pt5-29",
+"name": "Nidoran ♀",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "29",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Basic"
+],
+"types": [
+"Darkness"
+],
+"hp": "60",
+"rarity": "Common",
+"artist": "Teeziro",
+"flavor": "It uses its hard incisor teeth to crush and eat berries. The tip of a female Nidoran's horn is a bit more rounded than the tip of a male's horn.",
+"image": "https://images.pokemontcg.io/sv3pt5/29_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/29.png",
+"price": 2.27
+},
+{
+"id": "sv3pt5-30",
+"name": "Nidorina",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "30",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Stage 1"
+],
+"types": [
+"Darkness"
+],
+"hp": "90",
+"rarity": "Uncommon",
+"artist": "Teeziro",
+"flavor": "If the group is threatened, these Pokémon will band together to assault enemies with a chorus of ultrasonic waves.",
+"image": "https://images.pokemontcg.io/sv3pt5/30_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/30.png",
+"price": 0.17
+},
+{
+"id": "sv3pt5-31",
+"name": "Nidoqueen",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "31",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Stage 2"
+],
+"types": [
+"Darkness"
+],
+"hp": "170",
+"rarity": "Uncommon",
+"artist": "Teeziro",
+"flavor": "It pacifies offspring by placing them in the gaps between the spines on its back. The spines will never secrete poison while young are present.",
+"image": "https://images.pokemontcg.io/sv3pt5/31_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/31.png",
+"price": 0.31
+},
+{
+"id": "sv3pt5-32",
+"name": "Nidoran ♂",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "32",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Basic"
+],
+"types": [
+"Darkness"
+],
+"hp": "60",
+"rarity": "Common",
+"artist": "Shiburingaru",
+"flavor": "Small but brave, this Pokémon will hold its ground and even risk its life in battle to protect the female it's friendly with.",
+"image": "https://images.pokemontcg.io/sv3pt5/32_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/32.png",
+"price": 2.93
+},
+{
+"id": "sv3pt5-33",
+"name": "Nidorino",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "33",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Stage 1"
+],
+"types": [
+"Darkness"
+],
+"hp": "90",
+"rarity": "Uncommon",
+"artist": "Shiburingaru",
+"flavor": "It's nervous and quick to act aggressively. The potency of its poison increases along with the level of adrenaline present in its body.",
+"image": "https://images.pokemontcg.io/sv3pt5/33_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/33.png",
+"price": 0.26
+},
+{
+"id": "sv3pt5-34",
+"name": "Nidoking",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "34",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Stage 2"
+],
+"types": [
+"Darkness"
+],
+"hp": "170",
+"rarity": "Rare",
+"artist": "Shiburingaru",
+"flavor": "Nidoking prides itself on its strength. It's forceful and spirited in battle, making use of its thick tail and diamond-crushing horn.",
+"image": "https://images.pokemontcg.io/sv3pt5/34_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/34.png",
+"price": 1.49
+},
+{
+"id": "sv3pt5-35",
+"name": "Clefairy",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "35",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Basic"
+],
+"types": [
+"Psychic"
+],
+"hp": "60",
+"rarity": "Common",
+"artist": "ryoma uratsuka",
+"flavor": "Its adorable behavior and cry make it highly popular. However, this cute Pokémon is rarely found.",
+"image": "https://images.pokemontcg.io/sv3pt5/35_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/35.png",
+"price": 0.35
+},
+{
+"id": "sv3pt5-36",
+"name": "Clefable",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "36",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Stage 1"
+],
+"types": [
+"Psychic"
+],
+"hp": "100",
+"rarity": "Uncommon",
+"artist": "ryoma uratsuka",
+"flavor": "Their ears are sensitive enough to hear a pin drop from over a mile away, so they're usually found in quiet places.",
+"image": "https://images.pokemontcg.io/sv3pt5/36_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/36.png",
+"price": 0.13
+},
+{
+"id": "sv3pt5-37",
+"name": "Vulpix",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "37",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Basic"
+],
+"types": [
+"Fire"
+],
+"hp": "70",
+"rarity": "Common",
+"artist": "kawayoo",
+"flavor": "As each tail grows, its fur becomes more lustrous. When held, it feels slightly warm.",
+"image": "https://images.pokemontcg.io/sv3pt5/37_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/37.png",
+"price": 0.34
+},
+{
+"id": "sv3pt5-38",
+"name": "Ninetales ex",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "38",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Stage 1",
+"ex"
+],
+"types": [
+"Fire"
+],
+"hp": "260",
+"rarity": "Double Rare",
+"artist": "kawayoo",
+"flavor": "Your opponent's Active Pokémon is now Burned.",
+"image": "https://images.pokemontcg.io/sv3pt5/38_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/38.png",
+"price": 2.13
+},
+{
+"id": "sv3pt5-39",
+"name": "Jigglypuff",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "39",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Basic"
+],
+"types": [
+"Colorless"
+],
+"hp": "70",
+"rarity": "Common",
+"artist": "saino misaki",
+"flavor": "When its huge eyes waver, it sings a mysteriously soothing melody that lulls its enemies to sleep.",
+"image": "https://images.pokemontcg.io/sv3pt5/39_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/39.png",
+"price": 0.39
+},
+{
+"id": "sv3pt5-40",
+"name": "Wigglytuff ex",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "40",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Stage 1",
+"ex"
+],
+"types": [
+"Colorless"
+],
+"hp": "250",
+"rarity": "Double Rare",
+"artist": "Saki Hayashiro",
+"flavor": "If you played a Supporter card from your hand during this turn, this attack does 90 more damage.",
+"image": "https://images.pokemontcg.io/sv3pt5/40_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/40.png",
+"price": 1.29
+},
+{
+"id": "sv3pt5-41",
+"name": "Zubat",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "41",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Basic"
+],
+"types": [
+"Darkness"
+],
+"hp": "40",
+"rarity": "Common",
+"artist": "Scav",
+"flavor": "Zubat live in caves, down where the sun's light won't reach. In the morning, they gather together to keep each other warm as they sleep.",
+"image": "https://images.pokemontcg.io/sv3pt5/41_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/41.png",
+"price": 0.06
+},
+{
+"id": "sv3pt5-42",
+"name": "Golbat",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "42",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Stage 1"
+],
+"types": [
+"Darkness"
+],
+"hp": "80",
+"rarity": "Uncommon",
+"artist": "Scav",
+"flavor": "Its feet are tiny, but this Pokémon walks skillfully. It sneaks up on sleeping prey before sinking in its fangs and slurping up blood.",
+"image": "https://images.pokemontcg.io/sv3pt5/42_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/42.png",
+"price": 0.09
+},
+{
+"id": "sv3pt5-43",
+"name": "Oddish",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "43",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Basic"
+],
+"types": [
+"Grass"
+],
+"hp": "60",
+"rarity": "Common",
+"artist": "Sekio",
+"flavor": "During the day, it stays in the cold underground to avoid the sun. It grows by bathing in moonlight.",
+"image": "https://images.pokemontcg.io/sv3pt5/43_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/43.png",
+"price": 0.33
+},
+{
+"id": "sv3pt5-44",
+"name": "Gloom",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "44",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Stage 1"
+],
+"types": [
+"Grass"
+],
+"hp": "70",
+"rarity": "Uncommon",
+"artist": "Sekio",
+"flavor": "What appears to be drool is actually sweet honey. It is very sticky and clings stubbornly if touched.",
+"image": "https://images.pokemontcg.io/sv3pt5/44_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/44.png",
+"price": 0.18
+},
+{
+"id": "sv3pt5-45",
+"name": "Vileplume",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "45",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Stage 2"
+],
+"types": [
+"Grass"
+],
+"hp": "140",
+"rarity": "Rare",
+"artist": "Sekio",
+"flavor": "The larger its petals, the more toxic pollen it contains. Its big head is heavy and hard to hold up.",
+"image": "https://images.pokemontcg.io/sv3pt5/45_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/45.png",
+"price": 0.79
+},
+{
+"id": "sv3pt5-46",
+"name": "Paras",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "46",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Basic"
+],
+"types": [
+"Grass"
+],
+"hp": "70",
+"rarity": "Common",
+"artist": "Yoriyuki Ikegami",
+"flavor": "The mushrooms, known as tochukaso, are controlling the bug. Even if the bug bugs the mushrooms, they tell it to bug off.",
+"image": "https://images.pokemontcg.io/sv3pt5/46_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/46.png",
+"price": 0.27
+},
+{
+"id": "sv3pt5-47",
+"name": "Parasect",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "47",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Stage 1"
+],
+"types": [
+"Grass"
+],
+"hp": "120",
+"rarity": "Uncommon",
+"artist": "Yoriyuki Ikegami",
+"flavor": "The bug is mostly dead, with the mushroom on its back having become the main body. If the mushroom comes off, the bug stops moving.",
+"image": "https://images.pokemontcg.io/sv3pt5/47_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/47.png",
+"price": 0.24
+},
+{
+"id": "sv3pt5-48",
+"name": "Venonat",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "48",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Basic"
+],
+"types": [
+"Grass"
+],
+"hp": "70",
+"rarity": "Common",
+"artist": "Kagemaru Himeno",
+"flavor": "Poison oozes from all over its body. It catches small bug Pokémon at night that are attracted by light.",
+"image": "https://images.pokemontcg.io/sv3pt5/48_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/48.png",
+"price": 0.25
+},
+{
+"id": "sv3pt5-49",
+"name": "Venomoth",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "49",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Stage 1"
+],
+"types": [
+"Grass"
+],
+"hp": "90",
+"rarity": "Uncommon",
+"artist": "Kagemaru Himeno",
+"flavor": "The wings are covered with dustlike scales. Every time it flaps its wings, it looses highly toxic dust.",
+"image": "https://images.pokemontcg.io/sv3pt5/49_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/49.png",
+"price": 0.27
+},
+{
+"id": "sv3pt5-50",
+"name": "Diglett",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "50",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Basic"
+],
+"types": [
+"Fighting"
+],
+"hp": "50",
+"rarity": "Common",
+"artist": "Miki Tanaka",
+"flavor": "It lives about one yard underground, where it feeds on plant roots. It sometimes appears aboveground.",
+"image": "https://images.pokemontcg.io/sv3pt5/50_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/50.png",
+"price": 0.29
+},
+{
+"id": "sv3pt5-51",
+"name": "Dugtrio",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "51",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Stage 1"
+],
+"types": [
+"Fighting"
+],
+"hp": "90",
+"rarity": "Uncommon",
+"artist": "Miki Tanaka",
+"flavor": "Its three heads bob separately up and down to loosen the soil nearby, making it easier for it to burrow.",
+"image": "https://images.pokemontcg.io/sv3pt5/51_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/51.png",
+"price": 0.12
+},
+{
+"id": "sv3pt5-52",
+"name": "Meowth",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "52",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Basic"
+],
+"types": [
+"Colorless"
+],
+"hp": "70",
+"rarity": "Common",
+"artist": "Naoki Saito",
+"flavor": "All it does is sleep during the daytime. At night, it patrols its territory with its eyes aglow.",
+"image": "https://images.pokemontcg.io/sv3pt5/52_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/52.png",
+"price": 0.14
+},
+{
+"id": "sv3pt5-53",
+"name": "Persian",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "53",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Stage 1"
+],
+"types": [
+"Colorless"
+],
+"hp": "110",
+"rarity": "Uncommon",
+"artist": "Naoki Saito",
+"flavor": "Although its fur has many admirers, it is tough to raise as a pet because of its fickle meanness.",
+"image": "https://images.pokemontcg.io/sv3pt5/53_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/53.png",
+"price": 0.32
+},
+{
+"id": "sv3pt5-54",
+"name": "Psyduck",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "54",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Basic"
+],
+"types": [
+"Water"
+],
+"hp": "70",
+"rarity": "Common",
+"artist": "Taira Akitsu",
+"flavor": "It is constantly wracked by a headache. When the headache turns intense, it begins using mysterious powers.",
+"image": "https://images.pokemontcg.io/sv3pt5/54_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/54.png",
+"price": 0.49
+},
+{
+"id": "sv3pt5-55",
+"name": "Golduck",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "55",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Stage 1"
+],
+"types": [
+"Water"
+],
+"hp": "110",
+"rarity": "Uncommon",
+"artist": "Taira Akitsu",
+"flavor": "When it swims at full speed using its long, webbed limbs, its forehead somehow begins to glow.",
+"image": "https://images.pokemontcg.io/sv3pt5/55_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/55.png",
+"price": 0.18
+},
+{
+"id": "sv3pt5-56",
+"name": "Mankey",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "56",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Basic"
+],
+"types": [
+"Fighting"
+],
+"hp": "60",
+"rarity": "Common",
+"artist": "Mina Nakai",
+"flavor": "It lives in groups in the treetops. If it loses sight of its group, it becomes infuriated by its loneliness.",
+"image": "https://images.pokemontcg.io/sv3pt5/56_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/56.png",
+"price": 0.07
+},
+{
+"id": "sv3pt5-57",
+"name": "Primeape",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "57",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Stage 1"
+],
+"types": [
+"Fighting"
+],
+"hp": "120",
+"rarity": "Uncommon",
+"artist": "Mina Nakai",
+"flavor": "It becomes wildly furious if it even senses someone looking at it. It chases anyone that meets its glare.",
+"image": "https://images.pokemontcg.io/sv3pt5/57_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/57.png",
+"price": 0.28
+},
+{
+"id": "sv3pt5-58",
+"name": "Growlithe",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "58",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Basic"
+],
+"types": [
+"Fire"
+],
+"hp": "80",
+"rarity": "Common",
+"artist": "Atsushi Furusawa",
+"flavor": "It has a brave and trustworthy nature. It fearlessly stands up to bigger and stronger foes.",
+"image": "https://images.pokemontcg.io/sv3pt5/58_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/58.png",
+"price": 0.32
+},
+{
+"id": "sv3pt5-59",
+"name": "Arcanine",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "59",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Stage 1"
+],
+"types": [
+"Fire"
+],
+"hp": "150",
+"rarity": "Uncommon",
+"artist": "Atsushi Furusawa",
+"flavor": "An ancient picture scroll shows that people were captivated by its movement as it ran through prairies.",
+"image": "https://images.pokemontcg.io/sv3pt5/59_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/59.png",
+"price": 0.22
+},
+{
+"id": "sv3pt5-60",
+"name": "Poliwag",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "60",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Basic"
+],
+"types": [
+"Water"
+],
+"hp": "60",
+"rarity": "Common",
+"artist": "Kurata So",
+"flavor": "In rivers with fast-flowing water, this Pokémon will cling to a rock by using its thick lips, which act like a suction cup.",
+"image": "https://images.pokemontcg.io/sv3pt5/60_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/60.png",
+"price": 0.06
+},
+{
+"id": "sv3pt5-61",
+"name": "Poliwhirl",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "61",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Stage 1"
+],
+"types": [
+"Water"
+],
+"hp": "90",
+"rarity": "Common",
+"artist": "Kurata So",
+"flavor": "This Pokémon's sweat is a slimy mucus. When captured, Poliwhirl can slither from its enemies' grasp and escape.",
+"image": "https://images.pokemontcg.io/sv3pt5/61_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/61.png",
+"price": 1.85
+},
+{
+"id": "sv3pt5-62",
+"name": "Poliwrath",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "62",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Stage 2"
+],
+"types": [
+"Water"
+],
+"hp": "160",
+"rarity": "Uncommon",
+"artist": "Kurata So",
+"flavor": "Poliwrath is skilled at both swimming and martial arts. It uses its well-trained arms to dish out powerful punches.",
+"image": "https://images.pokemontcg.io/sv3pt5/62_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/62.png",
+"price": 0.13
+},
+{
+"id": "sv3pt5-63",
+"name": "Abra",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "63",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Basic"
+],
+"types": [
+"Psychic"
+],
+"hp": "50",
+"rarity": "Common",
+"artist": "Mitsuhiro Arita",
+"flavor": "Abra can teleport in its sleep. Apparently the more deeply Abra sleeps, the farther its teleportations go.",
+"image": "https://images.pokemontcg.io/sv3pt5/63_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/63.png",
+"price": 0.34
+},
+{
+"id": "sv3pt5-64",
+"name": "Kadabra",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "64",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Stage 1"
+],
+"types": [
+"Psychic"
+],
+"hp": "80",
+"rarity": "Uncommon",
+"artist": "Mitsuhiro Arita",
+"flavor": "This Pokémon's telekinesis is immensely powerful. To prepare for evolution, Kadabra stores up psychic energy in the star on its forehead.",
+"image": "https://images.pokemontcg.io/sv3pt5/64_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/64.png",
+"price": 0.19
+},
+{
+"id": "sv3pt5-65",
+"name": "Alakazam ex",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "65",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Stage 2",
+"ex"
+],
+"types": [
+"Psychic"
+],
+"hp": "310",
+"rarity": "Double Rare",
+"artist": "Mitsuhiro Arita",
+"flavor": "This attack does 30 more damage for each of your opponent's Benched Pokémon.",
+"image": "https://images.pokemontcg.io/sv3pt5/65_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/65.png",
+"price": 1.85
+},
+{
+"id": "sv3pt5-66",
+"name": "Machop",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "66",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Basic"
+],
+"types": [
+"Fighting"
+],
+"hp": "70",
+"rarity": "Common",
+"artist": "Ryuta Fuse",
+"flavor": "Always brimming with power, it passes time by lifting boulders. Doing so makes it even stronger.",
+"image": "https://images.pokemontcg.io/sv3pt5/66_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/66.png",
+"price": 0.14
+},
+{
+"id": "sv3pt5-67",
+"name": "Machoke",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "67",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Stage 1"
+],
+"types": [
+"Fighting"
+],
+"hp": "100",
+"rarity": "Uncommon",
+"artist": "Ryuta Fuse",
+"flavor": "Its formidable body never gets tired. It helps people by doing work such as the moving of heavy goods.",
+"image": "https://images.pokemontcg.io/sv3pt5/67_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/67.png",
+"price": 0.33
+},
+{
+"id": "sv3pt5-68",
+"name": "Machamp",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "68",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Stage 2"
+],
+"types": [
+"Fighting"
+],
+"hp": "180",
+"rarity": "Rare",
+"artist": "Ryuta Fuse",
+"flavor": "With four arms that react more quickly than it can think, it can execute many punches at once.",
+"image": "https://images.pokemontcg.io/sv3pt5/68_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/68.png",
+"price": 0.34
+},
+{
+"id": "sv3pt5-69",
+"name": "Bellsprout",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "69",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Basic"
+],
+"types": [
+"Grass"
+],
+"hp": "60",
+"rarity": "Common",
+"artist": "Jerky",
+"flavor": "Its bud looks like a human face. Because of the bud, it is rumored to be a type of legendary mandrake plant.",
+"image": "https://images.pokemontcg.io/sv3pt5/69_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/69.png",
+"price": 0.34
+},
+{
+"id": "sv3pt5-70",
+"name": "Weepinbell",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "70",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Stage 1"
+],
+"types": [
+"Grass"
+],
+"hp": "90",
+"rarity": "Common",
+"artist": "Jerky",
+"flavor": "It spits out Poison Powder to immobilize the enemy and then finishes it with a spray of Acid.",
+"image": "https://images.pokemontcg.io/sv3pt5/70_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/70.png",
+"price": 0.21
+},
+{
+"id": "sv3pt5-71",
+"name": "Victreebel",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "71",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Stage 2"
+],
+"types": [
+"Grass"
+],
+"hp": "150",
+"rarity": "Uncommon",
+"artist": "Jerky",
+"flavor": "Once ingested into this Pokémon's body, even the hardest object will melt into nothing.",
+"image": "https://images.pokemontcg.io/sv3pt5/71_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/71.png",
+"price": 0.25
+},
+{
+"id": "sv3pt5-72",
+"name": "Tentacool",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "72",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Basic"
+],
+"types": [
+"Water"
+],
+"hp": "60",
+"rarity": "Common",
+"artist": "miki kudo",
+"flavor": "This Pokémon is mostly made of water. A Tentacool out in the ocean is very hard to spot, because its body blends in with the sea.",
+"image": "https://images.pokemontcg.io/sv3pt5/72_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/72.png",
+"price": 0.1
+},
+{
+"id": "sv3pt5-73",
+"name": "Tentacruel",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "73",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Stage 1"
+],
+"types": [
+"Water"
+],
+"hp": "120",
+"rarity": "Uncommon",
+"artist": "miki kudo",
+"flavor": "Its 80 tentacles can stretch and shrink freely. Tentacruel ensnares prey in a net of spread-out tentacles, delivering venomous stings to its catch.",
+"image": "https://images.pokemontcg.io/sv3pt5/73_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/73.png",
+"price": 0.2
+},
+{
+"id": "sv3pt5-74",
+"name": "Geodude",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "74",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Basic"
+],
+"types": [
+"Fighting"
+],
+"hp": "80",
+"rarity": "Common",
+"artist": "Uta",
+"flavor": "It uses both hands to climb precipitous cliffs. People who see it in action have been known to take up bouldering.",
+"image": "https://images.pokemontcg.io/sv3pt5/74_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/74.png",
+"price": 0.11
+},
+{
+"id": "sv3pt5-75",
+"name": "Graveler",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "75",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Stage 1"
+],
+"types": [
+"Fighting"
+],
+"hp": "110",
+"rarity": "Uncommon",
+"artist": "Uta",
+"flavor": "It travels by rolling down cliffs. If it falls into a river, it will explode with its last gasp.",
+"image": "https://images.pokemontcg.io/sv3pt5/75_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/75.png",
+"price": 0.16
+},
+{
+"id": "sv3pt5-76",
+"name": "Golem ex",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "76",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Stage 2",
+"ex"
+],
+"types": [
+"Fighting"
+],
+"hp": "330",
+"rarity": "Double Rare",
+"artist": "Uta",
+"flavor": "During your next turn, attacks used by this Pokémon do 120 more damage to your opponent's Active Pokémon (before applying Weakness and Resistance).",
+"image": "https://images.pokemontcg.io/sv3pt5/76_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/76.png",
+"price": 1.31
+},
+{
+"id": "sv3pt5-77",
+"name": "Ponyta",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "77",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Basic"
+],
+"types": [
+"Fire"
+],
+"hp": "70",
+"rarity": "Common",
+"artist": "Nurikabe",
+"flavor": "If you've been accepted by Ponyta, its burning mane is mysteriously no longer hot to the touch.",
+"image": "https://images.pokemontcg.io/sv3pt5/77_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/77.png",
+"price": 0.11
+},
+{
+"id": "sv3pt5-78",
+"name": "Rapidash",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "78",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Stage 1"
+],
+"types": [
+"Fire"
+],
+"hp": "100",
+"rarity": "Uncommon",
+"artist": "Nurikabe",
+"flavor": "The fastest runner becomes the leader, and it decides the herd's pace and direction of travel.",
+"image": "https://images.pokemontcg.io/sv3pt5/78_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/78.png",
+"price": 0.13
+},
+{
+"id": "sv3pt5-79",
+"name": "Slowpoke",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "79",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Basic"
+],
+"types": [
+"Psychic"
+],
+"hp": "80",
+"rarity": "Common",
+"artist": "OKACHEKE",
+"flavor": "It is incredibly slow and dopey. It takes five seconds for it to feel pain when under attack.",
+"image": "https://images.pokemontcg.io/sv3pt5/79_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/79.png",
+"price": 0.19
+},
+{
+"id": "sv3pt5-80",
+"name": "Slowbro",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "80",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Stage 1"
+],
+"types": [
+"Psychic"
+],
+"hp": "130",
+"rarity": "Uncommon",
+"artist": "OKACHEKE",
+"flavor": "When a Slowpoke went hunting in the sea, its tail was bitten by a Shellder. That made it evolve into Slowbro.",
+"image": "https://images.pokemontcg.io/sv3pt5/80_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/80.png",
+"price": 0.13
+},
+{
+"id": "sv3pt5-81",
+"name": "Magnemite",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "81",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Basic"
+],
+"types": [
+"Lightning"
+],
+"hp": "60",
+"rarity": "Common",
+"artist": "Yuka Morii",
+"flavor": "The electromagnetic waves emitted by the units at the sides of its head expel antigravity, which allows it to float.",
+"image": "https://images.pokemontcg.io/sv3pt5/81_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/81.png",
+"price": 0.14
+},
+{
+"id": "sv3pt5-82",
+"name": "Magneton",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "82",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Stage 1"
+],
+"types": [
+"Lightning"
+],
+"hp": "90",
+"rarity": "Uncommon",
+"artist": "Yuka Morii",
+"flavor": "Three Magnemite are linked by a strong magnetic force. Earaches will occur if you get too close.",
+"image": "https://images.pokemontcg.io/sv3pt5/82_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/82.png",
+"price": 0.22
+},
+{
+"id": "sv3pt5-83",
+"name": "Farfetch'd",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "83",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Basic"
+],
+"types": [
+"Colorless"
+],
+"hp": "90",
+"rarity": "Common",
+"artist": "KG-2000",
+"flavor": "They use a plant stalk as a weapon, but not all of them use it in the same way. Several distinct styles of stalk fighting have been observed.",
+"image": "https://images.pokemontcg.io/sv3pt5/83_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/83.png",
+"price": 0.26
+},
+{
+"id": "sv3pt5-84",
+"name": "Doduo",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "84",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Basic"
+],
+"types": [
+"Colorless"
+],
+"hp": "70",
+"rarity": "Common",
+"artist": "Anesaki Dynamic",
+"flavor": "The brains in its two heads appear to communicate emotions to each other with a telepathic power.",
+"image": "https://images.pokemontcg.io/sv3pt5/84_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/84.png",
+"price": 0.12
+},
+{
+"id": "sv3pt5-85",
+"name": "Dodrio",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "85",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Stage 1"
+],
+"types": [
+"Colorless"
+],
+"hp": "100",
+"rarity": "Rare",
+"artist": "Anesaki Dynamic",
+"flavor": "An odd species that is rarely found. The three heads respectively represent joy, sadness, and anger.",
+"image": "https://images.pokemontcg.io/sv3pt5/85_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/85.png",
+"price": 1.33
+},
+{
+"id": "sv3pt5-86",
+"name": "Seel",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "86",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Basic"
+],
+"types": [
+"Water"
+],
+"hp": "80",
+"rarity": "Common",
+"artist": "aoki",
+"flavor": "Thanks to its thick fat, cold seas don't bother it at all, but it gets tired pretty easily in warm waters.",
+"image": "https://images.pokemontcg.io/sv3pt5/86_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/86.png",
+"price": 0.12
+},
+{
+"id": "sv3pt5-87",
+"name": "Dewgong",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "87",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Stage 1"
+],
+"types": [
+"Water"
+],
+"hp": "130",
+"rarity": "Uncommon",
+"artist": "aoki",
+"flavor": "It sunbathes on the beach after meals. The rise in its body temperature helps its digestion.",
+"image": "https://images.pokemontcg.io/sv3pt5/87_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/87.png",
+"price": 0.26
+},
+{
+"id": "sv3pt5-88",
+"name": "Grimer",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "88",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Basic"
+],
+"types": [
+"Darkness"
+],
+"hp": "80",
+"rarity": "Common",
+"artist": "Nisota Niso",
+"flavor": "Born from sludge, these Pokémon now gather in polluted places and increase the bacteria in their bodies.",
+"image": "https://images.pokemontcg.io/sv3pt5/88_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/88.png",
+"price": 0.08
+},
+{
+"id": "sv3pt5-89",
+"name": "Muk",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "89",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Stage 1"
+],
+"types": [
+"Darkness"
+],
+"hp": "150",
+"rarity": "Uncommon",
+"artist": "Nisota Niso",
+"flavor": "It's thickly covered with a filthy, vile sludge. It is so toxic, even its footprints contain poison.",
+"image": "https://images.pokemontcg.io/sv3pt5/89_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/89.png",
+"price": 0.29
+},
+{
+"id": "sv3pt5-90",
+"name": "Shellder",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "90",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Basic"
+],
+"types": [
+"Water"
+],
+"hp": "70",
+"rarity": "Common",
+"artist": "Nelnal",
+"flavor": "It is encased in a shell that is harder than diamond. Inside, however, it is surprisingly tender.",
+"image": "https://images.pokemontcg.io/sv3pt5/90_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/90.png",
+"price": 0.29
+},
+{
+"id": "sv3pt5-91",
+"name": "Cloyster",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "91",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Stage 1"
+],
+"types": [
+"Water"
+],
+"hp": "130",
+"rarity": "Uncommon",
+"artist": "Nelnal",
+"flavor": "Cloyster that live in seas with harsh tidal currents grow large, sharp spikes on their shells.",
+"image": "https://images.pokemontcg.io/sv3pt5/91_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/91.png",
+"price": 0.32
+},
+{
+"id": "sv3pt5-92",
+"name": "Gastly",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "92",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Basic"
+],
+"types": [
+"Psychic"
+],
+"hp": "50",
+"rarity": "Common",
+"artist": "Tomokazu Komiya",
+"flavor": "It wraps its opponent in its gas-like body, slowly weakening its prey by poisoning it through the skin.",
+"image": "https://images.pokemontcg.io/sv3pt5/92_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/92.png",
+"price": 0.42
+},
+{
+"id": "sv3pt5-93",
+"name": "Haunter",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "93",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Stage 1"
+],
+"types": [
+"Psychic"
+],
+"hp": "80",
+"rarity": "Uncommon",
+"artist": "Tomokazu Komiya",
+"flavor": "It likes to lurk in the dark and tap shoulders with a gaseous hand. Its touch causes endless shuddering.",
+"image": "https://images.pokemontcg.io/sv3pt5/93_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/93.png",
+"price": 0.67
+},
+{
+"id": "sv3pt5-94",
+"name": "Gengar",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "94",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Stage 2"
+],
+"types": [
+"Psychic"
+],
+"hp": "130",
+"rarity": "Rare",
+"artist": "Tomokazu Komiya",
+"flavor": "To steal the life of its target, it slips into the prey's shadow and silently waits for an opportunity.",
+"image": "https://images.pokemontcg.io/sv3pt5/94_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/94.png",
+"price": 3.05
+},
+{
+"id": "sv3pt5-95",
+"name": "Onix",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "95",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Basic"
+],
+"types": [
+"Fighting"
+],
+"hp": "120",
+"rarity": "Uncommon",
+"artist": "Shin Nagasawa",
+"flavor": "It rapidly bores through the ground at 50 mph by squirming and twisting its massive, rugged body.",
+"image": "https://images.pokemontcg.io/sv3pt5/95_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/95.png",
+"price": 1.59
+},
+{
+"id": "sv3pt5-96",
+"name": "Drowzee",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "96",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Basic"
+],
+"types": [
+"Psychic"
+],
+"hp": "80",
+"rarity": "Common",
+"artist": "Mousho",
+"flavor": "It remembers every dream it eats. It rarely eats the dreams of adults because children's are much tastier.",
+"image": "https://images.pokemontcg.io/sv3pt5/96_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/96.png",
+"price": 0.08
+},
+{
+"id": "sv3pt5-97",
+"name": "Hypno",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "97",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Stage 1"
+],
+"types": [
+"Psychic"
+],
+"hp": "110",
+"rarity": "Uncommon",
+"artist": "Mousho",
+"flavor": "When it locks eyes with an enemy, it will use a mix of psi moves, such as Hypnosis and Confusion.",
+"image": "https://images.pokemontcg.io/sv3pt5/97_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/97.png",
+"price": 0.1
+},
+{
+"id": "sv3pt5-98",
+"name": "Krabby",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "98",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Basic"
+],
+"types": [
+"Water"
+],
+"hp": "70",
+"rarity": "Common",
+"artist": "Yukiko Baba",
+"flavor": "If it senses danger approaching, it cloaks itself with bubbles from its mouth so it will look bigger.",
+"image": "https://images.pokemontcg.io/sv3pt5/98_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/98.png",
+"price": 0.15
+},
+{
+"id": "sv3pt5-99",
+"name": "Kingler",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "99",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Stage 1"
+],
+"types": [
+"Water"
+],
+"hp": "140",
+"rarity": "Uncommon",
+"artist": "Yukiko Baba",
+"flavor": "Its oversized claw is very powerful, but when it's not in battle, the claw just gets in the way.",
+"image": "https://images.pokemontcg.io/sv3pt5/99_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/99.png",
+"price": 1.21
+},
+{
+"id": "sv3pt5-100",
+"name": "Voltorb",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "100",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Basic"
+],
+"types": [
+"Lightning"
+],
+"hp": "60",
+"rarity": "Common",
+"artist": "nagimiso",
+"flavor": "It rolls to move. If the ground is uneven, a sudden jolt from hitting a bump can cause it to explode.",
+"image": "https://images.pokemontcg.io/sv3pt5/100_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/100.png",
+"price": 0.06
+},
+{
+"id": "sv3pt5-101",
+"name": "Electrode",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "101",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Stage 1"
+],
+"types": [
+"Lightning"
+],
+"hp": "90",
+"rarity": "Rare",
+"artist": "nagimiso",
+"flavor": "The more energy it charges up, the faster it gets. But this also makes it more likely to explode.",
+"image": "https://images.pokemontcg.io/sv3pt5/101_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/101.png",
+"price": 2.3
+},
+{
+"id": "sv3pt5-102",
+"name": "Exeggcute",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "102",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Basic"
+],
+"types": [
+"Grass"
+],
+"hp": "60",
+"rarity": "Common",
+"artist": "Shigenori Negishi",
+"flavor": "These Pokémon get nervous when they're not in a group of six. The minute even one member of the group goes missing, Exeggcute become cowardly.",
+"image": "https://images.pokemontcg.io/sv3pt5/102_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/102.png",
+"price": 0.28
+},
+{
+"id": "sv3pt5-103",
+"name": "Exeggutor",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "103",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Stage 1"
+],
+"types": [
+"Grass"
+],
+"hp": "140",
+"rarity": "Uncommon",
+"artist": "Shigenori Negishi",
+"flavor": "When they work together, Exeggutor's three heads can put out powerful psychic energy. Cloudy days make this Pokémon sluggish.",
+"image": "https://images.pokemontcg.io/sv3pt5/103_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/103.png",
+"price": 0.11
+},
+{
+"id": "sv3pt5-104",
+"name": "Cubone",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "104",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Basic"
+],
+"types": [
+"Fighting"
+],
+"hp": "70",
+"rarity": "Common",
+"artist": "Shinya Komatsu",
+"flavor": "This Pokémon wears the skull of its deceased mother. Sometimes Cubone's dreams make it cry, but each tear Cubone sheds makes it stronger.",
+"image": "https://images.pokemontcg.io/sv3pt5/104_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/104.png",
+"price": 0.21
+},
+{
+"id": "sv3pt5-105",
+"name": "Marowak",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "105",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Stage 1"
+],
+"types": [
+"Fighting"
+],
+"hp": "120",
+"rarity": "Rare",
+"artist": "Shinya Komatsu",
+"flavor": "When this Pokémon evolved, the skull of its mother fused to it. Marowak's temperament also turned vicious at the same time.",
+"image": "https://images.pokemontcg.io/sv3pt5/105_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/105.png",
+"price": 0.91
+},
+{
+"id": "sv3pt5-106",
+"name": "Hitmonlee",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "106",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Basic"
+],
+"types": [
+"Fighting"
+],
+"hp": "120",
+"rarity": "Uncommon",
+"artist": "Hitoshi Ariga",
+"flavor": "The legs freely contract and stretch. The stretchy legs allow it to hit a distant foe with a rising kick.",
+"image": "https://images.pokemontcg.io/sv3pt5/106_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/106.png",
+"price": 1.85
+},
+{
+"id": "sv3pt5-107",
+"name": "Hitmonchan",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "107",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Basic"
+],
+"types": [
+"Fighting"
+],
+"hp": "120",
+"rarity": "Uncommon",
+"artist": "DOM",
+"flavor": "Its punches slice the air. However, it seems to need a short break after fighting for three minutes.",
+"image": "https://images.pokemontcg.io/sv3pt5/107_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/107.png",
+"price": 0.14
+},
+{
+"id": "sv3pt5-108",
+"name": "Lickitung",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "108",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Basic"
+],
+"types": [
+"Colorless"
+],
+"hp": "100",
+"rarity": "Common",
+"artist": "Saya Tsuruta",
+"flavor": "Bug Pokémon are Lickitung's main food source. This Pokémon paralyzes its prey with a lick from its long tongue, then swallows the prey whole.",
+"image": "https://images.pokemontcg.io/sv3pt5/108_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/108.png",
+"price": 0.28
+},
+{
+"id": "sv3pt5-109",
+"name": "Koffing",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "109",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Basic"
+],
+"types": [
+"Darkness"
+],
+"hp": "60",
+"rarity": "Common",
+"artist": "Shibuzoh.",
+"flavor": "Its body is full of poisonous gas. It floats into garbage dumps, seeking out the fumes of raw, rotting trash.",
+"image": "https://images.pokemontcg.io/sv3pt5/109_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/109.png",
+"price": 0.26
+},
+{
+"id": "sv3pt5-110",
+"name": "Weezing",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "110",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Stage 1"
+],
+"types": [
+"Darkness"
+],
+"hp": "110",
+"rarity": "Rare",
+"artist": "Shibuzoh.",
+"flavor": "Very rarely, a sudden mutation can result in two small Koffing twins becoming conjoined as a Weezing.",
+"image": "https://images.pokemontcg.io/sv3pt5/110_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/110.png",
+"price": 0.26
+},
+{
+"id": "sv3pt5-111",
+"name": "Rhyhorn",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "111",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Basic"
+],
+"types": [
+"Fighting"
+],
+"hp": "100",
+"rarity": "Common",
+"artist": "GOSSAN",
+"flavor": "It can remember only one thing at a time. Once it starts rushing, it forgets why it started.",
+"image": "https://images.pokemontcg.io/sv3pt5/111_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/111.png",
+"price": 0.07
+},
+{
+"id": "sv3pt5-112",
+"name": "Rhydon",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "112",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Stage 1"
+],
+"types": [
+"Fighting"
+],
+"hp": "120",
+"rarity": "Uncommon",
+"artist": "GOSSAN",
+"flavor": "Protected by an armor-like hide, it is capable of living in molten lava of 3,600 degrees Fahrenheit.",
+"image": "https://images.pokemontcg.io/sv3pt5/112_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/112.png",
+"price": 0.26
+},
+{
+"id": "sv3pt5-113",
+"name": "Chansey",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "113",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Basic"
+],
+"types": [
+"Colorless"
+],
+"hp": "110",
+"rarity": "Rare",
+"artist": "Taiga Kayama",
+"flavor": "This kindly Pokémon lays highly nutritious eggs and shares them with injured Pokémon or people.",
+"image": "https://images.pokemontcg.io/sv3pt5/113_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/113.png",
+"price": 0.37
+},
+{
+"id": "sv3pt5-114",
+"name": "Tangela",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "114",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Basic"
+],
+"types": [
+"Grass"
+],
+"hp": "80",
+"rarity": "Common",
+"artist": "Aya Kusube",
+"flavor": "Hidden beneath a tangle of vines that grows nonstop even if the vines are torn off, this Pokémon's true appearance remains a mystery.",
+"image": "https://images.pokemontcg.io/sv3pt5/114_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/114.png",
+"price": 0.1
+},
+{
+"id": "sv3pt5-115",
+"name": "Kangaskhan ex",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "115",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Basic",
+"ex"
+],
+"types": [
+"Colorless"
+],
+"hp": "230",
+"rarity": "Double Rare",
+"artist": "N-DESIGN Inc.",
+"flavor": "Draw 3 cards.",
+"image": "https://images.pokemontcg.io/sv3pt5/115_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/115.png",
+"price": 1.11
+},
+{
+"id": "sv3pt5-116",
+"name": "Horsea",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "116",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Basic"
+],
+"types": [
+"Water"
+],
+"hp": "60",
+"rarity": "Common",
+"artist": "aspara",
+"flavor": "They swim with dance-like motions and cause whirlpools to form. Horsea compete to see which of them can generate the biggest whirlpool.",
+"image": "https://images.pokemontcg.io/sv3pt5/116_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/116.png",
+"price": 0.28
+},
+{
+"id": "sv3pt5-117",
+"name": "Seadra",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "117",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Stage 1"
+],
+"types": [
+"Water"
+],
+"hp": "80",
+"rarity": "Uncommon",
+"artist": "aspara",
+"flavor": "Seadra's mouth is slender, but its suction power is strong. In an instant, Seadra can suck in food that's larger than the opening of its mouth.",
+"image": "https://images.pokemontcg.io/sv3pt5/117_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/117.png",
+"price": 0.09
+},
+{
+"id": "sv3pt5-118",
+"name": "Goldeen",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "118",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Basic"
+],
+"types": [
+"Water"
+],
+"hp": "70",
+"rarity": "Common",
+"artist": "SIE NANAHARA",
+"flavor": "Its dorsal and pectoral fins are strongly developed like muscles. It can swim at a speed of five knots.",
+"image": "https://images.pokemontcg.io/sv3pt5/118_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/118.png",
+"price": 0.24
+},
+{
+"id": "sv3pt5-119",
+"name": "Seaking",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "119",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Stage 1"
+],
+"types": [
+"Water"
+],
+"hp": "110",
+"rarity": "Uncommon",
+"artist": "SIE NANAHARA",
+"flavor": "Using its horn, it bores holes in riverbed boulders, making nests to prevent its eggs from washing away.",
+"image": "https://images.pokemontcg.io/sv3pt5/119_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/119.png",
+"price": 1.62
+},
+{
+"id": "sv3pt5-120",
+"name": "Staryu",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "120",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Basic"
+],
+"types": [
+"Water"
+],
+"hp": "60",
+"rarity": "Common",
+"artist": "Arai Kiriko",
+"flavor": "Fish Pokémon nibble at it, but Staryu isn't bothered. Its body regenerates quickly, even if part of it is completely torn off.",
+"image": "https://images.pokemontcg.io/sv3pt5/120_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/120.png",
+"price": 0.28
+},
+{
+"id": "sv3pt5-121",
+"name": "Starmie",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "121",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Stage 1"
+],
+"types": [
+"Water"
+],
+"hp": "90",
+"rarity": "Rare",
+"artist": "Arai Kiriko",
+"flavor": "Starmie swims by spinning its body at high speed. As this Pokémon cruises through the ocean, it absorbs tiny plankton.",
+"image": "https://images.pokemontcg.io/sv3pt5/121_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/121.png",
+"price": 0.78
+},
+{
+"id": "sv3pt5-122",
+"name": "Mr. Mime",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "122",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Basic"
+],
+"types": [
+"Psychic"
+],
+"hp": "90",
+"rarity": "Rare",
+"artist": "OOYAMA",
+"flavor": "It's known for its top-notch pantomime skills. It protects itself from all sorts of attacks by emitting auras from its fingers to create walls.",
+"image": "https://images.pokemontcg.io/sv3pt5/122_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/122.png",
+"price": 0.28
+},
+{
+"id": "sv3pt5-123",
+"name": "Scyther",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "123",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Basic"
+],
+"types": [
+"Grass"
+],
+"hp": "70",
+"rarity": "Uncommon",
+"artist": "Hideki Ishikawa",
+"flavor": "It slashes through grass with its sharp scythes, moving too fast for the human eye to track.",
+"image": "https://images.pokemontcg.io/sv3pt5/123_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/123.png",
+"price": 2.12
+},
+{
+"id": "sv3pt5-124",
+"name": "Jynx ex",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "124",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Basic",
+"ex"
+],
+"types": [
+"Water"
+],
+"hp": "200",
+"rarity": "Double Rare",
+"artist": "Ayaka Yoshida",
+"flavor": "If your opponent's Active Pokémon is Asleep, it is Knocked Out.",
+"image": "https://images.pokemontcg.io/sv3pt5/124_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/124.png",
+"price": 1.36
+},
+{
+"id": "sv3pt5-125",
+"name": "Electabuzz",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "125",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Basic"
+],
+"types": [
+"Lightning"
+],
+"hp": "90",
+"rarity": "Common",
+"artist": "NC Empire",
+"flavor": "With the coming of a storm, many of these Pokémon will gather under tall trees and sit there waiting for lightning to strike.",
+"image": "https://images.pokemontcg.io/sv3pt5/125_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/125.png",
+"price": 0.09
+},
+{
+"id": "sv3pt5-126",
+"name": "Magmar",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "126",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Basic"
+],
+"types": [
+"Fire"
+],
+"hp": "90",
+"rarity": "Common",
+"artist": "Toshinao Aoki",
+"flavor": "These Pokémon's bodies are constantly burning. Magmar are feared as one of the causes behind fires.",
+"image": "https://images.pokemontcg.io/sv3pt5/126_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/126.png",
+"price": 0.07
+},
+{
+"id": "sv3pt5-127",
+"name": "Pinsir",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "127",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Basic"
+],
+"types": [
+"Grass"
+],
+"hp": "120",
+"rarity": "Uncommon",
+"artist": "Yuya Oka",
+"flavor": "This Pokémon clamps its pincers down on its prey and then either splits the prey in half or flings it away.",
+"image": "https://images.pokemontcg.io/sv3pt5/127_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/127.png",
+"price": 0.09
+},
+{
+"id": "sv3pt5-128",
+"name": "Tauros",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "128",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Basic"
+],
+"types": [
+"Colorless"
+],
+"hp": "120",
+"rarity": "Uncommon",
+"artist": "Takeshi Nakamura",
+"flavor": "When it targets an enemy, it charges furiously while whipping its body with its long tails.",
+"image": "https://images.pokemontcg.io/sv3pt5/128_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/128.png",
+"price": 0.12
+},
+{
+"id": "sv3pt5-129",
+"name": "Magikarp",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "129",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Basic"
+],
+"types": [
+"Water"
+],
+"hp": "30",
+"rarity": "Common",
+"artist": "Kouki Saitou",
+"flavor": "An underpowered, pathetic Pokémon. It may jump high on rare occasions but never more than seven feet.",
+"image": "https://images.pokemontcg.io/sv3pt5/129_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/129.png",
+"price": 0.38
+},
+{
+"id": "sv3pt5-130",
+"name": "Gyarados",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "130",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Stage 1"
+],
+"types": [
+"Water"
+],
+"hp": "190",
+"rarity": "Rare",
+"artist": "Kouki Saitou",
+"flavor": "Once it appears, it goes on a rampage. It remains enraged until it demolishes everything around it.",
+"image": "https://images.pokemontcg.io/sv3pt5/130_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/130.png",
+"price": 1.71
+},
+{
+"id": "sv3pt5-131",
+"name": "Lapras",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "131",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Basic"
+],
+"types": [
+"Water"
+],
+"hp": "110",
+"rarity": "Uncommon",
+"artist": "LINNE",
+"flavor": "Crossing icy seas is no issue for this cold-resistant Pokémon. Its smooth skin is a little cool to the touch.",
+"image": "https://images.pokemontcg.io/sv3pt5/131_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/131.png",
+"price": 0.13
+},
+{
+"id": "sv3pt5-132",
+"name": "Ditto",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "132",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Basic"
+],
+"types": [
+"Colorless"
+],
+"hp": "60",
+"rarity": "Rare",
+"artist": "KIYOTAKA OSHIYAMA",
+"flavor": "Its transformation ability is perfect. However, if made to laugh, it can't maintain its disguise.",
+"image": "https://images.pokemontcg.io/sv3pt5/132_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/132.png",
+"price": 2.0
+},
+{
+"id": "sv3pt5-133",
+"name": "Eevee",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "133",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Basic"
+],
+"types": [
+"Colorless"
+],
+"hp": "70",
+"rarity": "Common",
+"artist": "Narumi Sato",
+"flavor": "Its ability to evolve into many forms allows it to adapt smoothly and perfectly to any environment.",
+"image": "https://images.pokemontcg.io/sv3pt5/133_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/133.png",
+"price": 0.13
+},
+{
+"id": "sv3pt5-134",
+"name": "Vaporeon",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "134",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Stage 1"
+],
+"types": [
+"Water"
+],
+"hp": "130",
+"rarity": "Rare",
+"artist": "kirisAki",
+"flavor": "It lives close to water. Its long tail is ridged with a fin, which is often mistaken for a mermaid's.",
+"image": "https://images.pokemontcg.io/sv3pt5/134_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/134.png",
+"price": 1.78
+},
+{
+"id": "sv3pt5-135",
+"name": "Jolteon",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "135",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Stage 1"
+],
+"types": [
+"Lightning"
+],
+"hp": "110",
+"rarity": "Rare",
+"artist": "sui",
+"flavor": "It concentrates the weak electric charges emitted by its cells and launches wicked lightning bolts.",
+"image": "https://images.pokemontcg.io/sv3pt5/135_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/135.png",
+"price": 2.8
+},
+{
+"id": "sv3pt5-136",
+"name": "Flareon",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "136",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Stage 1"
+],
+"types": [
+"Fire"
+],
+"hp": "130",
+"rarity": "Rare",
+"artist": "Ryota Murayama",
+"flavor": "Inhaled air is carried to its flame sac, heated, and exhaled as fire that reaches over 3,000 degrees Fahrenheit.",
+"image": "https://images.pokemontcg.io/sv3pt5/136_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/136.png",
+"price": 1.75
+},
+{
+"id": "sv3pt5-137",
+"name": "Porygon",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "137",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Basic"
+],
+"types": [
+"Colorless"
+],
+"hp": "60",
+"rarity": "Common",
+"artist": "5ban Graphics",
+"flavor": "In recent years, this species has been very helpful in cyberspace. These Pokémon will go around checking to make sure no suspicious data exists.",
+"image": "https://images.pokemontcg.io/sv3pt5/137_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/137.png",
+"price": 0.06
+},
+{
+"id": "sv3pt5-138",
+"name": "Omanyte",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "138",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Stage 1"
+],
+"types": [
+"Water"
+],
+"hp": "100",
+"rarity": "Uncommon",
+"artist": "Akira Komayama",
+"flavor": "This Pokémon is a member of an ancient, extinct species. Omanyte paddles through water with its 10 tentacles, looking like it's just drifting along.",
+"image": "https://images.pokemontcg.io/sv3pt5/138_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/138.png",
+"price": 0.16
+},
+{
+"id": "sv3pt5-139",
+"name": "Omastar",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "139",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Stage 2"
+],
+"types": [
+"Water"
+],
+"hp": "150",
+"rarity": "Rare",
+"artist": "Akira Komayama",
+"flavor": "Omastar's sharp fangs could crush rock, but the Pokémon can attack only the prey that come within reach of its tentacles.",
+"image": "https://images.pokemontcg.io/sv3pt5/139_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/139.png",
+"price": 0.94
+},
+{
+"id": "sv3pt5-140",
+"name": "Kabuto",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "140",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Stage 1"
+],
+"types": [
+"Fighting"
+],
+"hp": "90",
+"rarity": "Uncommon",
+"artist": "Souichirou Gunjima",
+"flavor": "While some say this species has gone extinct, Kabuto sightings are apparently fairly common in some places.",
+"image": "https://images.pokemontcg.io/sv3pt5/140_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/140.png",
+"price": 1.47
+},
+{
+"id": "sv3pt5-141",
+"name": "Kabutops",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "141",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Stage 2"
+],
+"types": [
+"Fighting"
+],
+"hp": "160",
+"rarity": "Rare",
+"artist": "Souichirou Gunjima",
+"flavor": "The cause behind the extinction of this species is unknown. Kabutops were aggressive Pokémon that inhabited warm seas.",
+"image": "https://images.pokemontcg.io/sv3pt5/141_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/141.png",
+"price": 1.49
+},
+{
+"id": "sv3pt5-142",
+"name": "Aerodactyl",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "142",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Stage 1"
+],
+"types": [
+"Colorless"
+],
+"hp": "130",
+"rarity": "Rare",
+"artist": "Shinji Kanda",
+"flavor": "Aerodactyl's sawlike fangs can shred skin to tatters—even the skin of Steel-type Pokémon.",
+"image": "https://images.pokemontcg.io/sv3pt5/142_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/142.png",
+"price": 0.3
+},
+{
+"id": "sv3pt5-143",
+"name": "Snorlax",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "143",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Basic"
+],
+"types": [
+"Colorless"
+],
+"hp": "150",
+"rarity": "Uncommon",
+"artist": "HYOGONOSUKE",
+"flavor": "This Pokémon's stomach is so strong, even eating moldy or rotten food will not affect it.",
+"image": "https://images.pokemontcg.io/sv3pt5/143_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/143.png",
+"price": 0.25
+},
+{
+"id": "sv3pt5-144",
+"name": "Articuno",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "144",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Basic"
+],
+"types": [
+"Water"
+],
+"hp": "120",
+"rarity": "Rare",
+"artist": "chibi",
+"flavor": "This Pokémon can control ice at will. Articuno is said to live in snowy mountains riddled with permafrost.",
+"image": "https://images.pokemontcg.io/sv3pt5/144_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/144.png",
+"price": 0.29
+},
+{
+"id": "sv3pt5-145",
+"name": "Zapdos ex",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "145",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Basic",
+"ex"
+],
+"types": [
+"Lightning"
+],
+"hp": "200",
+"rarity": "Double Rare",
+"artist": "takuyoa",
+"flavor": "This attack also does 90 damage to 1 of your opponent's Benched Pokémon that has any damage counters on it. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+"image": "https://images.pokemontcg.io/sv3pt5/145_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/145.png",
+"price": 1.61
+},
+{
+"id": "sv3pt5-146",
+"name": "Moltres",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "146",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Basic"
+],
+"types": [
+"Fire"
+],
+"hp": "120",
+"rarity": "Rare",
+"artist": "KEIICHIRO ITO",
+"flavor": "There are stories of this Pokémon using its radiant, flame-cloaked wings to light up paths for those lost in the mountains.",
+"image": "https://images.pokemontcg.io/sv3pt5/146_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/146.png",
+"price": 1.26
+},
+{
+"id": "sv3pt5-147",
+"name": "Dratini",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "147",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Basic"
+],
+"types": [
+"Dragon"
+],
+"hp": "60",
+"rarity": "Common",
+"artist": "Sanosuke Sakuma",
+"flavor": "It sheds many layers of skin as it grows larger. During this process, it is protected by a rapid waterfall.",
+"image": "https://images.pokemontcg.io/sv3pt5/147_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/147.png",
+"price": 0.18
+},
+{
+"id": "sv3pt5-148",
+"name": "Dragonair",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "148",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Stage 1"
+],
+"types": [
+"Dragon"
+],
+"hp": "100",
+"rarity": "Uncommon",
+"artist": "Sanosuke Sakuma",
+"flavor": "They say that if it emits an aura from its whole body, the weather will begin to change instantly.",
+"image": "https://images.pokemontcg.io/sv3pt5/148_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/148.png",
+"price": 0.21
+},
+{
+"id": "sv3pt5-149",
+"name": "Dragonite",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "149",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Stage 2"
+],
+"types": [
+"Dragon"
+],
+"hp": "180",
+"rarity": "Rare",
+"artist": "Sanosuke Sakuma",
+"flavor": "It is said that somewhere in the ocean lies an island where these gather. Only they live there.",
+"image": "https://images.pokemontcg.io/sv3pt5/149_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/149.png",
+"price": 1.34
+},
+{
+"id": "sv3pt5-150",
+"name": "Mewtwo",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "150",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Basic"
+],
+"types": [
+"Psychic"
+],
+"hp": "130",
+"rarity": "Rare",
+"artist": "AKIRA EGAWA",
+"flavor": "A Pokémon created by recombining Mew's genes. It's said to have the most savage heart among Pokémon.",
+"image": "https://images.pokemontcg.io/sv3pt5/150_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/150.png",
+"price": 4.06
+},
+{
+"id": "sv3pt5-151",
+"name": "Mew ex",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "151",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Basic",
+"ex"
+],
+"types": [
+"Psychic"
+],
+"hp": "180",
+"rarity": "Double Rare",
+"artist": "aky CG Works",
+"flavor": "Choose 1 of your opponent's Active Pokémon's attacks and use it as this attack.",
+"image": "https://images.pokemontcg.io/sv3pt5/151_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/151.png",
+"price": 8.75
+},
+{
+"id": "sv3pt5-152",
+"name": "Antique Dome Fossil",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "152",
+"printedTotal": 165,
+"supertype": "Trainer",
+"subtypes": [
+"Item"
+],
+"types": [],
+"hp": "60",
+"rarity": "Common",
+"artist": "AYUMI ODASHIMA",
+"flavor": null,
+"image": "https://images.pokemontcg.io/sv3pt5/152_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/152.png",
+"price": 0.27
+},
+{
+"id": "sv3pt5-153",
+"name": "Antique Helix Fossil",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "153",
+"printedTotal": 165,
+"supertype": "Trainer",
+"subtypes": [
+"Item"
+],
+"types": [],
+"hp": "60",
+"rarity": "Common",
+"artist": "AYUMI ODASHIMA",
+"flavor": null,
+"image": "https://images.pokemontcg.io/sv3pt5/153_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/153.png",
+"price": 1.3
+},
+{
+"id": "sv3pt5-154",
+"name": "Antique Old Amber",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "154",
+"printedTotal": 165,
+"supertype": "Trainer",
+"subtypes": [
+"Item"
+],
+"types": [],
+"hp": "60",
+"rarity": "Common",
+"artist": "AYUMI ODASHIMA",
+"flavor": null,
+"image": "https://images.pokemontcg.io/sv3pt5/154_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/154.png",
+"price": 0.91
+},
+{
+"id": "sv3pt5-155",
+"name": "Big Air Balloon",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "155",
+"printedTotal": 165,
+"supertype": "Trainer",
+"subtypes": [
+"Pokémon Tool"
+],
+"types": [],
+"hp": null,
+"rarity": "Uncommon",
+"artist": "Toyste Beach",
+"flavor": null,
+"image": "https://images.pokemontcg.io/sv3pt5/155_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/155.png",
+"price": 0.19
+},
+{
+"id": "sv3pt5-156",
+"name": "Bill's Transfer",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "156",
+"printedTotal": 165,
+"supertype": "Trainer",
+"subtypes": [
+"Supporter"
+],
+"types": [],
+"hp": null,
+"rarity": "Uncommon",
+"artist": "GIDORA",
+"flavor": null,
+"image": "https://images.pokemontcg.io/sv3pt5/156_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/156.png",
+"price": 0.69
+},
+{
+"id": "sv3pt5-157",
+"name": "Cycling Road",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "157",
+"printedTotal": 165,
+"supertype": "Trainer",
+"subtypes": [
+"Stadium"
+],
+"types": [],
+"hp": null,
+"rarity": "Uncommon",
+"artist": "Oswaldo KATO",
+"flavor": null,
+"image": "https://images.pokemontcg.io/sv3pt5/157_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/157.png",
+"price": 0.72
+},
+{
+"id": "sv3pt5-158",
+"name": "Daisy's Help",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "158",
+"printedTotal": 165,
+"supertype": "Trainer",
+"subtypes": [
+"Supporter"
+],
+"types": [],
+"hp": null,
+"rarity": "Uncommon",
+"artist": "Tomomi Kaneko",
+"flavor": null,
+"image": "https://images.pokemontcg.io/sv3pt5/158_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/158.png",
+"price": 0.7
+},
+{
+"id": "sv3pt5-159",
+"name": "Energy Sticker",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "159",
+"printedTotal": 165,
+"supertype": "Trainer",
+"subtypes": [
+"Item"
+],
+"types": [],
+"hp": null,
+"rarity": "Uncommon",
+"artist": "Ayaka Yoshida",
+"flavor": null,
+"image": "https://images.pokemontcg.io/sv3pt5/159_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/159.png",
+"price": 1.37
+},
+{
+"id": "sv3pt5-160",
+"name": "Erika's Invitation",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "160",
+"printedTotal": 165,
+"supertype": "Trainer",
+"subtypes": [
+"Supporter"
+],
+"types": [],
+"hp": null,
+"rarity": "Uncommon",
+"artist": "saino misaki",
+"flavor": null,
+"image": "https://images.pokemontcg.io/sv3pt5/160_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/160.png",
+"price": 0.19
+},
+{
+"id": "sv3pt5-161",
+"name": "Giovanni's Charisma",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "161",
+"printedTotal": 165,
+"supertype": "Trainer",
+"subtypes": [
+"Supporter"
+],
+"types": [],
+"hp": null,
+"rarity": "Uncommon",
+"artist": "hncl",
+"flavor": null,
+"image": "https://images.pokemontcg.io/sv3pt5/161_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/161.png",
+"price": 0.12
+},
+{
+"id": "sv3pt5-162",
+"name": "Grabber",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "162",
+"printedTotal": 165,
+"supertype": "Trainer",
+"subtypes": [
+"Item"
+],
+"types": [],
+"hp": null,
+"rarity": "Uncommon",
+"artist": "inose yukie",
+"flavor": null,
+"image": "https://images.pokemontcg.io/sv3pt5/162_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/162.png",
+"price": 0.27
+},
+{
+"id": "sv3pt5-163",
+"name": "Leftovers",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "163",
+"printedTotal": 165,
+"supertype": "Trainer",
+"subtypes": [
+"Pokémon Tool"
+],
+"types": [],
+"hp": null,
+"rarity": "Uncommon",
+"artist": "Studio Bora Inc.",
+"flavor": null,
+"image": "https://images.pokemontcg.io/sv3pt5/163_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/163.png",
+"price": 0.1
+},
+{
+"id": "sv3pt5-164",
+"name": "Protective Goggles",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "164",
+"printedTotal": 165,
+"supertype": "Trainer",
+"subtypes": [
+"Pokémon Tool"
+],
+"types": [],
+"hp": null,
+"rarity": "Uncommon",
+"artist": "Toyste Beach",
+"flavor": null,
+"image": "https://images.pokemontcg.io/sv3pt5/164_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/164.png",
+"price": 0.3
+},
+{
+"id": "sv3pt5-165",
+"name": "Rigid Band",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "165",
+"printedTotal": 165,
+"supertype": "Trainer",
+"subtypes": [
+"Pokémon Tool"
+],
+"types": [],
+"hp": null,
+"rarity": "Uncommon",
+"artist": "Toyste Beach",
+"flavor": null,
+"image": "https://images.pokemontcg.io/sv3pt5/165_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/165.png",
+"price": 0.24
+},
+{
+"id": "sv3pt5-166",
+"name": "Bulbasaur",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "166",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Basic"
+],
+"types": [
+"Grass"
+],
+"hp": "70",
+"rarity": "Illustration Rare",
+"artist": "Yoriyuki Ikegami",
+"flavor": "While it is young, it uses the nutrients that are stored in the seed on its back in order to grow.",
+"image": "https://images.pokemontcg.io/sv3pt5/166_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/166.png",
+"price": 98.76
+},
+{
+"id": "sv3pt5-167",
+"name": "Ivysaur",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "167",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Stage 1"
+],
+"types": [
+"Grass"
+],
+"hp": "100",
+"rarity": "Illustration Rare",
+"artist": "Yoriyuki Ikegami",
+"flavor": "Exposure to sunlight adds to its strength. Sunlight also makes the bud on its back grow larger.",
+"image": "https://images.pokemontcg.io/sv3pt5/167_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/167.png",
+"price": 60.84
+},
+{
+"id": "sv3pt5-168",
+"name": "Charmander",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "168",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Basic"
+],
+"types": [
+"Fire"
+],
+"hp": "70",
+"rarity": "Illustration Rare",
+"artist": "miki kudo",
+"flavor": "From the time it is born, a flame burns at the tip of its tail. Its life would end if the flame were to go out.",
+"image": "https://images.pokemontcg.io/sv3pt5/168_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/168.png",
+"price": 125.89
+},
+{
+"id": "sv3pt5-169",
+"name": "Charmeleon",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "169",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Stage 1"
+],
+"types": [
+"Fire"
+],
+"hp": "100",
+"rarity": "Illustration Rare",
+"artist": "miki kudo",
+"flavor": "If it becomes agitated during battle, it spouts intense flames, incinerating its surroundings.",
+"image": "https://images.pokemontcg.io/sv3pt5/169_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/169.png",
+"price": 83.48
+},
+{
+"id": "sv3pt5-170",
+"name": "Squirtle",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "170",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Basic"
+],
+"types": [
+"Water"
+],
+"hp": "60",
+"rarity": "Illustration Rare",
+"artist": "Mitsuhiro Arita",
+"flavor": "When it feels threatened, it draws its limbs inside its shell and sprays water from its mouth.",
+"image": "https://images.pokemontcg.io/sv3pt5/170_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/170.png",
+"price": 118.48
+},
+{
+"id": "sv3pt5-171",
+"name": "Wartortle",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "171",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Stage 1"
+],
+"types": [
+"Water"
+],
+"hp": "100",
+"rarity": "Illustration Rare",
+"artist": "Mitsuhiro Arita",
+"flavor": "It cleverly controls its furry ears and tail to maintain its balance while swimming.",
+"image": "https://images.pokemontcg.io/sv3pt5/171_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/171.png",
+"price": 77.58
+},
+{
+"id": "sv3pt5-172",
+"name": "Caterpie",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "172",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Basic"
+],
+"types": [
+"Grass"
+],
+"hp": "50",
+"rarity": "Illustration Rare",
+"artist": "Teeziro",
+"flavor": "Its short feet are tipped with suction pads that enable it to tirelessly climb slopes and walls.",
+"image": "https://images.pokemontcg.io/sv3pt5/172_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/172.png",
+"price": 21.83
+},
+{
+"id": "sv3pt5-173",
+"name": "Pikachu",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "173",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Basic"
+],
+"types": [
+"Lightning"
+],
+"hp": "60",
+"rarity": "Illustration Rare",
+"artist": "Hiroyuki Yamamoto",
+"flavor": "When it is angered, it immediately discharges the energy stored in the pouches in its cheeks.",
+"image": "https://images.pokemontcg.io/sv3pt5/173_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/173.png",
+"price": 104.93
+},
+{
+"id": "sv3pt5-174",
+"name": "Nidoking",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "174",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Stage 2"
+],
+"types": [
+"Darkness"
+],
+"hp": "170",
+"rarity": "Illustration Rare",
+"artist": "Misaki Hashimoto",
+"flavor": "Nidoking prides itself on its strength. It's forceful and spirited in battle, making use of its thick tail and diamond-crushing horn.",
+"image": "https://images.pokemontcg.io/sv3pt5/174_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/174.png",
+"price": 21.51
+},
+{
+"id": "sv3pt5-175",
+"name": "Psyduck",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "175",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Basic"
+],
+"types": [
+"Water"
+],
+"hp": "70",
+"rarity": "Illustration Rare",
+"artist": "Whisker",
+"flavor": "It is constantly wracked by a headache. When the headache turns intense, it begins using mysterious powers.",
+"image": "https://images.pokemontcg.io/sv3pt5/175_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/175.png",
+"price": 82.11
+},
+{
+"id": "sv3pt5-176",
+"name": "Poliwhirl",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "176",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Stage 1"
+],
+"types": [
+"Water"
+],
+"hp": "90",
+"rarity": "Illustration Rare",
+"artist": "Gemi",
+"flavor": "This Pokémon's sweat is a slimy mucus. When captured, Poliwhirl can slither from its enemies' grasp and escape.",
+"image": "https://images.pokemontcg.io/sv3pt5/176_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/176.png",
+"price": 64.06
+},
+{
+"id": "sv3pt5-177",
+"name": "Machoke",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "177",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Stage 1"
+],
+"types": [
+"Fighting"
+],
+"hp": "100",
+"rarity": "Illustration Rare",
+"artist": "Tetsu Kayama",
+"flavor": "Its formidable body never gets tired. It helps people by doing work such as the moving of heavy goods.",
+"image": "https://images.pokemontcg.io/sv3pt5/177_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/177.png",
+"price": 27.64
+},
+{
+"id": "sv3pt5-178",
+"name": "Tangela",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "178",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Basic"
+],
+"types": [
+"Grass"
+],
+"hp": "80",
+"rarity": "Illustration Rare",
+"artist": "Oswaldo KATO",
+"flavor": "Hidden beneath a tangle of vines that grows nonstop even if the vines are torn off, this Pokémon's true appearance remains a mystery.",
+"image": "https://images.pokemontcg.io/sv3pt5/178_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/178.png",
+"price": 21.7
+},
+{
+"id": "sv3pt5-179",
+"name": "Mr. Mime",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "179",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Basic"
+],
+"types": [
+"Psychic"
+],
+"hp": "90",
+"rarity": "Illustration Rare",
+"artist": "OKACHEKE",
+"flavor": "It's known for its top-notch pantomime skills. It protects itself from all sorts of attacks by emitting auras from its fingers to create walls.",
+"image": "https://images.pokemontcg.io/sv3pt5/179_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/179.png",
+"price": 17.47
+},
+{
+"id": "sv3pt5-180",
+"name": "Omanyte",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "180",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Stage 1"
+],
+"types": [
+"Water"
+],
+"hp": "100",
+"rarity": "Illustration Rare",
+"artist": "Yano Keiji",
+"flavor": "This Pokémon is a member of an ancient, extinct species. Omanyte paddles through water with its 10 tentacles, looking like it's just drifting along.",
+"image": "https://images.pokemontcg.io/sv3pt5/180_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/180.png",
+"price": 17.75
+},
+{
+"id": "sv3pt5-181",
+"name": "Dragonair",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "181",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Stage 1"
+],
+"types": [
+"Dragon"
+],
+"hp": "100",
+"rarity": "Illustration Rare",
+"artist": "rika",
+"flavor": "They say that if it emits an aura from its whole body, the weather will begin to change instantly.",
+"image": "https://images.pokemontcg.io/sv3pt5/181_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/181.png",
+"price": 52.14
+},
+{
+"id": "sv3pt5-182",
+"name": "Venusaur ex",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "182",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Stage 2",
+"ex"
+],
+"types": [
+"Grass"
+],
+"hp": "340",
+"rarity": "Ultra Rare",
+"artist": "PLANETA Yamashita",
+"flavor": "Your opponent's Active Pokémon is now Confused and Poisoned.",
+"image": "https://images.pokemontcg.io/sv3pt5/182_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/182.png",
+"price": 18.41
+},
+{
+"id": "sv3pt5-183",
+"name": "Charizard ex",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "183",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Stage 2",
+"ex"
+],
+"types": [
+"Fire"
+],
+"hp": "330",
+"rarity": "Ultra Rare",
+"artist": "PLANETA Mochizuki",
+"flavor": "If this Pokémon has any damage counters on it, this attack does 100 more damage.",
+"image": "https://images.pokemontcg.io/sv3pt5/183_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/183.png",
+"price": 48.9
+},
+{
+"id": "sv3pt5-184",
+"name": "Blastoise ex",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "184",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Stage 2",
+"ex"
+],
+"types": [
+"Water"
+],
+"hp": "330",
+"rarity": "Ultra Rare",
+"artist": "PLANETA Yamashita",
+"flavor": "Discard up to 2 Basic Water Energy cards from your hand. This attack does 140 damage for each card you discarded in this way.",
+"image": "https://images.pokemontcg.io/sv3pt5/184_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/184.png",
+"price": 28.14
+},
+{
+"id": "sv3pt5-185",
+"name": "Arbok ex",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "185",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Stage 1",
+"ex"
+],
+"types": [
+"Darkness"
+],
+"hp": "270",
+"rarity": "Ultra Rare",
+"artist": "Eske Yoshinob",
+"flavor": "During your opponent's next turn, the Defending Pokémon can't retreat.",
+"image": "https://images.pokemontcg.io/sv3pt5/185_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/185.png",
+"price": 10.75
+},
+{
+"id": "sv3pt5-186",
+"name": "Ninetales ex",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "186",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Stage 1",
+"ex"
+],
+"types": [
+"Fire"
+],
+"hp": "260",
+"rarity": "Ultra Rare",
+"artist": "PLANETA Tsuji",
+"flavor": "Your opponent's Active Pokémon is now Burned.",
+"image": "https://images.pokemontcg.io/sv3pt5/186_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/186.png",
+"price": 17.2
+},
+{
+"id": "sv3pt5-187",
+"name": "Wigglytuff ex",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "187",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Stage 1",
+"ex"
+],
+"types": [
+"Colorless"
+],
+"hp": "250",
+"rarity": "Ultra Rare",
+"artist": "Saki Hayashiro",
+"flavor": "If you played a Supporter card from your hand during this turn, this attack does 90 more damage.",
+"image": "https://images.pokemontcg.io/sv3pt5/187_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/187.png",
+"price": 9.35
+},
+{
+"id": "sv3pt5-188",
+"name": "Alakazam ex",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "188",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Stage 2",
+"ex"
+],
+"types": [
+"Psychic"
+],
+"hp": "310",
+"rarity": "Ultra Rare",
+"artist": "PLANETA Tsuji",
+"flavor": "This attack does 30 more damage for each of your opponent's Benched Pokémon.",
+"image": "https://images.pokemontcg.io/sv3pt5/188_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/188.png",
+"price": 14.32
+},
+{
+"id": "sv3pt5-189",
+"name": "Golem ex",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "189",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Stage 2",
+"ex"
+],
+"types": [
+"Fighting"
+],
+"hp": "330",
+"rarity": "Ultra Rare",
+"artist": "PLANETA Igarashi",
+"flavor": "During your next turn, attacks used by this Pokémon do 120 more damage to your opponent's Active Pokémon (before applying Weakness and Resistance).",
+"image": "https://images.pokemontcg.io/sv3pt5/189_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/189.png",
+"price": 8.49
+},
+{
+"id": "sv3pt5-190",
+"name": "Kangaskhan ex",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "190",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Basic",
+"ex"
+],
+"types": [
+"Colorless"
+],
+"hp": "230",
+"rarity": "Ultra Rare",
+"artist": "N-DESIGN Inc.",
+"flavor": "Draw 3 cards.",
+"image": "https://images.pokemontcg.io/sv3pt5/190_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/190.png",
+"price": 7.57
+},
+{
+"id": "sv3pt5-191",
+"name": "Jynx ex",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "191",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Basic",
+"ex"
+],
+"types": [
+"Water"
+],
+"hp": "200",
+"rarity": "Ultra Rare",
+"artist": "Ayaka Yoshida",
+"flavor": "If your opponent's Active Pokémon is Asleep, it is Knocked Out.",
+"image": "https://images.pokemontcg.io/sv3pt5/191_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/191.png",
+"price": 7.94
+},
+{
+"id": "sv3pt5-192",
+"name": "Zapdos ex",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "192",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Basic",
+"ex"
+],
+"types": [
+"Lightning"
+],
+"hp": "200",
+"rarity": "Ultra Rare",
+"artist": "takuyoa",
+"flavor": "This attack also does 90 damage to 1 of your opponent's Benched Pokémon that has any damage counters on it. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+"image": "https://images.pokemontcg.io/sv3pt5/192_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/192.png",
+"price": 14.12
+},
+{
+"id": "sv3pt5-193",
+"name": "Mew ex",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "193",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Basic",
+"ex"
+],
+"types": [
+"Psychic"
+],
+"hp": "180",
+"rarity": "Ultra Rare",
+"artist": "aky CG Works",
+"flavor": "Choose 1 of your opponent's Active Pokémon's attacks and use it as this attack.",
+"image": "https://images.pokemontcg.io/sv3pt5/193_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/193.png",
+"price": 49.16
+},
+{
+"id": "sv3pt5-194",
+"name": "Bill's Transfer",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "194",
+"printedTotal": 165,
+"supertype": "Trainer",
+"subtypes": [
+"Supporter"
+],
+"types": [],
+"hp": null,
+"rarity": "Ultra Rare",
+"artist": "GIDORA",
+"flavor": null,
+"image": "https://images.pokemontcg.io/sv3pt5/194_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/194.png",
+"price": 4.48
+},
+{
+"id": "sv3pt5-195",
+"name": "Daisy's Help",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "195",
+"printedTotal": 165,
+"supertype": "Trainer",
+"subtypes": [
+"Supporter"
+],
+"types": [],
+"hp": null,
+"rarity": "Ultra Rare",
+"artist": "Fumie Kittaka",
+"flavor": null,
+"image": "https://images.pokemontcg.io/sv3pt5/195_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/195.png",
+"price": 3.81
+},
+{
+"id": "sv3pt5-196",
+"name": "Erika's Invitation",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "196",
+"printedTotal": 165,
+"supertype": "Trainer",
+"subtypes": [
+"Supporter"
+],
+"types": [],
+"hp": null,
+"rarity": "Ultra Rare",
+"artist": "saino misaki",
+"flavor": null,
+"image": "https://images.pokemontcg.io/sv3pt5/196_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/196.png",
+"price": 10.23
+},
+{
+"id": "sv3pt5-197",
+"name": "Giovanni's Charisma",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "197",
+"printedTotal": 165,
+"supertype": "Trainer",
+"subtypes": [
+"Supporter"
+],
+"types": [],
+"hp": null,
+"rarity": "Ultra Rare",
+"artist": "hncl",
+"flavor": null,
+"image": "https://images.pokemontcg.io/sv3pt5/197_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/197.png",
+"price": 5.03
+},
+{
+"id": "sv3pt5-198",
+"name": "Venusaur ex",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "198",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Stage 2",
+"ex"
+],
+"types": [
+"Grass"
+],
+"hp": "340",
+"rarity": "Special Illustration Rare",
+"artist": "Yoriyuki Ikegami",
+"flavor": "Your opponent's Active Pokémon is now Confused and Poisoned.",
+"image": "https://images.pokemontcg.io/sv3pt5/198_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/198.png",
+"price": 134.92
+},
+{
+"id": "sv3pt5-199",
+"name": "Charizard ex",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "199",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Stage 2",
+"ex"
+],
+"types": [
+"Fire"
+],
+"hp": "330",
+"rarity": "Special Illustration Rare",
+"artist": "miki kudo",
+"flavor": "If this Pokémon has any damage counters on it, this attack does 100 more damage.",
+"image": "https://images.pokemontcg.io/sv3pt5/199_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/199.png",
+"price": 479.59
+},
+{
+"id": "sv3pt5-200",
+"name": "Blastoise ex",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "200",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Stage 2",
+"ex"
+],
+"types": [
+"Water"
+],
+"hp": "330",
+"rarity": "Special Illustration Rare",
+"artist": "Mitsuhiro Arita",
+"flavor": "Discard up to 2 Basic Water Energy cards from your hand. This attack does 140 damage for each card you discarded in this way.",
+"image": "https://images.pokemontcg.io/sv3pt5/200_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/200.png",
+"price": 162.49
+},
+{
+"id": "sv3pt5-201",
+"name": "Alakazam ex",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "201",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Stage 2",
+"ex"
+],
+"types": [
+"Psychic"
+],
+"hp": "310",
+"rarity": "Special Illustration Rare",
+"artist": "Shinya Komatsu",
+"flavor": "This attack does 30 more damage for each of your opponent's Benched Pokémon.",
+"image": "https://images.pokemontcg.io/sv3pt5/201_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/201.png",
+"price": 84.54
+},
+{
+"id": "sv3pt5-202",
+"name": "Zapdos ex",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "202",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Basic",
+"ex"
+],
+"types": [
+"Lightning"
+],
+"hp": "200",
+"rarity": "Special Illustration Rare",
+"artist": "Shiburingaru",
+"flavor": "This attack also does 90 damage to 1 of your opponent's Benched Pokémon that has any damage counters on it. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+"image": "https://images.pokemontcg.io/sv3pt5/202_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/202.png",
+"price": 114.47
+},
+{
+"id": "sv3pt5-203",
+"name": "Erika's Invitation",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "203",
+"printedTotal": 165,
+"supertype": "Trainer",
+"subtypes": [
+"Supporter"
+],
+"types": [],
+"hp": null,
+"rarity": "Special Illustration Rare",
+"artist": "Cona Nitanda",
+"flavor": null,
+"image": "https://images.pokemontcg.io/sv3pt5/203_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/203.png",
+"price": 22.53
+},
+{
+"id": "sv3pt5-204",
+"name": "Giovanni's Charisma",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "204",
+"printedTotal": 165,
+"supertype": "Trainer",
+"subtypes": [
+"Supporter"
+],
+"types": [],
+"hp": null,
+"rarity": "Special Illustration Rare",
+"artist": "Hideki Ishikawa",
+"flavor": null,
+"image": "https://images.pokemontcg.io/sv3pt5/204_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/204.png",
+"price": 17.99
+},
+{
+"id": "sv3pt5-205",
+"name": "Mew ex",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "205",
+"printedTotal": 165,
+"supertype": "Pokémon",
+"subtypes": [
+"Basic",
+"ex"
+],
+"types": [
+"Psychic"
+],
+"hp": "180",
+"rarity": "Hyper Rare",
+"artist": "aky CG Works",
+"flavor": "Choose 1 of your opponent's Active Pokémon's attacks and use it as this attack.",
+"image": "https://images.pokemontcg.io/sv3pt5/205_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/205.png",
+"price": 34.81
+},
+{
+"id": "sv3pt5-206",
+"name": "Switch",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "206",
+"printedTotal": 165,
+"supertype": "Trainer",
+"subtypes": [
+"Item"
+],
+"types": [],
+"hp": null,
+"rarity": "Hyper Rare",
+"artist": "Studio Bora Inc.",
+"flavor": null,
+"image": "https://images.pokemontcg.io/sv3pt5/206_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/206.png",
+"price": 2.67
+},
+{
+"id": "sv3pt5-207",
+"name": "Basic Psychic Energy",
+"setName": "151",
+"setId": "sv3pt5",
+"number": "207",
+"printedTotal": 165,
+"supertype": "Energy",
+"subtypes": [
+"Basic"
+],
+"types": [
+"Psychic"
+],
+"hp": null,
+"rarity": "Hyper Rare",
+"artist": null,
+"flavor": null,
+"image": "https://images.pokemontcg.io/sv3pt5/207_hires.png",
+"imageSmall": "https://images.pokemontcg.io/sv3pt5/207.png",
+"price": 5.85
+},
+{
+"id": "base1-1",
+"name": "Alakazam",
+"setName": "Base",
+"setId": "base1",
+"number": "1",
+"printedTotal": 102,
+"supertype": "Pokémon",
+"subtypes": [
+"Stage 2"
+],
+"types": [
+"Psychic"
+],
+"hp": "80",
+"rarity": "Rare Holo",
+"artist": "Ken Sugimori",
+"flavor": "Its brain can outperform a supercomputer. Its intelligence quotient is said to be 5000.",
+"image": "https://images.pokemontcg.io/base1/1_hires.png",
+"imageSmall": "https://images.pokemontcg.io/base1/1.png",
+"price": 84.11
+},
+{
+"id": "base1-2",
+"name": "Blastoise",
+"setName": "Base",
+"setId": "base1",
+"number": "2",
+"printedTotal": 102,
+"supertype": "Pokémon",
+"subtypes": [
+"Stage 2"
+],
+"types": [
+"Water"
+],
+"hp": "100",
+"rarity": "Rare Holo",
+"artist": "Ken Sugimori",
+"flavor": "A brutal Pokémon with pressurized water jets on its shell. They are used for high-speed tackles.",
+"image": "https://images.pokemontcg.io/base1/2_hires.png",
+"imageSmall": "https://images.pokemontcg.io/base1/2.png",
+"price": 220.45
+},
+{
+"id": "base1-3",
+"name": "Chansey",
+"setName": "Base",
+"setId": "base1",
+"number": "3",
+"printedTotal": 102,
+"supertype": "Pokémon",
+"subtypes": [
+"Basic"
+],
+"types": [
+"Colorless"
+],
+"hp": "120",
+"rarity": "Rare Holo",
+"artist": "Ken Sugimori",
+"flavor": "A rare and elusive Pokémon that is said to bring happiness to those who manage to catch it.",
+"image": "https://images.pokemontcg.io/base1/3_hires.png",
+"imageSmall": "https://images.pokemontcg.io/base1/3.png",
+"price": 64.36
+},
+{
+"id": "base1-4",
+"name": "Charizard",
+"setName": "Base",
+"setId": "base1",
+"number": "4",
+"printedTotal": 102,
+"supertype": "Pokémon",
+"subtypes": [
+"Stage 2"
+],
+"types": [
+"Fire"
+],
+"hp": "120",
+"rarity": "Rare Holo",
+"artist": "Mitsuhiro Arita",
+"flavor": "Spits fire that is hot enough to melt boulders. Known to unintentionally cause forest fires.",
+"image": "https://images.pokemontcg.io/base1/4_hires.png",
+"imageSmall": "https://images.pokemontcg.io/base1/4.png",
+"price": 630.39
+},
+{
+"id": "base1-5",
+"name": "Clefairy",
+"setName": "Base",
+"setId": "base1",
+"number": "5",
+"printedTotal": 102,
+"supertype": "Pokémon",
+"subtypes": [
+"Basic"
+],
+"types": [
+"Colorless"
+],
+"hp": "40",
+"rarity": "Rare Holo",
+"artist": "Ken Sugimori",
+"flavor": "Its magical and cute appeal has many admirers. It is rare and found only in certain areas.",
+"image": "https://images.pokemontcg.io/base1/5_hires.png",
+"imageSmall": "https://images.pokemontcg.io/base1/5.png",
+"price": 36.16
+},
+{
+"id": "base1-6",
+"name": "Gyarados",
+"setName": "Base",
+"setId": "base1",
+"number": "6",
+"printedTotal": 102,
+"supertype": "Pokémon",
+"subtypes": [
+"Stage 1"
+],
+"types": [
+"Water"
+],
+"hp": "100",
+"rarity": "Rare Holo",
+"artist": "Mitsuhiro Arita",
+"flavor": "Rarely seen in the wild. Huge and vicious, it is capable of destroying entire cities in a rage.",
+"image": "https://images.pokemontcg.io/base1/6_hires.png",
+"imageSmall": "https://images.pokemontcg.io/base1/6.png",
+"price": 53.81
+},
+{
+"id": "base1-7",
+"name": "Hitmonchan",
+"setName": "Base",
+"setId": "base1",
+"number": "7",
+"printedTotal": 102,
+"supertype": "Pokémon",
+"subtypes": [
+"Basic"
+],
+"types": [
+"Fighting"
+],
+"hp": "70",
+"rarity": "Rare Holo",
+"artist": "Ken Sugimori",
+"flavor": "While seeming to do nothing, it fires punches in lightning-fast volleys that are impossible to see.",
+"image": "https://images.pokemontcg.io/base1/7_hires.png",
+"imageSmall": "https://images.pokemontcg.io/base1/7.png",
+"price": 25.53
+},
+{
+"id": "base1-8",
+"name": "Machamp",
+"setName": "Base",
+"setId": "base1",
+"number": "8",
+"printedTotal": 102,
+"supertype": "Pokémon",
+"subtypes": [
+"Stage 2"
+],
+"types": [
+"Fighting"
+],
+"hp": "100",
+"rarity": "Rare Holo",
+"artist": "Ken Sugimori",
+"flavor": "Using its amazing muscles, it throws powerful punches that can knock its victim clear over the horizon.",
+"image": "https://images.pokemontcg.io/base1/8_hires.png",
+"imageSmall": "https://images.pokemontcg.io/base1/8.png",
+"price": null
+},
+{
+"id": "base1-9",
+"name": "Magneton",
+"setName": "Base",
+"setId": "base1",
+"number": "9",
+"printedTotal": 102,
+"supertype": "Pokémon",
+"subtypes": [
+"Stage 1"
+],
+"types": [
+"Lightning"
+],
+"hp": "60",
+"rarity": "Rare Holo",
+"artist": "Keiji Kinebuchi",
+"flavor": "Formed by several Magnemites linked together. It frequently appears when sunspots flare up.",
+"image": "https://images.pokemontcg.io/base1/9_hires.png",
+"imageSmall": "https://images.pokemontcg.io/base1/9.png",
+"price": 36.89
+},
+{
+"id": "base1-10",
+"name": "Mewtwo",
+"setName": "Base",
+"setId": "base1",
+"number": "10",
+"printedTotal": 102,
+"supertype": "Pokémon",
+"subtypes": [
+"Basic"
+],
+"types": [
+"Psychic"
+],
+"hp": "60",
+"rarity": "Rare Holo",
+"artist": "Ken Sugimori",
+"flavor": "A scientist created this Pokémon after years of horrific gene-splicing and DNA engineering experiments.",
+"image": "https://images.pokemontcg.io/base1/10_hires.png",
+"imageSmall": "https://images.pokemontcg.io/base1/10.png",
+"price": 78.14
+},
+{
+"id": "base1-11",
+"name": "Nidoking",
+"setName": "Base",
+"setId": "base1",
+"number": "11",
+"printedTotal": 102,
+"supertype": "Pokémon",
+"subtypes": [
+"Stage 2"
+],
+"types": [
+"Grass"
+],
+"hp": "90",
+"rarity": "Rare Holo",
+"artist": "Ken Sugimori",
+"flavor": "Uses its powerful tail in battle to smash, constrict, then break its prey's bones.",
+"image": "https://images.pokemontcg.io/base1/11_hires.png",
+"imageSmall": "https://images.pokemontcg.io/base1/11.png",
+"price": 37.21
+},
+{
+"id": "base1-12",
+"name": "Ninetales",
+"setName": "Base",
+"setId": "base1",
+"number": "12",
+"printedTotal": 102,
+"supertype": "Pokémon",
+"subtypes": [
+"Stage 1"
+],
+"types": [
+"Fire"
+],
+"hp": "80",
+"rarity": "Rare Holo",
+"artist": "Ken Sugimori",
+"flavor": "Very smart and very vengeful. Grabbing one of its many tails could result in a 1,000-year curse.",
+"image": "https://images.pokemontcg.io/base1/12_hires.png",
+"imageSmall": "https://images.pokemontcg.io/base1/12.png",
+"price": 37.08
+},
+{
+"id": "base1-13",
+"name": "Poliwrath",
+"setName": "Base",
+"setId": "base1",
+"number": "13",
+"printedTotal": 102,
+"supertype": "Pokémon",
+"subtypes": [
+"Stage 2"
+],
+"types": [
+"Water"
+],
+"hp": "90",
+"rarity": "Rare Holo",
+"artist": "Ken Sugimori",
+"flavor": "An adept swimmer at both the front crawl and breaststroke. Easily overtakes the best human swimmers.",
+"image": "https://images.pokemontcg.io/base1/13_hires.png",
+"imageSmall": "https://images.pokemontcg.io/base1/13.png",
+"price": 37.93
+},
+{
+"id": "base1-14",
+"name": "Raichu",
+"setName": "Base",
+"setId": "base1",
+"number": "14",
+"printedTotal": 102,
+"supertype": "Pokémon",
+"subtypes": [
+"Stage 1"
+],
+"types": [
+"Lightning"
+],
+"hp": "80",
+"rarity": "Rare Holo",
+"artist": "Ken Sugimori",
+"flavor": "Its long tail serves as a ground to protect itself from its own high-voltage power.",
+"image": "https://images.pokemontcg.io/base1/14_hires.png",
+"imageSmall": "https://images.pokemontcg.io/base1/14.png",
+"price": 74.17
+},
+{
+"id": "base1-15",
+"name": "Venusaur",
+"setName": "Base",
+"setId": "base1",
+"number": "15",
+"printedTotal": 102,
+"supertype": "Pokémon",
+"subtypes": [
+"Stage 2"
+],
+"types": [
+"Grass"
+],
+"hp": "100",
+"rarity": "Rare Holo",
+"artist": "Mitsuhiro Arita",
+"flavor": "This plant blooms when it is absorbing solar energy. It stays on the move to seek sunlight.",
+"image": "https://images.pokemontcg.io/base1/15_hires.png",
+"imageSmall": "https://images.pokemontcg.io/base1/15.png",
+"price": 153.83
+},
+{
+"id": "base1-16",
+"name": "Zapdos",
+"setName": "Base",
+"setId": "base1",
+"number": "16",
+"printedTotal": 102,
+"supertype": "Pokémon",
+"subtypes": [
+"Basic"
+],
+"types": [
+"Lightning"
+],
+"hp": "90",
+"rarity": "Rare Holo",
+"artist": "Ken Sugimori",
+"flavor": "A legendary bird Pokémon said to appear from clouds while wielding enormous lightning bolts.",
+"image": "https://images.pokemontcg.io/base1/16_hires.png",
+"imageSmall": "https://images.pokemontcg.io/base1/16.png",
+"price": 53.84
+},
+{
+"id": "base1-17",
+"name": "Beedrill",
+"setName": "Base",
+"setId": "base1",
+"number": "17",
+"printedTotal": 102,
+"supertype": "Pokémon",
+"subtypes": [
+"Stage 2"
+],
+"types": [
+"Grass"
+],
+"hp": "80",
+"rarity": "Rare",
+"artist": "Ken Sugimori",
+"flavor": "Flies at high speed and attacks using the large, venomous stingers on its forelegs and tail.",
+"image": "https://images.pokemontcg.io/base1/17_hires.png",
+"imageSmall": "https://images.pokemontcg.io/base1/17.png",
+"price": 5.54
+},
+{
+"id": "base1-18",
+"name": "Dragonair",
+"setName": "Base",
+"setId": "base1",
+"number": "18",
+"printedTotal": 102,
+"supertype": "Pokémon",
+"subtypes": [
+"Stage 1"
+],
+"types": [
+"Colorless"
+],
+"hp": "80",
+"rarity": "Rare",
+"artist": "Mitsuhiro Arita",
+"flavor": "A mystical Pokémon that exudes a gentle aura. Has the ability to change climate conditions.",
+"image": "https://images.pokemontcg.io/base1/18_hires.png",
+"imageSmall": "https://images.pokemontcg.io/base1/18.png",
+"price": 16.69
+},
+{
+"id": "base1-19",
+"name": "Dugtrio",
+"setName": "Base",
+"setId": "base1",
+"number": "19",
+"printedTotal": 102,
+"supertype": "Pokémon",
+"subtypes": [
+"Stage 1"
+],
+"types": [
+"Fighting"
+],
+"hp": "70",
+"rarity": "Rare",
+"artist": "Keiji Kinebuchi",
+"flavor": "A team of Diglett triplets. It triggers huge earthquakes by burrowing 60 miles underground.",
+"image": "https://images.pokemontcg.io/base1/19_hires.png",
+"imageSmall": "https://images.pokemontcg.io/base1/19.png",
+"price": 11.02
+},
+{
+"id": "base1-20",
+"name": "Electabuzz",
+"setName": "Base",
+"setId": "base1",
+"number": "20",
+"printedTotal": 102,
+"supertype": "Pokémon",
+"subtypes": [
+"Basic"
+],
+"types": [
+"Lightning"
+],
+"hp": "70",
+"rarity": "Rare",
+"artist": "Ken Sugimori",
+"flavor": "Normally found near power plants, it can wander away and cause major blackouts in cities.",
+"image": "https://images.pokemontcg.io/base1/20_hires.png",
+"imageSmall": "https://images.pokemontcg.io/base1/20.png",
+"price": 13.42
+},
+{
+"id": "base1-21",
+"name": "Electrode",
+"setName": "Base",
+"setId": "base1",
+"number": "21",
+"printedTotal": 102,
+"supertype": "Pokémon",
+"subtypes": [
+"Stage 1"
+],
+"types": [
+"Lightning"
+],
+"hp": "80",
+"rarity": "Rare",
+"artist": "Keiji Kinebuchi",
+"flavor": "It stores electrical energy under very high pressure. It often explodes with little or no provocation.",
+"image": "https://images.pokemontcg.io/base1/21_hires.png",
+"imageSmall": "https://images.pokemontcg.io/base1/21.png",
+"price": 7.68
+},
+{
+"id": "base1-22",
+"name": "Pidgeotto",
+"setName": "Base",
+"setId": "base1",
+"number": "22",
+"printedTotal": 102,
+"supertype": "Pokémon",
+"subtypes": [
+"Stage 1"
+],
+"types": [
+"Colorless"
+],
+"hp": "60",
+"rarity": "Rare",
+"artist": "Ken Sugimori",
+"flavor": "Very protective of its sprawling territory, this Pokémon will fiercely peck at any intruder.",
+"image": "https://images.pokemontcg.io/base1/22_hires.png",
+"imageSmall": "https://images.pokemontcg.io/base1/22.png",
+"price": 11.67
+},
+{
+"id": "base1-23",
+"name": "Arcanine",
+"setName": "Base",
+"setId": "base1",
+"number": "23",
+"printedTotal": 102,
+"supertype": "Pokémon",
+"subtypes": [
+"Stage 1"
+],
+"types": [
+"Fire"
+],
+"hp": "100",
+"rarity": "Uncommon",
+"artist": "Ken Sugimori",
+"flavor": "A Pokémon that has been long admired for its beauty. It runs gracefully, as if on wings.",
+"image": "https://images.pokemontcg.io/base1/23_hires.png",
+"imageSmall": "https://images.pokemontcg.io/base1/23.png",
+"price": 4.99
+},
+{
+"id": "base1-24",
+"name": "Charmeleon",
+"setName": "Base",
+"setId": "base1",
+"number": "24",
+"printedTotal": 102,
+"supertype": "Pokémon",
+"subtypes": [
+"Stage 1"
+],
+"types": [
+"Fire"
+],
+"hp": "80",
+"rarity": "Uncommon",
+"artist": "Mitsuhiro Arita",
+"flavor": "When it swings its burning tail, it raises the temperature to unbearably high levels.",
+"image": "https://images.pokemontcg.io/base1/24_hires.png",
+"imageSmall": "https://images.pokemontcg.io/base1/24.png",
+"price": 2.76
+},
+{
+"id": "base1-25",
+"name": "Dewgong",
+"setName": "Base",
+"setId": "base1",
+"number": "25",
+"printedTotal": 102,
+"supertype": "Pokémon",
+"subtypes": [
+"Stage 1"
+],
+"types": [
+"Water"
+],
+"hp": "80",
+"rarity": "Uncommon",
+"artist": "Mitsuhiro Arita",
+"flavor": "Stores thermal energy in its body. Swims at a steady 8 knots even in intensely cold waters.",
+"image": "https://images.pokemontcg.io/base1/25_hires.png",
+"imageSmall": "https://images.pokemontcg.io/base1/25.png",
+"price": 3.38
+},
+{
+"id": "base1-26",
+"name": "Dratini",
+"setName": "Base",
+"setId": "base1",
+"number": "26",
+"printedTotal": 102,
+"supertype": "Pokémon",
+"subtypes": [
+"Basic"
+],
+"types": [
+"Colorless"
+],
+"hp": "40",
+"rarity": "Uncommon",
+"artist": "Ken Sugimori",
+"flavor": "Long considered a mythical Pokémon until recently, when a small colony was found living underwater.",
+"image": "https://images.pokemontcg.io/base1/26_hires.png",
+"imageSmall": "https://images.pokemontcg.io/base1/26.png",
+"price": 3.27
+},
+{
+"id": "base1-27",
+"name": "Farfetch'd",
+"setName": "Base",
+"setId": "base1",
+"number": "27",
+"printedTotal": 102,
+"supertype": "Pokémon",
+"subtypes": [
+"Basic"
+],
+"types": [
+"Colorless"
+],
+"hp": "50",
+"rarity": "Uncommon",
+"artist": "Ken Sugimori",
+"flavor": "The sprig of green onions it holds is its weapon. This sprig is used much like a metal sword.",
+"image": "https://images.pokemontcg.io/base1/27_hires.png",
+"imageSmall": "https://images.pokemontcg.io/base1/27.png",
+"price": 1.78
+},
+{
+"id": "base1-28",
+"name": "Growlithe",
+"setName": "Base",
+"setId": "base1",
+"number": "28",
+"printedTotal": 102,
+"supertype": "Pokémon",
+"subtypes": [
+"Basic"
+],
+"types": [
+"Fire"
+],
+"hp": "60",
+"rarity": "Uncommon",
+"artist": "Ken Sugimori",
+"flavor": "Very protective of its territory. It will bark and bite to repel intruders from its space.",
+"image": "https://images.pokemontcg.io/base1/28_hires.png",
+"imageSmall": "https://images.pokemontcg.io/base1/28.png",
+"price": 1.51
+},
+{
+"id": "base1-29",
+"name": "Haunter",
+"setName": "Base",
+"setId": "base1",
+"number": "29",
+"printedTotal": 102,
+"supertype": "Pokémon",
+"subtypes": [
+"Stage 1"
+],
+"types": [
+"Psychic"
+],
+"hp": "60",
+"rarity": "Uncommon",
+"artist": "Keiji Kinebuchi",
+"flavor": "Because of its ability to slip through block walls, it is said to be from another dimension.",
+"image": "https://images.pokemontcg.io/base1/29_hires.png",
+"imageSmall": "https://images.pokemontcg.io/base1/29.png",
+"price": 2.44
+},
+{
+"id": "base1-30",
+"name": "Ivysaur",
+"setName": "Base",
+"setId": "base1",
+"number": "30",
+"printedTotal": 102,
+"supertype": "Pokémon",
+"subtypes": [
+"Stage 1"
+],
+"types": [
+"Grass"
+],
+"hp": "60",
+"rarity": "Uncommon",
+"artist": "Ken Sugimori",
+"flavor": "When the bulb on its back grows large, the Pokémon seems to lose the ability to stand on its hind legs.",
+"image": "https://images.pokemontcg.io/base1/30_hires.png",
+"imageSmall": "https://images.pokemontcg.io/base1/30.png",
+"price": 6.02
+},
+{
+"id": "base1-31",
+"name": "Jynx",
+"setName": "Base",
+"setId": "base1",
+"number": "31",
+"printedTotal": 102,
+"supertype": "Pokémon",
+"subtypes": [
+"Basic"
+],
+"types": [
+"Psychic"
+],
+"hp": "70",
+"rarity": "Uncommon",
+"artist": "Ken Sugimori",
+"flavor": "Merely by meditating, the Pokémon launches a powerful psychic energy attack.",
+"image": "https://images.pokemontcg.io/base1/31_hires.png",
+"imageSmall": "https://images.pokemontcg.io/base1/31.png",
+"price": 1.19
+},
+{
+"id": "base1-32",
+"name": "Kadabra",
+"setName": "Base",
+"setId": "base1",
+"number": "32",
+"printedTotal": 102,
+"supertype": "Pokémon",
+"subtypes": [
+"Stage 1"
+],
+"types": [
+"Psychic"
+],
+"hp": "60",
+"rarity": "Uncommon",
+"artist": "Ken Sugimori",
+"flavor": "It emits special alpha waves from its body that induce headaches even to those just nearby.",
+"image": "https://images.pokemontcg.io/base1/32_hires.png",
+"imageSmall": "https://images.pokemontcg.io/base1/32.png",
+"price": 1.96
+},
+{
+"id": "base1-33",
+"name": "Kakuna",
+"setName": "Base",
+"setId": "base1",
+"number": "33",
+"printedTotal": 102,
+"supertype": "Pokémon",
+"subtypes": [
+"Stage 1"
+],
+"types": [
+"Grass"
+],
+"hp": "80",
+"rarity": "Uncommon",
+"artist": "Keiji Kinebuchi",
+"flavor": "Almost incapable of moving, this Pokémon can only harden its shell to protect itself from predators.",
+"image": "https://images.pokemontcg.io/base1/33_hires.png",
+"imageSmall": "https://images.pokemontcg.io/base1/33.png",
+"price": 1.51
+},
+{
+"id": "base1-34",
+"name": "Machoke",
+"setName": "Base",
+"setId": "base1",
+"number": "34",
+"printedTotal": 102,
+"supertype": "Pokémon",
+"subtypes": [
+"Stage 1"
+],
+"types": [
+"Fighting"
+],
+"hp": "80",
+"rarity": "Uncommon",
+"artist": "Ken Sugimori",
+"flavor": "Its muscular body is so powerful that it must wear a power-save belt to help regulate its motions.",
+"image": "https://images.pokemontcg.io/base1/34_hires.png",
+"imageSmall": "https://images.pokemontcg.io/base1/34.png",
+"price": 1.3
+},
+{
+"id": "base1-35",
+"name": "Magikarp",
+"setName": "Base",
+"setId": "base1",
+"number": "35",
+"printedTotal": 102,
+"supertype": "Pokémon",
+"subtypes": [
+"Basic"
+],
+"types": [
+"Water"
+],
+"hp": "30",
+"rarity": "Uncommon",
+"artist": "Mitsuhiro Arita",
+"flavor": "In the distant past, it was stronger than its horribly weak descendants that exist today.",
+"image": "https://images.pokemontcg.io/base1/35_hires.png",
+"imageSmall": "https://images.pokemontcg.io/base1/35.png",
+"price": 3.73
+},
+{
+"id": "base1-36",
+"name": "Magmar",
+"setName": "Base",
+"setId": "base1",
+"number": "36",
+"printedTotal": 102,
+"supertype": "Pokémon",
+"subtypes": [
+"Basic"
+],
+"types": [
+"Fire"
+],
+"hp": "50",
+"rarity": "Uncommon",
+"artist": "Ken Sugimori",
+"flavor": "Its body always burns with an orange glow that enables it to hide perfectly among flames.",
+"image": "https://images.pokemontcg.io/base1/36_hires.png",
+"imageSmall": "https://images.pokemontcg.io/base1/36.png",
+"price": 3.12
+},
+{
+"id": "base1-37",
+"name": "Nidorino",
+"setName": "Base",
+"setId": "base1",
+"number": "37",
+"printedTotal": 102,
+"supertype": "Pokémon",
+"subtypes": [
+"Stage 1"
+],
+"types": [
+"Grass"
+],
+"hp": "60",
+"rarity": "Uncommon",
+"artist": "Mitsuhiro Arita",
+"flavor": "An aggressive Pokémon that is quick to attack. The horn on its head secretes a powerful venom.",
+"image": "https://images.pokemontcg.io/base1/37_hires.png",
+"imageSmall": "https://images.pokemontcg.io/base1/37.png",
+"price": 3.02
+},
+{
+"id": "base1-38",
+"name": "Poliwhirl",
+"setName": "Base",
+"setId": "base1",
+"number": "38",
+"printedTotal": 102,
+"supertype": "Pokémon",
+"subtypes": [
+"Stage 1"
+],
+"types": [
+"Water"
+],
+"hp": "60",
+"rarity": "Uncommon",
+"artist": "Ken Sugimori",
+"flavor": "Capable of living in or out of water. When out of water, it sweats to keep its body slimy.",
+"image": "https://images.pokemontcg.io/base1/38_hires.png",
+"imageSmall": "https://images.pokemontcg.io/base1/38.png",
+"price": 1.84
+},
+{
+"id": "base1-39",
+"name": "Porygon",
+"setName": "Base",
+"setId": "base1",
+"number": "39",
+"printedTotal": 102,
+"supertype": "Pokémon",
+"subtypes": [
+"Basic"
+],
+"types": [
+"Colorless"
+],
+"hp": "30",
+"rarity": "Uncommon",
+"artist": "Tomoaki Imakuni",
+"flavor": "A Pokémon that consists entirely of programming code. Capable of moving freely in cyberspace.",
+"image": "https://images.pokemontcg.io/base1/39_hires.png",
+"imageSmall": "https://images.pokemontcg.io/base1/39.png",
+"price": 2.84
+},
+{
+"id": "base1-40",
+"name": "Raticate",
+"setName": "Base",
+"setId": "base1",
+"number": "40",
+"printedTotal": 102,
+"supertype": "Pokémon",
+"subtypes": [
+"Stage 1"
+],
+"types": [
+"Colorless"
+],
+"hp": "60",
+"rarity": "Uncommon",
+"artist": "Ken Sugimori",
+"flavor": "It uses its whiskers to maintain its balance. It seems to slow down if they are cut off.",
+"image": "https://images.pokemontcg.io/base1/40_hires.png",
+"imageSmall": "https://images.pokemontcg.io/base1/40.png",
+"price": 2.78
+},
+{
+"id": "base1-41",
+"name": "Seel",
+"setName": "Base",
+"setId": "base1",
+"number": "41",
+"printedTotal": 102,
+"supertype": "Pokémon",
+"subtypes": [
+"Basic"
+],
+"types": [
+"Water"
+],
+"hp": "60",
+"rarity": "Uncommon",
+"artist": "Ken Sugimori",
+"flavor": "The protruding horn on its head is very hard. This horn is used for bashing through thick ice.",
+"image": "https://images.pokemontcg.io/base1/41_hires.png",
+"imageSmall": "https://images.pokemontcg.io/base1/41.png",
+"price": 1.1
+},
+{
+"id": "base1-42",
+"name": "Wartortle",
+"setName": "Base",
+"setId": "base1",
+"number": "42",
+"printedTotal": 102,
+"supertype": "Pokémon",
+"subtypes": [
+"Stage 1"
+],
+"types": [
+"Water"
+],
+"hp": "70",
+"rarity": "Uncommon",
+"artist": "Ken Sugimori",
+"flavor": "Often hides in water to stalk unweary prey. When swimming quickly, it moves its ears to maintain balance.",
+"image": "https://images.pokemontcg.io/base1/42_hires.png",
+"imageSmall": "https://images.pokemontcg.io/base1/42.png",
+"price": 4.85
+},
+{
+"id": "base1-43",
+"name": "Abra",
+"setName": "Base",
+"setId": "base1",
+"number": "43",
+"printedTotal": 102,
+"supertype": "Pokémon",
+"subtypes": [
+"Basic"
+],
+"types": [
+"Psychic"
+],
+"hp": "30",
+"rarity": "Common",
+"artist": "Mitsuhiro Arita",
+"flavor": "Using its ability to read minds, it will identify impending danger and teleport to safety.",
+"image": "https://images.pokemontcg.io/base1/43_hires.png",
+"imageSmall": "https://images.pokemontcg.io/base1/43.png",
+"price": 0.98
+},
+{
+"id": "base1-44",
+"name": "Bulbasaur",
+"setName": "Base",
+"setId": "base1",
+"number": "44",
+"printedTotal": 102,
+"supertype": "Pokémon",
+"subtypes": [
+"Basic"
+],
+"types": [
+"Grass"
+],
+"hp": "40",
+"rarity": "Common",
+"artist": "Mitsuhiro Arita",
+"flavor": "A strange seed was planted on its back at birth. Thus, a plant sprouted and now grows with this Pokémon.",
+"image": "https://images.pokemontcg.io/base1/44_hires.png",
+"imageSmall": "https://images.pokemontcg.io/base1/44.png",
+"price": 5.23
+},
+{
+"id": "base1-45",
+"name": "Caterpie",
+"setName": "Base",
+"setId": "base1",
+"number": "45",
+"printedTotal": 102,
+"supertype": "Pokémon",
+"subtypes": [
+"Basic"
+],
+"types": [
+"Grass"
+],
+"hp": "40",
+"rarity": "Common",
+"artist": "Ken Sugimori",
+"flavor": "Its short feet are tipped with suction pads that enable it to tirelessly climb slopes and walls.",
+"image": "https://images.pokemontcg.io/base1/45_hires.png",
+"imageSmall": "https://images.pokemontcg.io/base1/45.png",
+"price": 1.11
+},
+{
+"id": "base1-46",
+"name": "Charmander",
+"setName": "Base",
+"setId": "base1",
+"number": "46",
+"printedTotal": 102,
+"supertype": "Pokémon",
+"subtypes": [
+"Basic"
+],
+"types": [
+"Fire"
+],
+"hp": "50",
+"rarity": "Common",
+"artist": "Mitsuhiro Arita",
+"flavor": "Obviously prefers hot places. If it gets caught in the rain, steam is said to spout from the tip of its tail.",
+"image": "https://images.pokemontcg.io/base1/46_hires.png",
+"imageSmall": "https://images.pokemontcg.io/base1/46.png",
+"price": 4.39
+},
+{
+"id": "base1-47",
+"name": "Diglett",
+"setName": "Base",
+"setId": "base1",
+"number": "47",
+"printedTotal": 102,
+"supertype": "Pokémon",
+"subtypes": [
+"Basic"
+],
+"types": [
+"Fighting"
+],
+"hp": "30",
+"rarity": "Common",
+"artist": "Keiji Kinebuchi",
+"flavor": "Lives about three feet underground, where it feeds on plant roots. It sometimes appears above ground.",
+"image": "https://images.pokemontcg.io/base1/47_hires.png",
+"imageSmall": "https://images.pokemontcg.io/base1/47.png",
+"price": 0.96
+},
+{
+"id": "base1-48",
+"name": "Doduo",
+"setName": "Base",
+"setId": "base1",
+"number": "48",
+"printedTotal": 102,
+"supertype": "Pokémon",
+"subtypes": [
+"Basic"
+],
+"types": [
+"Colorless"
+],
+"hp": "50",
+"rarity": "Common",
+"artist": "Mitsuhiro Arita",
+"flavor": "A bird that makes up for its poor flying with its fast foot speed. Leaves giant footprints.",
+"image": "https://images.pokemontcg.io/base1/48_hires.png",
+"imageSmall": "https://images.pokemontcg.io/base1/48.png",
+"price": 1.63
+},
+{
+"id": "base1-49",
+"name": "Drowzee",
+"setName": "Base",
+"setId": "base1",
+"number": "49",
+"printedTotal": 102,
+"supertype": "Pokémon",
+"subtypes": [
+"Basic"
+],
+"types": [
+"Psychic"
+],
+"hp": "50",
+"rarity": "Common",
+"artist": "Ken Sugimori",
+"flavor": "Puts enemies to sleep, then eats their dreams. Occasionally gets sick from eating bad dreams.",
+"image": "https://images.pokemontcg.io/base1/49_hires.png",
+"imageSmall": "https://images.pokemontcg.io/base1/49.png",
+"price": 0.82
+},
+{
+"id": "base1-50",
+"name": "Gastly",
+"setName": "Base",
+"setId": "base1",
+"number": "50",
+"printedTotal": 102,
+"supertype": "Pokémon",
+"subtypes": [
+"Basic"
+],
+"types": [
+"Psychic"
+],
+"hp": "30",
+"rarity": "Common",
+"artist": "Keiji Kinebuchi",
+"flavor": "Almost invisible, this gaseous Pokémon cloaks the target and puts it to sleep without notice.",
+"image": "https://images.pokemontcg.io/base1/50_hires.png",
+"imageSmall": "https://images.pokemontcg.io/base1/50.png",
+"price": 0.85
+},
+{
+"id": "base1-51",
+"name": "Koffing",
+"setName": "Base",
+"setId": "base1",
+"number": "51",
+"printedTotal": 102,
+"supertype": "Pokémon",
+"subtypes": [
+"Basic"
+],
+"types": [
+"Grass"
+],
+"hp": "50",
+"rarity": "Common",
+"artist": "Mitsuhiro Arita",
+"flavor": "Because it stores several kinds of toxic gases in its body, it is prone to exploding without warning.",
+"image": "https://images.pokemontcg.io/base1/51_hires.png",
+"imageSmall": "https://images.pokemontcg.io/base1/51.png",
+"price": 0.86
+},
+{
+"id": "base1-52",
+"name": "Machop",
+"setName": "Base",
+"setId": "base1",
+"number": "52",
+"printedTotal": 102,
+"supertype": "Pokémon",
+"subtypes": [
+"Basic"
+],
+"types": [
+"Fighting"
+],
+"hp": "50",
+"rarity": "Common",
+"artist": "Mitsuhiro Arita",
+"flavor": "Loves to build its muscles. It trains in all styles of martial arts to become even stronger.",
+"image": "https://images.pokemontcg.io/base1/52_hires.png",
+"imageSmall": "https://images.pokemontcg.io/base1/52.png",
+"price": 0.53
+},
+{
+"id": "base1-53",
+"name": "Magnemite",
+"setName": "Base",
+"setId": "base1",
+"number": "53",
+"printedTotal": 102,
+"supertype": "Pokémon",
+"subtypes": [
+"Basic"
+],
+"types": [
+"Lightning"
+],
+"hp": "40",
+"rarity": "Common",
+"artist": "Keiji Kinebuchi",
+"flavor": "Uses anti-gravity to stay suspended. Appears without warning and uses attacks like Thunder Wave.",
+"image": "https://images.pokemontcg.io/base1/53_hires.png",
+"imageSmall": "https://images.pokemontcg.io/base1/53.png",
+"price": 0.69
+},
+{
+"id": "base1-54",
+"name": "Metapod",
+"setName": "Base",
+"setId": "base1",
+"number": "54",
+"printedTotal": 102,
+"supertype": "Pokémon",
+"subtypes": [
+"Stage 1"
+],
+"types": [
+"Grass"
+],
+"hp": "70",
+"rarity": "Common",
+"artist": "Ken Sugimori",
+"flavor": "It is vulnerable to attack because its shell is soft, exposing its weak and tender body.",
+"image": "https://images.pokemontcg.io/base1/54_hires.png",
+"imageSmall": "https://images.pokemontcg.io/base1/54.png",
+"price": 0.88
+},
+{
+"id": "base1-55",
+"name": "Nidoran ♂",
+"setName": "Base",
+"setId": "base1",
+"number": "55",
+"printedTotal": 102,
+"supertype": "Pokémon",
+"subtypes": [
+"Basic"
+],
+"types": [
+"Grass"
+],
+"hp": "40",
+"rarity": "Common",
+"artist": "Ken Sugimori",
+"flavor": "Stiffens its ears to sense danger. The larger, more powerful of its horns secretes venom.",
+"image": "https://images.pokemontcg.io/base1/55_hires.png",
+"imageSmall": "https://images.pokemontcg.io/base1/55.png",
+"price": 0.86
+},
+{
+"id": "base1-56",
+"name": "Onix",
+"setName": "Base",
+"setId": "base1",
+"number": "56",
+"printedTotal": 102,
+"supertype": "Pokémon",
+"subtypes": [
+"Basic"
+],
+"types": [
+"Fighting"
+],
+"hp": "90",
+"rarity": "Common",
+"artist": "Ken Sugimori",
+"flavor": "As it grows, the stone portions of its body harden to become similar to a diamond, though colored black.",
+"image": "https://images.pokemontcg.io/base1/56_hires.png",
+"imageSmall": "https://images.pokemontcg.io/base1/56.png",
+"price": 1.22
+},
+{
+"id": "base1-57",
+"name": "Pidgey",
+"setName": "Base",
+"setId": "base1",
+"number": "57",
+"printedTotal": 102,
+"supertype": "Pokémon",
+"subtypes": [
+"Basic"
+],
+"types": [
+"Colorless"
+],
+"hp": "40",
+"rarity": "Common",
+"artist": "Ken Sugimori",
+"flavor": "A common sight in forests and woods. It flaps its wings at ground level to kick up blinding sand.",
+"image": "https://images.pokemontcg.io/base1/57_hires.png",
+"imageSmall": "https://images.pokemontcg.io/base1/57.png",
+"price": 1.98
+},
+{
+"id": "base1-58",
+"name": "Pikachu",
+"setName": "Base",
+"setId": "base1",
+"number": "58",
+"printedTotal": 102,
+"supertype": "Pokémon",
+"subtypes": [
+"Basic"
+],
+"types": [
+"Lightning"
+],
+"hp": "40",
+"rarity": "Common",
+"artist": "Mitsuhiro Arita",
+"flavor": "When several of these Pokémon gather, their electricity can cause lightning storms.",
+"image": "https://images.pokemontcg.io/base1/58_hires.png",
+"imageSmall": "https://images.pokemontcg.io/base1/58.png",
+"price": 6.51
+},
+{
+"id": "base1-59",
+"name": "Poliwag",
+"setName": "Base",
+"setId": "base1",
+"number": "59",
+"printedTotal": 102,
+"supertype": "Pokémon",
+"subtypes": [
+"Basic"
+],
+"types": [
+"Water"
+],
+"hp": "40",
+"rarity": "Common",
+"artist": "Ken Sugimori",
+"flavor": "Its newly grown legs prevent it from running. It appears to prefer swimming over trying to stand.",
+"image": "https://images.pokemontcg.io/base1/59_hires.png",
+"imageSmall": "https://images.pokemontcg.io/base1/59.png",
+"price": 0.89
+},
+{
+"id": "base1-60",
+"name": "Ponyta",
+"setName": "Base",
+"setId": "base1",
+"number": "60",
+"printedTotal": 102,
+"supertype": "Pokémon",
+"subtypes": [
+"Basic"
+],
+"types": [
+"Fire"
+],
+"hp": "40",
+"rarity": "Common",
+"artist": "Ken Sugimori",
+"flavor": "Its hooves are 10 times harder than diamonds. It can trample anything flat in moments.",
+"image": "https://images.pokemontcg.io/base1/60_hires.png",
+"imageSmall": "https://images.pokemontcg.io/base1/60.png",
+"price": 0.85
+},
+{
+"id": "base1-61",
+"name": "Rattata",
+"setName": "Base",
+"setId": "base1",
+"number": "61",
+"printedTotal": 102,
+"supertype": "Pokémon",
+"subtypes": [
+"Basic"
+],
+"types": [
+"Colorless"
+],
+"hp": "30",
+"rarity": "Common",
+"artist": "Mitsuhiro Arita",
+"flavor": "Bites anything when it attacks. Small and very quick, it is a common sight in many places.",
+"image": "https://images.pokemontcg.io/base1/61_hires.png",
+"imageSmall": "https://images.pokemontcg.io/base1/61.png",
+"price": 0.92
+},
+{
+"id": "base1-62",
+"name": "Sandshrew",
+"setName": "Base",
+"setId": "base1",
+"number": "62",
+"printedTotal": 102,
+"supertype": "Pokémon",
+"subtypes": [
+"Basic"
+],
+"types": [
+"Fighting"
+],
+"hp": "40",
+"rarity": "Common",
+"artist": "Ken Sugimori",
+"flavor": "Burrows deep underground in arid locations far from water. It only emerges to hunt for food.",
+"image": "https://images.pokemontcg.io/base1/62_hires.png",
+"imageSmall": "https://images.pokemontcg.io/base1/62.png",
+"price": 1.02
+},
+{
+"id": "base1-63",
+"name": "Squirtle",
+"setName": "Base",
+"setId": "base1",
+"number": "63",
+"printedTotal": 102,
+"supertype": "Pokémon",
+"subtypes": [
+"Basic"
+],
+"types": [
+"Water"
+],
+"hp": "40",
+"rarity": "Common",
+"artist": "Mitsuhiro Arita",
+"flavor": "After birth, its back swells and hardens into a shell. It powerfully sprays foam from its mouth.",
+"image": "https://images.pokemontcg.io/base1/63_hires.png",
+"imageSmall": "https://images.pokemontcg.io/base1/63.png",
+"price": 7.93
+},
+{
+"id": "base1-64",
+"name": "Starmie",
+"setName": "Base",
+"setId": "base1",
+"number": "64",
+"printedTotal": 102,
+"supertype": "Pokémon",
+"subtypes": [
+"Stage 1"
+],
+"types": [
+"Water"
+],
+"hp": "60",
+"rarity": "Common",
+"artist": "Keiji Kinebuchi",
+"flavor": "Its central core glows with the seven colors of the rainbow. Some people value this core as a gem.",
+"image": "https://images.pokemontcg.io/base1/64_hires.png",
+"imageSmall": "https://images.pokemontcg.io/base1/64.png",
+"price": 0.96
+},
+{
+"id": "base1-65",
+"name": "Staryu",
+"setName": "Base",
+"setId": "base1",
+"number": "65",
+"printedTotal": 102,
+"supertype": "Pokémon",
+"subtypes": [
+"Basic"
+],
+"types": [
+"Water"
+],
+"hp": "40",
+"rarity": "Common",
+"artist": "Keiji Kinebuchi",
+"flavor": "An enigmatic Pokémon that can effortlessly regenerate any appendage it loses in battle.",
+"image": "https://images.pokemontcg.io/base1/65_hires.png",
+"imageSmall": "https://images.pokemontcg.io/base1/65.png",
+"price": 0.64
+},
+{
+"id": "base1-66",
+"name": "Tangela",
+"setName": "Base",
+"setId": "base1",
+"number": "66",
+"printedTotal": 102,
+"supertype": "Pokémon",
+"subtypes": [
+"Basic"
+],
+"types": [
+"Grass"
+],
+"hp": "50",
+"rarity": "Common",
+"artist": "Mitsuhiro Arita",
+"flavor": "Its whole body is swathed with wide vines that are similar to seaweed. These vines shake as it walks.",
+"image": "https://images.pokemontcg.io/base1/66_hires.png",
+"imageSmall": "https://images.pokemontcg.io/base1/66.png",
+"price": 1.27
+},
+{
+"id": "base1-67",
+"name": "Voltorb",
+"setName": "Base",
+"setId": "base1",
+"number": "67",
+"printedTotal": 102,
+"supertype": "Pokémon",
+"subtypes": [
+"Basic"
+],
+"types": [
+"Lightning"
+],
+"hp": "40",
+"rarity": "Common",
+"artist": "Keiji Kinebuchi",
+"flavor": "Usually found in power plants. Easily mistaken for a Monster Ball, it has zapped many people.",
+"image": "https://images.pokemontcg.io/base1/67_hires.png",
+"imageSmall": "https://images.pokemontcg.io/base1/67.png",
+"price": 5.57
+},
+{
+"id": "base1-68",
+"name": "Vulpix",
+"setName": "Base",
+"setId": "base1",
+"number": "68",
+"printedTotal": 102,
+"supertype": "Pokémon",
+"subtypes": [
+"Basic"
+],
+"types": [
+"Fire"
+],
+"hp": "50",
+"rarity": "Common",
+"artist": "Ken Sugimori",
+"flavor": "At the time of birth, it has just one tail. Its tail splits from the tip as it grows older.",
+"image": "https://images.pokemontcg.io/base1/68_hires.png",
+"imageSmall": "https://images.pokemontcg.io/base1/68.png",
+"price": 0.89
+},
+{
+"id": "base1-69",
+"name": "Weedle",
+"setName": "Base",
+"setId": "base1",
+"number": "69",
+"printedTotal": 102,
+"supertype": "Pokémon",
+"subtypes": [
+"Basic"
+],
+"types": [
+"Grass"
+],
+"hp": "40",
+"rarity": "Common",
+"artist": "Mitsuhiro Arita",
+"flavor": "Often found in forests, eating leaves. It has a sharp, venomous stinger on its head.",
+"image": "https://images.pokemontcg.io/base1/69_hires.png",
+"imageSmall": "https://images.pokemontcg.io/base1/69.png",
+"price": 0.54
+},
+{
+"id": "base1-70",
+"name": "Clefairy Doll",
+"setName": "Base",
+"setId": "base1",
+"number": "70",
+"printedTotal": 102,
+"supertype": "Trainer",
+"subtypes": [],
+"types": [],
+"hp": "10",
+"rarity": "Rare",
+"artist": "Keiji Kinebuchi",
+"flavor": null,
+"image": "https://images.pokemontcg.io/base1/70_hires.png",
+"imageSmall": "https://images.pokemontcg.io/base1/70.png",
+"price": 8.32
+},
+{
+"id": "base1-71",
+"name": "Computer Search",
+"setName": "Base",
+"setId": "base1",
+"number": "71",
+"printedTotal": 102,
+"supertype": "Trainer",
+"subtypes": [],
+"types": [],
+"hp": null,
+"rarity": "Rare",
+"artist": "Keiji Kinebuchi",
+"flavor": null,
+"image": "https://images.pokemontcg.io/base1/71_hires.png",
+"imageSmall": "https://images.pokemontcg.io/base1/71.png",
+"price": 3.27
+},
+{
+"id": "base1-72",
+"name": "Devolution Spray",
+"setName": "Base",
+"setId": "base1",
+"number": "72",
+"printedTotal": 102,
+"supertype": "Trainer",
+"subtypes": [],
+"types": [],
+"hp": null,
+"rarity": "Rare",
+"artist": "Keiji Kinebuchi",
+"flavor": null,
+"image": "https://images.pokemontcg.io/base1/72_hires.png",
+"imageSmall": "https://images.pokemontcg.io/base1/72.png",
+"price": 7.96
+},
+{
+"id": "base1-73",
+"name": "Impostor Professor Oak",
+"setName": "Base",
+"setId": "base1",
+"number": "73",
+"printedTotal": 102,
+"supertype": "Trainer",
+"subtypes": [],
+"types": [],
+"hp": null,
+"rarity": "Rare",
+"artist": "Ken Sugimori",
+"flavor": null,
+"image": "https://images.pokemontcg.io/base1/73_hires.png",
+"imageSmall": "https://images.pokemontcg.io/base1/73.png",
+"price": 7.95
+},
+{
+"id": "base1-74",
+"name": "Item Finder",
+"setName": "Base",
+"setId": "base1",
+"number": "74",
+"printedTotal": 102,
+"supertype": "Trainer",
+"subtypes": [],
+"types": [],
+"hp": null,
+"rarity": "Rare",
+"artist": "Keiji Kinebuchi",
+"flavor": null,
+"image": "https://images.pokemontcg.io/base1/74_hires.png",
+"imageSmall": "https://images.pokemontcg.io/base1/74.png",
+"price": 9.42
+},
+{
+"id": "base1-75",
+"name": "Lass",
+"setName": "Base",
+"setId": "base1",
+"number": "75",
+"printedTotal": 102,
+"supertype": "Trainer",
+"subtypes": [],
+"types": [],
+"hp": null,
+"rarity": "Rare",
+"artist": "Ken Sugimori",
+"flavor": null,
+"image": "https://images.pokemontcg.io/base1/75_hires.png",
+"imageSmall": "https://images.pokemontcg.io/base1/75.png",
+"price": 4.0
+},
+{
+"id": "base1-76",
+"name": "Pokémon Breeder",
+"setName": "Base",
+"setId": "base1",
+"number": "76",
+"printedTotal": 102,
+"supertype": "Trainer",
+"subtypes": [],
+"types": [],
+"hp": null,
+"rarity": "Rare",
+"artist": "Ken Sugimori",
+"flavor": null,
+"image": "https://images.pokemontcg.io/base1/76_hires.png",
+"imageSmall": "https://images.pokemontcg.io/base1/76.png",
+"price": 7.64
+},
+{
+"id": "base1-77",
+"name": "Pokémon Trader",
+"setName": "Base",
+"setId": "base1",
+"number": "77",
+"printedTotal": 102,
+"supertype": "Trainer",
+"subtypes": [],
+"types": [],
+"hp": null,
+"rarity": "Rare",
+"artist": "Ken Sugimori",
+"flavor": null,
+"image": "https://images.pokemontcg.io/base1/77_hires.png",
+"imageSmall": "https://images.pokemontcg.io/base1/77.png",
+"price": 5.91
+},
+{
+"id": "base1-78",
+"name": "Scoop Up",
+"setName": "Base",
+"setId": "base1",
+"number": "78",
+"printedTotal": 102,
+"supertype": "Trainer",
+"subtypes": [],
+"types": [],
+"hp": null,
+"rarity": "Rare",
+"artist": "Keiji Kinebuchi",
+"flavor": null,
+"image": "https://images.pokemontcg.io/base1/78_hires.png",
+"imageSmall": "https://images.pokemontcg.io/base1/78.png",
+"price": 8.99
+},
+{
+"id": "base1-79",
+"name": "Super Energy Removal",
+"setName": "Base",
+"setId": "base1",
+"number": "79",
+"printedTotal": 102,
+"supertype": "Trainer",
+"subtypes": [],
+"types": [],
+"hp": null,
+"rarity": "Rare",
+"artist": "Keiji Kinebuchi",
+"flavor": null,
+"image": "https://images.pokemontcg.io/base1/79_hires.png",
+"imageSmall": "https://images.pokemontcg.io/base1/79.png",
+"price": 4.09
+},
+{
+"id": "base1-80",
+"name": "Defender",
+"setName": "Base",
+"setId": "base1",
+"number": "80",
+"printedTotal": 102,
+"supertype": "Trainer",
+"subtypes": [],
+"types": [],
+"hp": null,
+"rarity": "Uncommon",
+"artist": "Keiji Kinebuchi",
+"flavor": null,
+"image": "https://images.pokemontcg.io/base1/80_hires.png",
+"imageSmall": "https://images.pokemontcg.io/base1/80.png",
+"price": 1.56
+},
+{
+"id": "base1-81",
+"name": "Energy Retrieval",
+"setName": "Base",
+"setId": "base1",
+"number": "81",
+"printedTotal": 102,
+"supertype": "Trainer",
+"subtypes": [],
+"types": [],
+"hp": null,
+"rarity": "Uncommon",
+"artist": "Keiji Kinebuchi",
+"flavor": null,
+"image": "https://images.pokemontcg.io/base1/81_hires.png",
+"imageSmall": "https://images.pokemontcg.io/base1/81.png",
+"price": 0.63
+},
+{
+"id": "base1-82",
+"name": "Full Heal",
+"setName": "Base",
+"setId": "base1",
+"number": "82",
+"printedTotal": 102,
+"supertype": "Trainer",
+"subtypes": [],
+"types": [],
+"hp": null,
+"rarity": "Uncommon",
+"artist": "Keiji Kinebuchi",
+"flavor": null,
+"image": "https://images.pokemontcg.io/base1/82_hires.png",
+"imageSmall": "https://images.pokemontcg.io/base1/82.png",
+"price": 2.13
+},
+{
+"id": "base1-83",
+"name": "Maintenance",
+"setName": "Base",
+"setId": "base1",
+"number": "83",
+"printedTotal": 102,
+"supertype": "Trainer",
+"subtypes": [],
+"types": [],
+"hp": null,
+"rarity": "Uncommon",
+"artist": "Keiji Kinebuchi",
+"flavor": null,
+"image": "https://images.pokemontcg.io/base1/83_hires.png",
+"imageSmall": "https://images.pokemontcg.io/base1/83.png",
+"price": 3.09
+},
+{
+"id": "base1-84",
+"name": "PlusPower",
+"setName": "Base",
+"setId": "base1",
+"number": "84",
+"printedTotal": 102,
+"supertype": "Trainer",
+"subtypes": [],
+"types": [],
+"hp": null,
+"rarity": "Uncommon",
+"artist": "Keiji Kinebuchi",
+"flavor": null,
+"image": "https://images.pokemontcg.io/base1/84_hires.png",
+"imageSmall": "https://images.pokemontcg.io/base1/84.png",
+"price": 0.9
+},
+{
+"id": "base1-85",
+"name": "Pokémon Center",
+"setName": "Base",
+"setId": "base1",
+"number": "85",
+"printedTotal": 102,
+"supertype": "Trainer",
+"subtypes": [],
+"types": [],
+"hp": null,
+"rarity": "Uncommon",
+"artist": "Keiji Kinebuchi",
+"flavor": null,
+"image": "https://images.pokemontcg.io/base1/85_hires.png",
+"imageSmall": "https://images.pokemontcg.io/base1/85.png",
+"price": 2.26
+},
+{
+"id": "base1-86",
+"name": "Pokémon Flute",
+"setName": "Base",
+"setId": "base1",
+"number": "86",
+"printedTotal": 102,
+"supertype": "Trainer",
+"subtypes": [],
+"types": [],
+"hp": null,
+"rarity": "Uncommon",
+"artist": "Keiji Kinebuchi",
+"flavor": null,
+"image": "https://images.pokemontcg.io/base1/86_hires.png",
+"imageSmall": "https://images.pokemontcg.io/base1/86.png",
+"price": 3.55
+},
+{
+"id": "base1-87",
+"name": "Pokédex",
+"setName": "Base",
+"setId": "base1",
+"number": "87",
+"printedTotal": 102,
+"supertype": "Trainer",
+"subtypes": [],
+"types": [],
+"hp": null,
+"rarity": "Uncommon",
+"artist": "Keiji Kinebuchi",
+"flavor": null,
+"image": "https://images.pokemontcg.io/base1/87_hires.png",
+"imageSmall": "https://images.pokemontcg.io/base1/87.png",
+"price": 0.46
+},
+{
+"id": "base1-88",
+"name": "Professor Oak",
+"setName": "Base",
+"setId": "base1",
+"number": "88",
+"printedTotal": 102,
+"supertype": "Trainer",
+"subtypes": [],
+"types": [],
+"hp": null,
+"rarity": "Uncommon",
+"artist": "Ken Sugimori",
+"flavor": null,
+"image": "https://images.pokemontcg.io/base1/88_hires.png",
+"imageSmall": "https://images.pokemontcg.io/base1/88.png",
+"price": 1.65
+},
+{
+"id": "base1-89",
+"name": "Revive",
+"setName": "Base",
+"setId": "base1",
+"number": "89",
+"printedTotal": 102,
+"supertype": "Trainer",
+"subtypes": [],
+"types": [],
+"hp": null,
+"rarity": "Uncommon",
+"artist": "Keiji Kinebuchi",
+"flavor": null,
+"image": "https://images.pokemontcg.io/base1/89_hires.png",
+"imageSmall": "https://images.pokemontcg.io/base1/89.png",
+"price": 2.46
+},
+{
+"id": "base1-90",
+"name": "Super Potion",
+"setName": "Base",
+"setId": "base1",
+"number": "90",
+"printedTotal": 102,
+"supertype": "Trainer",
+"subtypes": [],
+"types": [],
+"hp": null,
+"rarity": "Uncommon",
+"artist": "Keiji Kinebuchi",
+"flavor": null,
+"image": "https://images.pokemontcg.io/base1/90_hires.png",
+"imageSmall": "https://images.pokemontcg.io/base1/90.png",
+"price": 0.37
+},
+{
+"id": "base1-91",
+"name": "Bill",
+"setName": "Base",
+"setId": "base1",
+"number": "91",
+"printedTotal": 102,
+"supertype": "Trainer",
+"subtypes": [],
+"types": [],
+"hp": null,
+"rarity": "Common",
+"artist": "Ken Sugimori",
+"flavor": null,
+"image": "https://images.pokemontcg.io/base1/91_hires.png",
+"imageSmall": "https://images.pokemontcg.io/base1/91.png",
+"price": 0.38
+},
+{
+"id": "base1-92",
+"name": "Energy Removal",
+"setName": "Base",
+"setId": "base1",
+"number": "92",
+"printedTotal": 102,
+"supertype": "Trainer",
+"subtypes": [],
+"types": [],
+"hp": null,
+"rarity": "Common",
+"artist": "Keiji Kinebuchi",
+"flavor": null,
+"image": "https://images.pokemontcg.io/base1/92_hires.png",
+"imageSmall": "https://images.pokemontcg.io/base1/92.png",
+"price": 0.41
+},
+{
+"id": "base1-93",
+"name": "Gust of Wind",
+"setName": "Base",
+"setId": "base1",
+"number": "93",
+"printedTotal": 102,
+"supertype": "Trainer",
+"subtypes": [],
+"types": [],
+"hp": null,
+"rarity": "Common",
+"artist": "Keiji Kinebuchi",
+"flavor": null,
+"image": "https://images.pokemontcg.io/base1/93_hires.png",
+"imageSmall": "https://images.pokemontcg.io/base1/93.png",
+"price": 0.33
+},
+{
+"id": "base1-94",
+"name": "Potion",
+"setName": "Base",
+"setId": "base1",
+"number": "94",
+"printedTotal": 102,
+"supertype": "Trainer",
+"subtypes": [],
+"types": [],
+"hp": null,
+"rarity": "Common",
+"artist": "Keiji Kinebuchi",
+"flavor": null,
+"image": "https://images.pokemontcg.io/base1/94_hires.png",
+"imageSmall": "https://images.pokemontcg.io/base1/94.png",
+"price": 0.31
+},
+{
+"id": "base1-95",
+"name": "Switch",
+"setName": "Base",
+"setId": "base1",
+"number": "95",
+"printedTotal": 102,
+"supertype": "Trainer",
+"subtypes": [],
+"types": [],
+"hp": null,
+"rarity": "Common",
+"artist": "Keiji Kinebuchi",
+"flavor": null,
+"image": "https://images.pokemontcg.io/base1/95_hires.png",
+"imageSmall": "https://images.pokemontcg.io/base1/95.png",
+"price": 0.35
+},
+{
+"id": "base1-96",
+"name": "Double Colorless Energy",
+"setName": "Base",
+"setId": "base1",
+"number": "96",
+"printedTotal": 102,
+"supertype": "Energy",
+"subtypes": [
+"Special"
+],
+"types": [],
+"hp": null,
+"rarity": "Uncommon",
+"artist": "Keiji Kinebuchi",
+"flavor": null,
+"image": "https://images.pokemontcg.io/base1/96_hires.png",
+"imageSmall": "https://images.pokemontcg.io/base1/96.png",
+"price": 5.77
+},
+{
+"id": "base1-97",
+"name": "Fighting Energy",
+"setName": "Base",
+"setId": "base1",
+"number": "97",
+"printedTotal": 102,
+"supertype": "Energy",
+"subtypes": [
+"Basic"
+],
+"types": [],
+"hp": null,
+"rarity": null,
+"artist": "Keiji Kinebuchi",
+"flavor": null,
+"image": "https://images.pokemontcg.io/base1/97_hires.png",
+"imageSmall": "https://images.pokemontcg.io/base1/97.png",
+"price": 0.43
+},
+{
+"id": "base1-98",
+"name": "Fire Energy",
+"setName": "Base",
+"setId": "base1",
+"number": "98",
+"printedTotal": 102,
+"supertype": "Energy",
+"subtypes": [
+"Basic"
+],
+"types": [],
+"hp": null,
+"rarity": null,
+"artist": "Keiji Kinebuchi",
+"flavor": null,
+"image": "https://images.pokemontcg.io/base1/98_hires.png",
+"imageSmall": "https://images.pokemontcg.io/base1/98.png",
+"price": 0.38
+},
+{
+"id": "base1-99",
+"name": "Grass Energy",
+"setName": "Base",
+"setId": "base1",
+"number": "99",
+"printedTotal": 102,
+"supertype": "Energy",
+"subtypes": [
+"Basic"
+],
+"types": [],
+"hp": null,
+"rarity": null,
+"artist": "Keiji Kinebuchi",
+"flavor": null,
+"image": "https://images.pokemontcg.io/base1/99_hires.png",
+"imageSmall": "https://images.pokemontcg.io/base1/99.png",
+"price": 0.38
+},
+{
+"id": "base1-100",
+"name": "Lightning Energy",
+"setName": "Base",
+"setId": "base1",
+"number": "100",
+"printedTotal": 102,
+"supertype": "Energy",
+"subtypes": [
+"Basic"
+],
+"types": [],
+"hp": null,
+"rarity": null,
+"artist": "Keiji Kinebuchi",
+"flavor": null,
+"image": "https://images.pokemontcg.io/base1/100_hires.png",
+"imageSmall": "https://images.pokemontcg.io/base1/100.png",
+"price": 0.51
+},
+{
+"id": "base1-101",
+"name": "Psychic Energy",
+"setName": "Base",
+"setId": "base1",
+"number": "101",
+"printedTotal": 102,
+"supertype": "Energy",
+"subtypes": [
+"Basic"
+],
+"types": [],
+"hp": null,
+"rarity": null,
+"artist": "Keiji Kinebuchi",
+"flavor": null,
+"image": "https://images.pokemontcg.io/base1/101_hires.png",
+"imageSmall": "https://images.pokemontcg.io/base1/101.png",
+"price": 0.47
+},
+{
+"id": "base1-102",
+"name": "Water Energy",
+"setName": "Base",
+"setId": "base1",
+"number": "102",
+"printedTotal": 102,
+"supertype": "Energy",
+"subtypes": [
+"Basic"
+],
+"types": [],
+"hp": null,
+"rarity": null,
+"artist": "Keiji Kinebuchi",
+"flavor": null,
+"image": "https://images.pokemontcg.io/base1/102_hires.png",
+"imageSmall": "https://images.pokemontcg.io/base1/102.png",
+"price": 0.38
+}
+]
