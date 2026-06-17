@@ -22,10 +22,12 @@ A clean, fast browser for **trading card games** — explore real **Pokémon** a
 
 | Game | Cards bundled | Live search |
 | --- | --- | --- |
-| **Pokémon** | 309 (the *151* set + the 1999 *Base Set*) | ✅ entire catalogue via API |
-| **Weiss Schwarz** | 624 across 14 popular series* | ❌ (filtered locally) |
+| **Pokémon** | 1,168 — the full *Mega Evolution* era (5 sets), the *151* set, and the 1999 *Base Set* | ✅ entire catalogue via API |
+| **Weiss Schwarz** | 782 across 16 series* + 23 signature (signed) cards | ❌ (filtered locally) |
 
-\*Sword Art Online, Attack on Titan, Re:Zero, KonoSuba, Love Live!, Slime, Kaguya-sama, Frieren, Chainsaw Man, Persona 5, Hatsune Miku, Bakemonogatari, Spy x Family, and more.
+Cards are grouped into **categories** (Pokémon eras / Weiss Schwarz franchises), with a Set dropdown that narrows to the selected category. Each game has its own accent theme.
+
+\*Sword Art Online, Attack on Titan, Re:Zero, KonoSuba, Love Live!, Slime, Kaguya-sama, Frieren, Chainsaw Man, Persona 5, Hatsune Miku, Bakemonogatari, Spy x Family, Uma Musume Pretty Derby, Uma Musume: Cinderella Gray, and more. Signature cards (rarity **SP** — autographed parallels) get their own **✦ Signatures** category.
 
 ## 🚀 Run it
 
@@ -48,11 +50,13 @@ tcg-vault/
 ├─ style.css         # Apple-inspired design system (light/dark)
 ├─ app.js            # game adapters, search, filters, modal, collection
 ├─ data/
-│  ├─ pokemon.json   # bundled featured Pokémon cards
-│  └─ weiss.json     # bundled Weiss Schwarz cards
+│  ├─ pokemon.json           # bundled Pokémon cards
+│  ├─ weiss.json             # bundled Weiss Schwarz cards
+│  └─ weiss-signatures.json  # signed "signature" (SP) cards
 └─ scripts/
-   ├─ build_pokemon.py   # regenerates data/pokemon.json
-   └─ build_weiss.py     # regenerates data/weiss.json
+   ├─ build_pokemon.py     # regenerates data/pokemon.json
+   ├─ build_weiss.py       # regenerates data/weiss.json
+   └─ build_signatures.py  # regenerates data/weiss-signatures.json
 ```
 
 Each game is a small **adapter** in `app.js` that knows how to load its data and turn a raw record into a common card shape the UI renders. Adding a third game is mostly a matter of writing another adapter and a data file.
@@ -64,12 +68,14 @@ To refresh or expand the bundled data:
 ```bash
 python scripts/build_pokemon.py
 python scripts/build_weiss.py
+python scripts/build_signatures.py
 ```
 
 ## 📚 Data sources
 
 - **Pokémon** — the [Pokémon TCG API](https://pokemontcg.io) (`api.pokemontcg.io`)
 - **Weiss Schwarz** — [Encore Decks](https://www.encoredecks.com)
+- **Weiss Schwarz signature cards** — the community [WeissSchwarz-ENG-DB](https://github.com/CCondeluci/WeissSchwarz-ENG-DB), which links the official `en.ws-tcg.com` card images (Encore Decks, a deck builder, doesn't carry signed parallels)
 
 Card images and names are © their respective owners (The Pokémon Company, Bushiroad, and the original IP holders). This is a non-commercial fan project built for learning.
 

@@ -12,7 +12,7 @@ const GAMES = {
   pokemon: {
     id: "pokemon",
     name: "Pokémon",
-    dataUrl: "data/pokemon.json",
+    dataUrls: ["data/pokemon.json"],
     typeLabel: "Type",
     live: true,
     toCard(r) {
@@ -76,7 +76,8 @@ const GAMES = {
   weiss: {
     id: "weiss",
     name: "Weiss Schwarz",
-    dataUrl: "data/weiss.json",
+    // Signatures load first so their category leads the list.
+    dataUrls: ["data/weiss-signatures.json", "data/weiss.json"],
     typeLabel: "Color",
     live: false,
     toCard(r) {
@@ -102,7 +103,9 @@ const GAMES = {
           r.setCode && ["Set", r.setCode],
         ].filter(Boolean),
         facet: {
-          category: r.franchise,
+          // Signature cards carry an explicit category ("✦ Signatures") so they
+          // group together; everything else groups by its franchise.
+          category: r.category || r.franchise,
           set: r.setCode ? r.setCode.split("/").pop() : "—",
           rarity: r.rarity || "—",
           type: r.color || r.type || "—",
@@ -149,8 +152,12 @@ const cache = {}; // game id -> raw bundled array
 async function loadGame(gameId) {
   const game = GAMES[gameId];
   if (!cache[gameId]) {
-    const res = await fetch(game.dataUrl);
-    cache[gameId] = await res.json();
+    // `no-cache` revalidates with the server so rebuilt data is never stale.
+    const urls = game.dataUrls || [game.dataUrl];
+    const arrays = await Promise.all(
+      urls.map((u) => fetch(u, { cache: "no-cache" }).then((r) => r.json()))
+    );
+    cache[gameId] = arrays.flat();
   }
   state.cards = cache[gameId].map((r) => game.toCard(r));
   state.liveMode = false;

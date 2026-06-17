@@ -1,0 +1,513 @@
+[
+{
+"id": "FS/S34-TE16",
+"name": "Holy Grail War Entry, Saber",
+"category": "✦ Signatures",
+"franchise": "Fate/stay night [Unlimited Blade Works]",
+"setCode": "FS/S34",
+"type": "Character",
+"color": "Yellow",
+"level": 0,
+"cost": 0,
+"power": 2000,
+"soul": 1,
+"rarity": "SP",
+"traits": [
+"Servant",
+"Weapon"
+],
+"trigger": [],
+"text": "【ACT】 [【REST】 two of your characters] Choose one of your 《Master》 or 《Servant》 characters, and that character gets +1500 power until end of turn. 【ACT】 Brainstorm [(1)] Reveal one card from the top of your deck, and put it into your waiting room. Choose one of your characters, and that character gets +X soul until end of turn. X is equal to the level of the card put into your waiting room with this effect. (Climax are regarded as level 0)",
+"image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_TE16.png"
+},
+{
+"id": "FS/S34-TE19",
+"name": "Jewel Mage, Rin",
+"category": "✦ Signatures",
+"franchise": "Fate/stay night [Unlimited Blade Works]",
+"setCode": "FS/S34",
+"type": "Character",
+"color": "Red",
+"level": 3,
+"cost": 2,
+"power": 10000,
+"soul": 1,
+"rarity": "SP",
+"traits": [
+"Master",
+"Jewel"
+],
+"trigger": [
+"SOUL"
+],
+"text": "【AUTO】 When this card is placed on the stage ｆｒｏｍ your hand, you may put the top card of your clock into your waiting room. 【AUTO】 When another of your 《Master》 or 《Servant》 character attacks, this card gets +1000 power until end of turn.",
+"image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_TE19.png"
+},
+{
+"id": "KC/SE28-E02",
+"name": "Northern Princess in the Deep Sea",
+"category": "✦ Signatures",
+"franchise": "KanColle : Fleet in the Deep Sea, Sighted!",
+"setCode": "KC/SE28",
+"type": "Character",
+"color": "Green",
+"level": 1,
+"cost": 0,
+"power": 4500,
+"soul": 1,
+"rarity": "RR/SP",
+"traits": [
+"Fleet in the Deep Sea",
+"Princess in the Deep Sea"
+],
+"trigger": [],
+"text": "【AUTO】 When a card named \"Sink!\" is placed on your climax area, if this card is in your center stage, choose up to one of your opponent's level 0 or lower characters, put it into his or her waiting room, and reveal the top card of your deck. If that card is a level 0 or lower character, put it into your hand. (If it is not, return the revealed card to its original place)",
+"image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_se28/KC_SE28_E02.png"
+},
+{
+"id": "KC/SE28-E03",
+"name": "Final Mode, Northern Princess in the Deep Sea",
+"category": "✦ Signatures",
+"franchise": "KanColle : Fleet in the Deep Sea, Sighted!",
+"setCode": "KC/SE28",
+"type": "Character",
+"color": "Green",
+"level": 3,
+"cost": 2,
+"power": 10000,
+"soul": 2,
+"rarity": "RR/SP",
+"traits": [
+"Fleet in the Deep Sea",
+"Princess in the Deep Sea"
+],
+"trigger": [
+"SOUL"
+],
+"text": "【CONT】 Experience If all of the cards in your level are 《Fleet in the Deep Sea》 characters, this card gets +1500 power. 【AUTO】 [(1)] During the turn that this card was placed on the stage from your hand, when this card's battle opponent becomes 【REVERSE】, you may pay the cost. If you do, put that character into your opponent's clock.",
+"image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_se28/KC_SE28_E03.png"
+},
+{
+"id": "KC/SE28-E05",
+"name": "Midway Princess in the Deep Sea",
+"category": "✦ Signatures",
+"franchise": "KanColle : Fleet in the Deep Sea, Sighted!",
+"setCode": "KC/SE28",
+"type": "Character",
+"color": "Green",
+"level": 1,
+"cost": 0,
+"power": 3000,
+"soul": 1,
+"rarity": "R/SP",
+"traits": [
+"Fleet in the Deep Sea",
+"Princess in the Deep Sea"
+],
+"trigger": [],
+"text": "【ACT】 [(1)] Choose one of your 《Fleet in the Deep Sea》 characters, and that character gets +1500 power until end of turn. 【AUTO】 When this card is placed on the stage from your hand, look at up to two cards from the top of your deck, and put them on the top of your deck in the original order. 【CONT】 If the number of other 《Fleet in the Deep Sea》 characters you have is two or more, this card gets +1000 power. 【CONT】 This card gets +500 power for each of your other level 0 or lower characters. 【AUTO】 [(1) Put a card from your hand into your waiting room] When this card is put into your waiting room from the stage from your hand, you may pay the cost. If you do, choose a card named \"Final Mode, Midway Princess in the Deep Sea\" in your waiting room, and put it on any position of your stage as 【REST】.",
+"image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_se28/KC_SE28_E05.png"
+},
+{
+"id": "KC/SE28-E13",
+"name": "Airｃraｆｔ Carrier Hydro Ogre in the Deep Sea",
+"category": "✦ Signatures",
+"franchise": "KanColle : Fleet in the Deep Sea, Sighted!",
+"setCode": "KC/SE28",
+"type": "Character",
+"color": "Green",
+"level": 2,
+"cost": 1,
+"power": 3500,
+"soul": 1,
+"rarity": "U/SP",
+"traits": [
+"Fleet in the Deep Sea",
+"Hydro Ogre in the Deep Sea"
+],
+"trigger": [
+"SOUL"
+],
+"text": "【AUTO】 When this card is placed on the stage from your hand, if the number of other 《Fleet in the Deep Sea》 characters you have is four or more, you may put the top card of your deck into your stock. 【AUTO】 [(1)] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to one 《Fleet in the Deep Sea》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.",
+"image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_se28/KC_SE28_E13.png"
+},
+{
+"id": "KC/SE28-E14",
+"name": "Aircraft Carrier Princess in the Deep Sea",
+"category": "✦ Signatures",
+"franchise": "KanColle : Fleet in the Deep Sea, Sighted!",
+"setCode": "KC/SE28",
+"type": "Character",
+"color": "Green",
+"level": 2,
+"cost": 1,
+"power": 6500,
+"soul": 1,
+"rarity": "U/SP",
+"traits": [
+"Fleet in the Deep Sea",
+"Princess in the Deep Sea"
+],
+"trigger": [
+"SOUL"
+],
+"text": "【AUTO】 When this card becomes 【REVERSE】, if the level of this card's battle opponent is higher than your opponent's level, you may put the top card of your opponent's clock into his or her waiting room. If you do, put that character into your opponent's clock. 【AUTO】 When you level up, this card gets \"【AUTO】 Encore [(1)]\" until end of turn.",
+"image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_se28/KC_SE28_E14.png"
+},
+{
+"id": "KC/SE28-E15",
+"name": "Berserker Mode, Port Princess in the Deep Sea",
+"category": "✦ Signatures",
+"franchise": "KanColle : Fleet in the Deep Sea, Sighted!",
+"setCode": "KC/SE28",
+"type": "Character",
+"color": "Green",
+"level": 2,
+"cost": 1,
+"power": 7500,
+"soul": 1,
+"rarity": "U/SP",
+"traits": [
+"Fleet in the Deep Sea",
+"Princess in the Deep Sea"
+],
+"trigger": [
+"SOUL"
+],
+"text": "【CONT】 If a card named \"Port Princess in the Deep Sea\" is in your clock, this card gets -1 level while in your hand. 【AUTO】 When this card attacks, if a card named \"Nothing… you don't understand anything at all…\" is in your climax area, you may choose a card in your clock, and return it to your hand. If you do, put the top card of your deck into your clock.",
+"image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_se28/KC_SE28_E15.png"
+},
+{
+"id": "KC/SE28-E26",
+"name": "Anchorage Ogre in the Deep Sea",
+"category": "✦ Signatures",
+"franchise": "KanColle : Fleet in the Deep Sea, Sighted!",
+"setCode": "KC/SE28",
+"type": "Character",
+"color": "Blue",
+"level": 0,
+"cost": 0,
+"power": 1000,
+"soul": 1,
+"rarity": "RR/SP",
+"traits": [
+"Fleet in the Deep Sea",
+"Ogre in the Deep Sea"
+],
+"trigger": [],
+"text": "【CONT】 Your other character in the middle position of your center stage gets +500 power. 【ACT】 Brainstorm [(1) 【REST】 this card] Reveal four cards from the top of your deck, and put them into your waiting room. For each climax revealed, search your deck for up to one 《Fleet in the Deep Sea》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.",
+"image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_se28/KC_SE28_E26_.png"
+},
+{
+"id": "KC/SE28-E27",
+"name": "Final Mode, Light Cruiser Ogre in the Deep Sea",
+"category": "✦ Signatures",
+"franchise": "KanColle : Fleet in the Deep Sea, Sighted!",
+"setCode": "KC/SE28",
+"type": "Character",
+"color": "Blue",
+"level": 1,
+"cost": 0,
+"power": 5000,
+"soul": 1,
+"rarity": "RR/SP",
+"traits": [
+"Fleet in the Deep Sea",
+"Ogre in the Deep Sea"
+],
+"trigger": [],
+"text": "【CONT】 This card gets +500 power for each of your other 《Fleet in the Deep Sea》 characters. 【AUTO】 When this card becomes 【REVERSE】 in battle, until end of turn, you cannot use \"【AUTO】 Encore\". (You cannot use the \"【AUTO】 Encore [(3)]\" rule either)",
+"image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_se28/KC_SE28_E27_.png"
+},
+{
+"id": "KC/SE28-E32",
+"name": "Seaplane Carrier Princess in the Deep Sea",
+"category": "✦ Signatures",
+"franchise": "KanColle : Fleet in the Deep Sea, Sighted!",
+"setCode": "KC/SE28",
+"type": "Character",
+"color": "Blue",
+"level": 2,
+"cost": 1,
+"power": 2500,
+"soul": 1,
+"rarity": "R/SP",
+"traits": [
+"Fleet in the Deep Sea",
+"Princess in the Deep Sea"
+],
+"trigger": [
+"SOUL"
+],
+"text": "【AUTO】 [(2)] When you use this card's \"Backup\", if the number of 《Fleet in the Deep Sea》 characters you have is four or more, you may pay the cost. If you do, choose one of your opponent's characters with level higher than your opponent's level, and put it into his or her waiting room. 【ACT】 【COUNTER】 Backup 2500, Level 2 [(1) Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +2500 power until end of turn)",
+"image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_se28/KC_SE28_E32.png"
+},
+{
+"id": "KC/SE28-E33",
+"name": "Isolated Island Ogre in the Deep Sea",
+"category": "✦ Signatures",
+"franchise": "KanColle : Fleet in the Deep Sea, Sighted!",
+"setCode": "KC/SE28",
+"type": "Character",
+"color": "Blue",
+"level": 2,
+"cost": 1,
+"power": 6000,
+"soul": 1,
+"rarity": "R/SP",
+"traits": [
+"Fleet in the Deep Sea",
+"Ogre in the Deep Sea"
+],
+"trigger": [
+"SOUL"
+],
+"text": "【CONT】 All of your other 《Fleet in the Deep Sea》 characters get +1000 power. 【ACT】 [(2) 【REST】 this card] Search your deck for up to one 《Fleet in the Deep Sea》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.",
+"image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_se28/KC_SE28_E33.png"
+},
+{
+"id": "KC/SE28-E34",
+"name": "Air Defense Princess in the Deep Sea",
+"category": "✦ Signatures",
+"franchise": "KanColle : Fleet in the Deep Sea, Sighted!",
+"setCode": "KC/SE28",
+"type": "Character",
+"color": "Blue",
+"level": 3,
+"cost": 2,
+"power": 13000,
+"soul": 2,
+"rarity": "R/SP",
+"traits": [
+"Fleet in the Deep Sea",
+"Princess in the Deep Sea"
+],
+"trigger": [
+"SOUL"
+],
+"text": "【CONT】 If this card is in your center stage except the middle position, this card gets -4000 power. 【CONT】 If this card is in the middle position of your center stage, this card gets -2000 power for each of your other 【REVERSE】 characters in the center stage or open position of your center stage. 【AUTO】 When this card is placed on the stage from your hand, look at up to three card from the top of your deck, choose up to one card from among them, put it into your hand, and put the rest into your waiting room. 【AUTO】 [(3) Put a card named \"Hehehe… Does it hurt?\" from your climax area into your waiting room] When this card's battle opponent becomes 【REVERSE】, you may pay the cost. If you do, 【STAND】 this card.",
+"image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_se28/KC_SE28_E34.png"
+},
+{
+"id": "KC/SE28-E40",
+"name": "Battleship Princess in the Deep Sea",
+"category": "✦ Signatures",
+"franchise": "KanColle : Fleet in the Deep Sea, Sighted!",
+"setCode": "KC/SE28",
+"type": "Character",
+"color": "Blue",
+"level": 2,
+"cost": 1,
+"power": 7500,
+"soul": 1,
+"rarity": "U/SP",
+"traits": [
+"Fleet in the Deep Sea",
+"Princess in the Deep Sea"
+],
+"trigger": [
+"SOUL"
+],
+"text": "【AUTO】 [(1) Put a card from your hand into your waiting room] When a card named \"Please sink!\" is placed on your climax area, if this card is in your center stage, you may pay the cost. If you do, choose one of your opponent's cost 1 or lower characters, and put it on the bottom of his or her deck. 【AUTO】 [Put this card into your waiting room] When another of your 《Fleet in the Deep Sea》 characters is frontal attacked, you may pay the cost. If you do, choose one of your characters in battle, and that character gets +3000 power until end of turn.",
+"image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_se28/KC_SE28_E40.png"
+},
+{
+"id": "KC/SE28-E41",
+"name": "Destroyer Princess in the Deep Sea",
+"category": "✦ Signatures",
+"franchise": "KanColle : Fleet in the Deep Sea, Sighted!",
+"setCode": "KC/SE28",
+"type": "Character",
+"color": "Blue",
+"level": 0,
+"cost": 0,
+"power": 2000,
+"soul": 1,
+"rarity": "C/SP",
+"traits": [
+"Fleet in the Deep Sea",
+"Princess in the Deep Sea"
+],
+"trigger": [],
+"text": "【AUTO】 When this card is placed on the stage from your hand, look at the top card of your deck, and put it on the top or the bottom of your deck. 【AUTO】 When a card named \"Fall!\" is placed on your climax area, if this card is in your center stage, reveal the top card of your deck. If that card is a 《Fleet in the Deep Sea》 character, this card gets +5000 power until end of turn. (The revealed card is returned to its original place)",
+"image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_se28/KC_SE28_E41.png"
+},
+{
+"id": "KC/SE28-E47",
+"name": "Anchorage Hydro Ogre in the Deep Sea",
+"category": "✦ Signatures",
+"franchise": "KanColle : Fleet in the Deep Sea, Sighted!",
+"setCode": "KC/SE28",
+"type": "Character",
+"color": "Blue",
+"level": 2,
+"cost": 1,
+"power": 7000,
+"soul": 1,
+"rarity": "C/SP",
+"traits": [
+"Fleet in the Deep Sea",
+"Hydro Ogre in the Deep Sea"
+],
+"trigger": [
+"SOUL"
+],
+"text": "【CONT】 If the number of 《Fleet in the Deep Sea》 characters you have is four or more, this card gets -1 level while in your hand. 【AUTO】 This ability activates up to one time per turn. When your character is put into the waiting room from your hand, this card gets +1500 power until end of turn.",
+"image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_se28/KC_SE28_E47.png"
+},
+{
+"id": "LL/W36-TE18",
+"name": "“Summer Uniform” Nico Yazawa",
+"category": "✦ Signatures",
+"franchise": "Love Live! School idol festival",
+"setCode": "LL/W36",
+"type": "Character",
+"color": "Yellow",
+"level": 2,
+"cost": 2,
+"power": 9000,
+"soul": 2,
+"rarity": "SP",
+"traits": [
+"Music"
+],
+"trigger": [
+"SOUL"
+],
+"text": "",
+"image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_w36/LL_W36_TE18.png"
+},
+{
+"id": "MM/W17-TE04",
+"name": "Madoka Kaname",
+"category": "✦ Signatures",
+"franchise": "Puella Magi Madoka Magica",
+"setCode": "MM/W17",
+"type": "Character",
+"color": "Green",
+"level": 3,
+"cost": 2,
+"power": 10000,
+"soul": 2,
+"rarity": "SP",
+"traits": [
+"Magic"
+],
+"trigger": [
+"SOUL"
+],
+"text": "【CONT】 If the number of other 《Magic》 characters you have is three or more, this card gets +1000 power. 【AUTO】 When this card is placed on stage from your hand, all of your characters get +2000 power until end of turn. 【ACT】[(1)] This card gets +2000 power until end of turn.",
+"image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w17/MM_W17_TE04.png"
+},
+{
+"id": "MM/W17-TE05",
+"name": "Homura Akemi",
+"category": "✦ Signatures",
+"franchise": "Puella Magi Madoka Magica",
+"setCode": "MM/W17",
+"type": "Character",
+"color": "Green",
+"level": 3,
+"cost": 2,
+"power": 10000,
+"soul": 2,
+"rarity": "SP",
+"traits": [
+"Magic",
+"Time"
+],
+"trigger": [
+"SOUL"
+],
+"text": "【CONT】 If the number of cards in your stock is four or less, this card gets +500 power, and gets \"【AUTO】 Encore [Put a character from your hand into your waiting room]\". 【CONT】 The character facing this card gets -1 soul.",
+"image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w17/MM_W17_TE05.png"
+},
+{
+"id": "LRC/WE47-E11SP",
+"name": "Final Duty, Chisato",
+"category": "✦ Signatures",
+"franchise": "[EX] Premium Booster Lycoris Recoil",
+"setCode": "LRC/WE47",
+"type": "Character",
+"color": "Red",
+"level": 0,
+"cost": 0,
+"power": 500,
+"soul": 1,
+"rarity": "SP",
+"traits": [
+"LycoReco",
+"Weapon"
+],
+"trigger": [],
+"text": "【CONT】 You cannot receive 4 or more damage by the 【AUTO】 effects of your opponent's characters. 【CONT】 All of your other 《LycoReco》 or 《Weapon》 characters get +500 power. 【ACT】 [【REST】 this card] Choose 1 card in your level and 1 《LycoReco》 or 《Weapon》 character in your waiting room, and exchange them.",
+"image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRCPB/WE47-E11SP.png"
+},
+{
+"id": "LRC/WE47-E25SP",
+"name": "Reason to Act, Chisato",
+"category": "✦ Signatures",
+"franchise": "[EX] Premium Booster Lycoris Recoil",
+"setCode": "LRC/WE47",
+"type": "Character",
+"color": "Red",
+"level": 2,
+"cost": 1,
+"power": 5000,
+"soul": 1,
+"rarity": "SP",
+"traits": [
+"LycoReco",
+"Weapon"
+],
+"trigger": [
+"SOUL"
+],
+"text": "【AUTO】 When this card is placed on the stage from your hand, choose 1 of your characters, and that character gets +1 soul until end of turn. 【ACT】 [Put this card into your waiting room] Choose 1 of your opponent's characters, and return it to their hand.",
+"image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRCPB/WE47-E25SP.png"
+},
+{
+"id": "LRC/WE47-E33SP",
+"name": "My Duty, Takina",
+"category": "✦ Signatures",
+"franchise": "[EX] Premium Booster Lycoris Recoil",
+"setCode": "LRC/WE47",
+"type": "Character",
+"color": "Blue",
+"level": 0,
+"cost": 0,
+"power": 500,
+"soul": 1,
+"rarity": "SP",
+"traits": [
+"LycoReco",
+"Weapon"
+],
+"trigger": [],
+"text": "【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is a 《LycoReco》 or 《Weapon》 character, choose 1 of your characters, and that character gets +3000 power until end of turn. (Return the revealed card to its original place) 【AUTO】 [(1)] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 trait of a character in your opponent's stage, and all of your opponent's characters lose all of that chosen trait until end of turn.",
+"image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRCPB/WE47-E33SP.png"
+},
+{
+"id": "LRC/WE47-E45SP",
+"name": "Reason to Fight, Takina",
+"category": "✦ Signatures",
+"franchise": "[EX] Premium Booster Lycoris Recoil",
+"setCode": "LRC/WE47",
+"type": "Character",
+"color": "Blue",
+"level": 2,
+"cost": 1,
+"power": 2500,
+"soul": 1,
+"rarity": "SP",
+"traits": [
+"LycoReco",
+"Weapon"
+],
+"trigger": [
+"SOUL"
+],
+"text": "【AUTO】 [(2)] When you use this card's \"Backup\", you may pay the cost. If you do, return all cards from your waiting room to your deck, and shuffle your deck. 【ACT】 【COUNTER】 Backup 2500, Level 2 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +2500 power until end of turn)",
+"image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRCPB/WE47-E45SP.png"
+}
+]
