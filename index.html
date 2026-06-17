@@ -120,11 +120,11 @@
         <dl class="modal-stats" id="modalStats"></dl>
         <p class="modal-text" id="modalText"></p>
 
-        <!-- Live eBay prices (only shown when an eBay proxy is configured) -->
-        <div class="ebay-block" id="ebayBlock" hidden>
+        <!-- Live prices (only shown when a price proxy is configured) -->
+        <div class="ebay-block" id="priceBlock" hidden>
           <div class="ebay-head">
-            <span class="ebay-title">eBay listings</span>
-            <select id="ebayGrade" class="ebay-grade" aria-label="Card grade">
+            <span class="ebay-title" id="priceTitle">Prices</span>
+            <select id="ebayGrade" class="ebay-grade" aria-label="Card grade" hidden>
               <option value="raw">Ungraded</option>
               <option value="PSA 10">PSA 10</option>
               <option value="PSA 9">PSA 9</option>
@@ -132,8 +132,8 @@
               <option value="CGC 9.5">CGC 9.5</option>
             </select>
           </div>
-          <div class="ebay-result" id="ebayResult"></div>
-          <p class="ebay-note">Lowest asking prices from active eBay listings — not completed-sale values.</p>
+          <div class="ebay-result" id="priceResult"></div>
+          <p class="ebay-note" id="priceNote"></p>
         </div>
 
         <button class="fav-btn modal-fav" id="modalFav" aria-pressed="false">

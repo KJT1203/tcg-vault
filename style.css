@@ -851,6 +851,30 @@ a:hover {
   opacity: 0.85;
 }
 
+/* graded price grid (PokemonPriceTracker) */
+.grade-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(72px, 1fr));
+  gap: 8px;
+}
+.grade-cell {
+  text-align: center;
+  padding: 9px 4px;
+  background: var(--surface);
+  border: 1px solid var(--border-soft);
+  border-radius: 9px;
+}
+.grade-cell span {
+  display: block;
+  font-size: 11px;
+  color: var(--text-2);
+  margin-bottom: 3px;
+}
+.grade-cell strong {
+  font-size: 14px;
+  color: var(--accent);
+}
+
 /* ---------- Responsive ---------- */
 @media (max-width: 680px) {
   .hero {

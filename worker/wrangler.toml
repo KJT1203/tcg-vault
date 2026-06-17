@@ -1,5 +1,5 @@
-name = "tcg-vault-ebay-proxy"
-main = "ebay-proxy.js"
+name = "tcg-vault-price-proxy"
+main = "price-proxy.js"
 compatibility_date = "2025-01-01"
 
 # Non-secret config. ALLOWED_ORIGIN should be your site's origin in production
@@ -8,6 +8,9 @@ compatibility_date = "2025-01-01"
 EBAY_MARKETPLACE = "EBAY_US"
 # ALLOWED_ORIGIN = "https://kjt1203.github.io"
 
-# Secrets are NOT stored here. Set them once with:
-#   wrangler secret put EBAY_CLIENT_ID
-#   wrangler secret put EBAY_CLIENT_SECRET
+# Secrets are NOT stored here. Set whichever features you want:
+#   Graded prices (PokemonPriceTracker):
+#     wrangler secret put PPT_API_KEY
+#   eBay asking prices (optional):
+#     wrangler secret put EBAY_CLIENT_ID
+#     wrangler secret put EBAY_CLIENT_SECRET

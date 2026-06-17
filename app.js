@@ -416,91 +416,142 @@ function openModal(card) {
   $("#modalText").textContent = card.text;
   $("#modalText").hidden = !card.text;
   syncModalFav();
-  setupEbay(card);
+  setupPrices(card);
 
   modal.hidden = false;
   document.body.style.overflow = "hidden";
 }
 
-// ---- Live eBay prices (optional; needs the Worker proxy) -------
-const EBAY_PROXY = (window.TCG_VAULT_CONFIG && window.TCG_VAULT_CONFIG.ebayProxyUrl) || "";
-const ebayBlock = $("#ebayBlock");
+// ---- Live prices (optional; needs the Worker proxy) -----------
+// One Worker, two sources: PokemonPriceTracker for Pokémon graded prices,
+// eBay for Weiss Schwarz asking prices.
+const PROXY = (window.TCG_VAULT_CONFIG &&
+  (window.TCG_VAULT_CONFIG.proxyUrl || window.TCG_VAULT_CONFIG.ebayProxyUrl)) || "";
+const proxyBase = PROXY.replace(/\/$/, "");
+const priceBlock = $("#priceBlock");
+const priceTitle = $("#priceTitle");
+const priceResult = $("#priceResult");
+const priceNote = $("#priceNote");
 const ebayGrade = $("#ebayGrade");
-const ebayResult = $("#ebayResult");
-let ebayReqId = 0; // guards against out-of-order responses
+let priceReqId = 0; // guards against out-of-order responses
+const gradedCache = new Map(); // card.id -> graded payload (saves API credits)
 
-function setupEbay(card) {
-  if (!EBAY_PROXY) {
-    ebayBlock.hidden = true;
+const money = (n, currency) =>
+  (currency === "USD" || !currency ? "$" : currency + " ") + Number(n).toFixed(2);
+
+function setupPrices(card) {
+  if (!PROXY) {
+    priceBlock.hidden = true;
     return;
   }
-  ebayBlock.hidden = false;
-  ebayGrade.value = "raw";
-  loadEbayPrices(card, "raw");
+  priceBlock.hidden = false;
+  if (card.game === "pokemon") {
+    ebayGrade.hidden = true;
+    priceTitle.textContent = "Graded prices";
+    priceNote.textContent = "Recent eBay sold averages via PokemonPriceTracker.";
+    loadGraded(card);
+  } else {
+    ebayGrade.hidden = false;
+    ebayGrade.value = "raw";
+    priceTitle.textContent = "eBay listings";
+    priceNote.textContent = "Lowest asking prices from active listings — not completed sales.";
+    loadEbay(card, "raw");
+  }
 }
 
-// Build a focused eBay search query for a card (+ optional grade).
-function ebayQuery(card, grade) {
-  const parts = [card.name];
-  if (card.game === "pokemon") {
-    if (card.series) parts.push(card.series);
-    const num = (card.meta.find((m) => m[0] === "Number") || [])[1];
-    if (num) parts.push(num.split(" ")[0]); // collector number, e.g. "6"
-  } else {
-    parts.push("Weiss Schwarz", card.id);
+// ----- Pokémon graded prices (PokemonPriceTracker) -----
+async function loadGraded(card) {
+  const reqId = ++priceReqId;
+  if (gradedCache.has(card.id)) return renderGraded(gradedCache.get(card.id));
+
+  priceResult.innerHTML = '<span class="ebay-loading">Checking graded prices…</span>';
+  const params = new URLSearchParams({ q: card.name });
+  if (card.series) params.set("set", card.series);
+
+  try {
+    const res = await fetch(`${proxyBase}/graded?${params}`);
+    if (!res.ok) throw new Error("proxy " + res.status);
+    const data = await res.json();
+    if (reqId !== priceReqId) return;
+    gradedCache.set(card.id, data);
+    renderGraded(data);
+  } catch (err) {
+    if (reqId !== priceReqId) return;
+    priceResult.innerHTML = '<span class="ebay-empty">Couldn’t reach the price proxy.</span>';
   }
+}
+
+function renderGraded(data) {
+  if (!data || data.found === false || (!data.raw && !(data.grades || []).length)) {
+    priceResult.innerHTML = '<span class="ebay-empty">No graded price data found for this card.</span>';
+    return;
+  }
+  const rows = [];
+  if (data.raw != null) rows.push(["Ungraded", data.raw]);
+  (data.grades || []).forEach((g) => rows.push([g.label, g.value]));
+
+  priceResult.innerHTML =
+    '<div class="grade-grid">' +
+    rows
+      .map(
+        ([label, val]) =>
+          `<div class="grade-cell"><span>${escapeHtml(label)}</span><strong>${money(val)}</strong></div>`
+      )
+      .join("") +
+    "</div>";
+}
+
+// ----- Weiss Schwarz asking prices (eBay) -----
+function ebayQuery(card, grade) {
+  const parts = [card.name, "Weiss Schwarz", card.id];
   if (grade && grade !== "raw") parts.push(grade);
   return parts.join(" ");
 }
 
-async function loadEbayPrices(card, grade) {
-  const reqId = ++ebayReqId;
-  ebayResult.innerHTML = '<span class="ebay-loading">Checking eBay…</span>';
-  const q = ebayQuery(card, grade);
-  const url =
-    `${EBAY_PROXY.replace(/\/$/, "")}/search?q=${encodeURIComponent(q)}&limit=25` +
-    (card.game === "pokemon" ? "&category=183454" : "");
+async function loadEbay(card, grade) {
+  const reqId = ++priceReqId;
+  priceResult.innerHTML = '<span class="ebay-loading">Checking eBay…</span>';
+  const url = `${proxyBase}/search?q=${encodeURIComponent(ebayQuery(card, grade))}&limit=25`;
 
   try {
     const res = await fetch(url);
     if (!res.ok) throw new Error("proxy " + res.status);
     const data = await res.json();
-    if (reqId !== ebayReqId) return; // a newer request superseded this one
+    if (reqId !== priceReqId) return;
     renderEbay(data);
   } catch (err) {
-    if (reqId !== ebayReqId) return;
-    ebayResult.innerHTML = '<span class="ebay-empty">Couldn’t reach the eBay proxy.</span>';
+    if (reqId !== priceReqId) return;
+    priceResult.innerHTML = '<span class="ebay-empty">Couldn’t reach the price proxy.</span>';
   }
 }
 
 function renderEbay(data) {
   if (!data || !data.count) {
-    ebayResult.innerHTML = '<span class="ebay-empty">No active listings found.</span>';
+    priceResult.innerHTML = '<span class="ebay-empty">No active listings found.</span>';
     return;
   }
-  const cur = data.currency === "USD" ? "$" : (data.currency || "") + " ";
-  const money = (n) => cur + Number(n).toFixed(2);
-  const stat = (label, val) => `<div class="ebay-stat"><span>${label}</span><strong>${money(val)}</strong></div>`;
-
+  const cur = data.currency;
+  const stat = (label, val) =>
+    `<div class="ebay-stat"><span>${label}</span><strong>${money(val, cur)}</strong></div>`;
   const listings = (data.items || [])
     .slice(0, 3)
     .map(
       (it) =>
         `<a class="ebay-listing" href="${it.url}" target="_blank" rel="noopener">
            <span class="ebay-listing-title">${escapeHtml(it.title)}</span>
-           <span class="ebay-listing-price">${money(it.price)}</span>
+           <span class="ebay-listing-price">${money(it.price, cur)}</span>
          </a>`
     )
     .join("");
 
-  ebayResult.innerHTML =
+  priceResult.innerHTML =
     `<div class="ebay-stats">${stat("Lowest", data.low)}${stat("Median", data.median)}${stat("Highest", data.high)}</div>` +
     `<div class="ebay-count">${data.count} active listing${data.count === 1 ? "" : "s"}</div>` +
     `<div class="ebay-listings">${listings}</div>`;
 }
 
 ebayGrade.addEventListener("change", () => {
-  if (modalCard) loadEbayPrices(modalCard, ebayGrade.value);
+  if (modalCard && modalCard.game === "weiss") loadEbay(modalCard, ebayGrade.value);
 });
 
 function syncModalFav() {

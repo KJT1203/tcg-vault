@@ -1,71 +1,71 @@
-# eBay price proxy (Cloudflare Worker)
+# Price proxy (Cloudflare Worker)
 
-This small Worker lets TCG Vault show **live eBay prices** without exposing any
-secrets. The browser can't call eBay directly (eBay blocks CORS, and the OAuth
-flow needs a client secret that must never ship in front-end code), so the app
-calls this Worker instead, and the Worker calls eBay.
+This Worker lets TCG Vault show **live prices** without exposing any API keys.
+The browser can't call these price APIs directly (CORS is blocked and the keys
+must stay server-side), so the app calls this Worker and the Worker calls the
+APIs. It serves two endpoints, each enabled only if you set its secret:
 
-## ⚠️ What you get (and don't)
+| Endpoint | Source | Data | Secret(s) |
+| --- | --- | --- | --- |
+| `/graded` | [PokemonPriceTracker](https://www.pokemonpricetracker.com) | PSA/BGS/CGC **sold** averages (Pokémon) | `PPT_API_KEY` |
+| `/search` | eBay Browse API | lowest/median/highest **asking** prices (active listings) | `EBAY_CLIENT_ID`, `EBAY_CLIENT_SECRET` |
 
-- ✅ **Asking prices** from **active listings** (eBay's Browse API), summarised
-  as lowest / median / highest, plus a few example listings.
-- ❌ **Not** completed-sale ("sold") prices. Those live in eBay's **Marketplace
-  Insights API**, which is a *Limited Release* eBay must approve for your app.
-  If you get that access, swap the `EBAY_BROWSE` search call in `ebay-proxy.js`
-  for the Marketplace Insights `item_sales/search` endpoint — the rest is the same.
-- Graded prices work by putting the grade (e.g. `PSA 10`) into the search query,
-  so they're only as accurate as the matching listings.
+The app uses `/graded` for Pokémon cards and `/search` for Weiss Schwarz.
+Set up whichever you want — you don't need both.
 
-## Setup
+## Recommended: graded Pokémon prices (PokemonPriceTracker)
 
-### 1. Get eBay API credentials (you must do this yourself)
-
-1. Create a developer account at <https://developer.ebay.com> and accept the terms.
-2. Create a **Production** keyset under *Application Keys*.
-3. Note your **App ID (Client ID)** and **Cert ID (Client Secret)**.
-
-> Creating the account and accepting eBay's terms is something only you can do.
+### 1. Get an API key (you do this)
+1. Sign up at <https://www.pokemonpricetracker.com> and open your account / API page.
+2. Copy your API key. The free tier is ~100 credits/day (a graded lookup costs
+   2 credits), which is plenty for personal browsing — and the app caches each
+   card so reopening it doesn't spend more.
 
 ### 2. Deploy the Worker
-
 ```bash
-npm install -g wrangler        # Cloudflare's CLI
+npm install -g wrangler
 cd worker
-wrangler login                 # opens your Cloudflare account
-wrangler secret put EBAY_CLIENT_ID       # paste your App ID
-wrangler secret put EBAY_CLIENT_SECRET   # paste your Cert ID
+wrangler login
+wrangler secret put PPT_API_KEY     # paste your PokemonPriceTracker key
 wrangler deploy
 ```
-
-Wrangler prints a URL like `https://tcg-vault-ebay-proxy.<you>.workers.dev`.
-
-Optional: edit `wrangler.toml` and set `ALLOWED_ORIGIN` to your site's origin so
-only your app can use the proxy.
+Wrangler prints a URL like `https://tcg-vault-price-proxy.<you>.workers.dev`.
 
 ### 3. Point the app at it
-
-Open `../config.js` and set:
-
+In [`../config.js`](../config.js):
 ```js
 window.TCG_VAULT_CONFIG = {
-  ebayProxyUrl: "https://tcg-vault-ebay-proxy.<you>.workers.dev",
+  proxyUrl: "https://tcg-vault-price-proxy.<you>.workers.dev",
 };
 ```
+Reload, open a Pokémon card → a **Graded prices** panel shows Ungraded + PSA/BGS/CGC values.
 
-Reload the site. Open any card — an **eBay listings** panel appears with a grade
-selector. Until `ebayProxyUrl` is set, the panel stays hidden and the app remains
-a pure static site.
-
-## Test the Worker directly
-
+Test directly:
 ```bash
-curl "https://tcg-vault-ebay-proxy.<you>.workers.dev/search?q=Charizard%20ex%20151%20PSA%2010&category=183454"
+curl "https://tcg-vault-price-proxy.<you>.workers.dev/graded?q=Charizard%20ex&set=151"
 ```
 
-## Notes
+## Optional: eBay asking prices (Weiss Schwarz)
 
+Weiss Schwarz cards aren't graded by PSA/BGS/CGC and no service tracks them, so
+for those we fall back to eBay active-listing **asking** prices.
+
+1. Create a developer account at <https://developer.ebay.com>, accept the terms,
+   and make a **Production** keyset → note your **App ID** and **Cert ID**.
+   *(Creating the account / accepting terms is something only you can do.)*
+2. Add the secrets and redeploy:
+   ```bash
+   wrangler secret put EBAY_CLIENT_ID       # App ID
+   wrangler secret put EBAY_CLIENT_SECRET   # Cert ID
+   wrangler deploy
+   ```
+
+> ⚠️ eBay's Browse API returns **asking** prices, not completed sales. eBay's
+> sold-price data (Marketplace Insights API) is a Limited Release that eBay must
+> approve; if you get it, swap the search call in `price-proxy.js`.
+
+## Notes
+- Optionally set `ALLOWED_ORIGIN` in `wrangler.toml` to your site's origin so the
+  proxy only answers your app.
 - The Worker caches the eBay OAuth token in-memory and sends a 15-minute
-  `Cache-Control` header to stay well within eBay's rate limits (5,000
-  Browse calls/day on the default production tier).
-- `category=183454` is eBay's *CCG Individual Cards* category; the app sends it
-  for Pokémon to cut noise and omits it for Weiss Schwarz.
+  `Cache-Control` header to stay within rate limits.
