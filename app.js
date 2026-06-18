@@ -77,7 +77,7 @@ const GAMES = {
     id: "weiss",
     name: "Weiss Schwarz",
     // Signatures load first so their category leads the list.
-    dataUrls: ["data/weiss-signatures.json", "data/weiss.json"],
+    dataUrls: ["data/weiss-signatures.json", "data/weiss-umamusume.json", "data/weiss.json"],
     typeLabel: "Color",
     live: false,
     toCard(r) {

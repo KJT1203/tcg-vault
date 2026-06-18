@@ -98,6 +98,7 @@ every card with no setup at all.
 - **Pokémon** — the [Pokémon TCG API](https://pokemontcg.io) (`api.pokemontcg.io`)
 - **Weiss Schwarz** — [Encore Decks](https://www.encoredecks.com)
 - **Weiss Schwarz signature cards** — the community [WeissSchwarz-ENG-DB](https://github.com/CCondeluci/WeissSchwarz-ENG-DB), which links the official `en.ws-tcg.com` card images (Encore Decks, a deck builder, doesn't carry signed parallels)
+- **Umamusume: Pretty Derby (UMA/W106)** — the full Japanese set from the community [WeissSchwarz-JP-DB](https://github.com/CCondeluci/WeissSchwarz-JP-DB) (Japanese names and card text, official `ws-tcg.com` images)
 
 Card images and names are © their respective owners (The Pokémon Company, Bushiroad, and the original IP holders). This is a non-commercial fan project built for learning.
 

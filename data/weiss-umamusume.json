@@ -1,0 +1,4168 @@
+[
+ {
+  "id": "UMA/W106-001",
+  "name": "千紫万紅にまぎれぬ一凛 グラスワンダー",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Character",
+  "color": "Yellow",
+  "level": 0,
+  "cost": 0,
+  "power": 1000,
+  "soul": 1,
+  "rarity": "RR",
+  "traits": [
+   "ウマ娘"
+  ],
+  "trigger": [],
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から2枚まで見て、山札の上に好きな順番で置く。 【自】［(1) あなたの山札の上から1枚をクロック置場に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見てレベル1以下のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_001.png"
+ },
+ {
+  "id": "UMA/W106-002",
+  "name": "Dear Mr. C.B. ミスターシービー",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Character",
+  "color": "Yellow",
+  "level": 3,
+  "cost": 2,
+  "power": 8000,
+  "soul": 2,
+  "rarity": "RR",
+  "traits": [
+   "ウマ娘"
+  ],
+  "trigger": [
+   "SOUL"
+  ],
+  "text": "【永】 あなたの手札のこのカードのレベルを－1。 【永】 他のあなたの《ウマ娘》のキャラが2枚以上なら、このカードのパワーを＋3000。 【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。 【自】［あなたのキャラを2枚【レスト】する］ あなたのレベルが2以下なら、このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしないなら、このカードを控え室に置く。",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_002.png"
+ },
+ {
+  "id": "UMA/W106-003",
+  "name": "あぶそりゅーと☆LOVE スマートファルコン",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Character",
+  "color": "Yellow",
+  "level": 0,
+  "cost": 0,
+  "power": 1500,
+  "soul": 1,
+  "rarity": "R",
+  "traits": [
+   "ウマ娘"
+  ],
+  "trigger": [],
+  "text": "【自】 このカードが手札から舞台に置かれた時、他のあなたの《ウマ娘》のキャラが2枚以上なら、あなたは1枚引いてよい。そうしたら、あなたは自分の手札を1枚選び、控え室に置く。 【自】［(1) 手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《ウマ娘》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_003.png"
+ },
+ {
+  "id": "UMA/W106-004",
+  "name": "unsigned エアシャカール",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Character",
+  "color": "Yellow",
+  "level": 0,
+  "cost": 0,
+  "power": 1500,
+  "soul": 1,
+  "rarity": "R",
+  "traits": [
+   "ウマ娘"
+  ],
+  "trigger": [],
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から1枚見て、山札の上か控え室に置く。 【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の控え室のキャラを1枚まで選び、手札に戻す。",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_004.png"
+ },
+ {
+  "id": "UMA/W106-005",
+  "name": "岩穿つ青 グラスワンダー",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Character",
+  "color": "Yellow",
+  "level": 0,
+  "cost": 0,
+  "power": 2000,
+  "soul": 1,
+  "rarity": "R",
+  "traits": [
+   "ウマ娘"
+  ],
+  "trigger": [],
+  "text": "【自】［(1) 手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《ウマ娘》のキャラを1枚選び、手札に戻し、他の自分の《ウマ娘》のキャラを1枚選び、そのターン中、パワーを＋1000。 【自】 継承 他のあなたのキャラが手札から舞台に置かれた時、そのキャラの下にマーカーがないなら、あなたはこのカードの下のマーカー1枚までとこのカードを選び、その舞台に置かれたキャラの下にマーカーとして好きな順番で表向きに置いてよい。そうしたら、残りのマーカーを控え室に置く。",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_005.png"
+ },
+ {
+  "id": "UMA/W106-006",
+  "name": "四白流星の襲 ヤエノムテキ",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Character",
+  "color": "Yellow",
+  "level": 0,
+  "cost": 0,
+  "power": 2000,
+  "soul": 1,
+  "rarity": "R",
+  "traits": [
+   "ウマ娘"
+  ],
+  "trigger": [],
+  "text": "【永】 あなたのターン中、このカードのパワーを＋1000。 【自】 バトル中のこのカードが【リバース】した時、あなたは自分の山札の上から3枚までを、公開してよい。1枚以上公開したなら、あなたはそれらのカードの《ウマ娘》のキャラを1枚まで選び、手札に加え、残りのカードを控え室に置き、自分の手札を1枚選び、控え室に置く。",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_006.png"
+ },
+ {
+  "id": "UMA/W106-007",
+  "name": "キング・オブ・エメラルド キングヘイロー",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Character",
+  "color": "Yellow",
+  "level": 1,
+  "cost": 0,
+  "power": 1000,
+  "soul": 1,
+  "rarity": "R",
+  "traits": [
+   "ウマ娘"
+  ],
+  "trigger": [],
+  "text": "【自】 このカードが手札から舞台に置かれた時、他のあなたの《ウマ娘》のキャラがいるなら、そのターン中、このカードのパワーを＋6000。 【自】［このカードの下のマーカーを1枚控え室に置く］ バトル中のこのカードが【リバース】した時、他のあなたの《ウマ娘》のキャラが2枚以上なら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から3枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_007.png"
+ },
+ {
+  "id": "UMA/W106-008",
+  "name": "あおぐもサミング セイウンスカイ",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Character",
+  "color": "Yellow",
+  "level": 1,
+  "cost": 0,
+  "power": 2500,
+  "soul": 1,
+  "rarity": "R",
+  "traits": [
+   "ウマ娘"
+  ],
+  "trigger": [
+   "SOUL"
+  ],
+  "text": "【永】 あなたのキャラすべてが《ウマ娘》なら、このカードは次の2つの能力を得る。『【永】 あなたのターン中、このカードのパワーを＋4000。』『【自】［(1)］ このカードが手札から舞台に置かれたターン中、アンコールステップの始めに、あなたはコストを払ってよい。そうしたら、あなたは2枚まで引き、自分の手札を2枚選び、控え室に置く。』 【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「Gigue.」があり、他のあなたの《ウマ娘》のキャラが2枚以上なら、あなたは自分の山札を上から3枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_008.png"
+ },
+ {
+  "id": "UMA/W106-009",
+  "name": "陰陽八卦☆開運衣 コパノリッキー",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Character",
+  "color": "Yellow",
+  "level": 1,
+  "cost": 0,
+  "power": 3500,
+  "soul": 1,
+  "rarity": "R",
+  "traits": [
+   "ウマ娘"
+  ],
+  "trigger": [],
+  "text": "【永】 あなたのターン中、他のあなたの《ウマ娘》のキャラがいるなら、このカードのパワーを＋3000。 【自】 このカードが手札から舞台に置かれた時、このカードの下にマーカーがあるなら、あなたは他の自分の《ウマ娘》のキャラを1枚選び、そのターン中、パワーを＋2000し、次の能力を与える。『【自】 このカードのバトル相手が【リバース】した時、あなたは自分の山札を見て《ウマ娘》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。』",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_009.png"
+ },
+ {
+  "id": "UMA/W106-010",
+  "name": "ボーノ☆アラモーダ ヒシアケボノ",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Character",
+  "color": "Yellow",
+  "level": 1,
+  "cost": 0,
+  "power": 5000,
+  "soul": 1,
+  "rarity": "R",
+  "traits": [
+   "ウマ娘"
+  ],
+  "trigger": [],
+  "text": "【自】 このカードが手札から舞台に置かれた時、すべてのプレイヤーは次の行動を行う。『あなたの思い出が5枚以上なら、あなたは自分の思い出置場のカードを4枚選び、それらのカード以外の自分の思い出置場のカードすべてを、控え室に置く。』 【自】 このカードがアタックした時、あなたは他の自分の《ウマ娘》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘは他のあなたの《ウマ娘》のキャラの枚数×500に等しい。",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_010.png"
+ },
+ {
+  "id": "UMA/W106-011",
+  "name": "スペシャルドリーマー スペシャルウィーク",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Character",
+  "color": "Yellow",
+  "level": 3,
+  "cost": 2,
+  "power": 9000,
+  "soul": 2,
+  "rarity": "R",
+  "traits": [
+   "ウマ娘"
+  ],
+  "trigger": [
+   "SOUL"
+  ],
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚までを、控え室に置き、そのターン中、このカードのパワーを＋3000。 【自】【CXコンボ】［(2)］ このカードがアタックした時、クライマックス置場に「みんなにとっての“日本一”」があり、このカードの下にマーカーがあり、他のあなたの《ウマ娘》のキャラがいるなら、あなたはコストを払ってよい。そうしたら、あなたは相手の山札を上から3枚見て、キャラかイベントを1枚までとクライマックスを1枚まで選び、クロック置場に好きな順番で置き、残りのカードを控え室に置く。",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_011.png"
+ },
+ {
+  "id": "UMA/W106-012",
+  "name": "フォーミュラオブルージュ マルゼンスキー",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Character",
+  "color": "Yellow",
+  "level": 3,
+  "cost": 2,
+  "power": 9500,
+  "soul": 2,
+  "rarity": "R",
+  "traits": [
+   "ウマ娘"
+  ],
+  "trigger": [
+   "SOUL"
+  ],
+  "text": "【自】 このカードがアタックした時、あなたは他の自分の《ウマ娘》のキャラを1枚選び、そのターン中、パワーを＋2000。 【自】 この能力は1ターンにつき1回まで発動する。このカードが手札から舞台に置かれたターン中、このカードの与えたダメージがキャンセルされた時、あなたは自分の山札の上から1枚を、控え室に置き、相手にＸダメージを与える。Ｘはそのカードのレベル＋1に等しい。（クライマックスのレベルは0として扱う。ダメージキャンセルは発生する）",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_012.png"
+ },
+ {
+  "id": "UMA/W106-013",
+  "name": "うららん一等賞♪ ハルウララ",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Character",
+  "color": "Yellow",
+  "level": 0,
+  "cost": 0,
+  "power": 2000,
+  "soul": 1,
+  "rarity": "U",
+  "traits": [
+   "ウマ娘"
+  ],
+  "trigger": [],
+  "text": "【自】［(1) 手札のクライマックスを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のクライマックスを1枚選び、手札に戻す。 【自】【CXコンボ】 あなたのクライマックス置場に「いつだって一緒だよ！」が置かれた時、他のあなたの《ウマ娘》のキャラが2枚以上なら、あなたは自分の山札の上から3枚を、控え室に置き、自分の控え室のレベルＸ以下の《ウマ娘》のキャラを1枚まで選び、手札に戻す。Ｘはこの効果で控え室に置かれた《ウマ娘》のキャラの枚数に等しい。",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_013.png"
+ },
+ {
+  "id": "UMA/W106-014",
+  "name": "Clear Bliss ミスターシービー",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Character",
+  "color": "Yellow",
+  "level": 1,
+  "cost": 0,
+  "power": 3000,
+  "soul": 1,
+  "rarity": "U",
+  "traits": [
+   "ウマ娘"
+  ],
+  "trigger": [],
+  "text": "【永】 あなたのターン中、このカードのパワーを＋4000。 【自】 このカードのバトル中、あなたの受けたダメージがキャンセルされた時、あなたはこのカードを手札に戻してよい。",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_014.png"
+ },
+ {
+  "id": "UMA/W106-015",
+  "name": "ティアード・ペタル ニシノフラワー",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Character",
+  "color": "Yellow",
+  "level": 1,
+  "cost": 0,
+  "power": 4000,
+  "soul": 1,
+  "rarity": "U",
+  "traits": [
+   "ウマ娘"
+  ],
+  "trigger": [],
+  "text": "【自】 このカードがアタックした時、他のあなたの《ウマ娘》のキャラが2枚以上なら、そのターン中、このカードのパワーを＋2000。 【自】［(1)］ 相手のターン中、バトル中のこのカードが【リバース】した時、あなたはコストを払ってよい。そうしたら、このカードを【レスト】し、次のあなたのアンコールステップの始めに、このカードを控え室に置く。",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_015.png"
+ },
+ {
+  "id": "UMA/W106-016",
+  "name": "シューティンスタァ・ルヴュ フジキセキ",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Character",
+  "color": "Yellow",
+  "level": 2,
+  "cost": 1,
+  "power": 1000,
+  "soul": 1,
+  "rarity": "U",
+  "traits": [
+   "ウマ娘"
+  ],
+  "trigger": [
+   "SOUL"
+  ],
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から3枚を、控え室に置く。それらのカードにクライマックスがあるなら、あなたは相手の前列のレベル3以下のキャラを1枚選び、控え室に置いてよい。 【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが相手のレベルより高いなら、あなたはそのキャラをストック置場に置いてよい。そうしたら、あなたは相手のストックの下から1枚を、控え室に置く。",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_016.png"
+ },
+ {
+  "id": "UMA/W106-017",
+  "name": "Meisterschaft エイシンフラッシュ",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Character",
+  "color": "Yellow",
+  "level": 2,
+  "cost": 1,
+  "power": 2500,
+  "soul": 1,
+  "rarity": "U",
+  "traits": [
+   "ウマ娘"
+  ],
+  "trigger": [
+   "SOUL"
+  ],
+  "text": "【自】 あなたがこのカードの『助太刀』を使った時、あなたは自分のバトル中のキャラを1枚選び、そのターン中、次の能力を与える。『【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラを思い出にする。』 【起】【カウンター】 助太刀3000 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋3000）",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_017.png"
+ },
+ {
+  "id": "UMA/W106-018",
+  "name": "Rocket☆Star シーキングザパール",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Character",
+  "color": "Yellow",
+  "level": 2,
+  "cost": 1,
+  "power": 4000,
+  "soul": 1,
+  "rarity": "U",
+  "traits": [
+   "ウマ娘"
+  ],
+  "trigger": [
+   "SOUL"
+  ],
+  "text": "【永】 あなたのキャラすべてが《ウマ娘》なら、このカードのパワーを＋7000し、ソウルを＋1。 【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「登場、暴走、団長」があり、他のあなたの《ウマ娘》のキャラが2枚以上なら、あなたは自分の山札を上から4枚まで見て、《ウマ娘》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置き、そのターン中、このカードは次の能力を得る。『【自】 このカードの与えたダメージがキャンセルされた時、次の相手のターンの終わりまで、このカードのパワーを＋4000。』",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_018.png"
+ },
+ {
+  "id": "UMA/W106-019",
+  "name": "プリンセス・オブ・ピンク カワカミプリンセス",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Character",
+  "color": "Yellow",
+  "level": 2,
+  "cost": 1,
+  "power": 5000,
+  "soul": 1,
+  "rarity": "U",
+  "traits": [
+   "ウマ娘"
+  ],
+  "trigger": [
+   "SOUL"
+  ],
+  "text": "【永】 このカードの下にマーカーがあり、他のあなたの《ウマ娘》のキャラが2枚以上なら、このカードのパワーを＋3000。 【永】 他のあなたの《ウマ娘》のキャラが2枚以上なら、このカードのパワーを＋6000。",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_019.png"
+ },
+ {
+  "id": "UMA/W106-020",
+  "name": "エル☆Número 1 エルコンドルパサー",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Character",
+  "color": "Yellow",
+  "level": 3,
+  "cost": 2,
+  "power": 10000,
+  "soul": 2,
+  "rarity": "U",
+  "traits": [
+   "ウマ娘"
+  ],
+  "trigger": [
+   "SOUL"
+  ],
+  "text": "【自】 あなたのメインフェイズ中、このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋2000し、あなたは自分の山札の上から1枚を公開する。そのカードが《ウマ娘》のキャラなら舞台の好きな枠に置く。（そうでないなら元に戻す） 【自】［手札を1枚控え室に置く］ このカードがアタックした時、このカードの下にマーカーがあり、他のあなたの《ウマ娘》のキャラがいるなら、あなたはコストを払ってよい。そうしたら、あなたは相手の山札の下から4枚を、控え室に置き、相手にＸダメージを与える。Ｘはそれらのカードのクライマックスの枚数に等しい。（ダメージキャンセルは発生する）",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_020.png"
+ },
+ {
+  "id": "UMA/W106-021",
+  "name": "華麗なジェントル娘 フジキセキ",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Character",
+  "color": "Yellow",
+  "level": 0,
+  "cost": 0,
+  "power": 1000,
+  "soul": 1,
+  "rarity": "C",
+  "traits": [
+   "ウマ娘"
+  ],
+  "trigger": [],
+  "text": "【自】 このカードがアタックした時、あなたは他の自分の《ウマ娘》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘは他のあなたの《ウマ娘》のキャラの枚数×500に等しい。 【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたはそのキャラをストック置場に置いてよい。そうしたら、あなたは相手のストックの下から1枚を、控え室に置く。",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_021.png"
+ },
+ {
+  "id": "UMA/W106-022",
+  "name": "豪快おてんばウマ娘 カワカミプリンセス",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Character",
+  "color": "Yellow",
+  "level": 0,
+  "cost": 0,
+  "power": 1000,
+  "soul": 1,
+  "rarity": "C",
+  "traits": [
+   "ウマ娘"
+  ],
+  "trigger": [],
+  "text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。 【自】［このカードを控え室に置く］ 他のあなたの《ウマ娘》のキャラが舞台から控え室に置かれた時、後列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、そのキャラをそのキャラがいた枠に【レスト】して置く。",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_022.png"
+ },
+ {
+  "id": "UMA/W106-023",
+  "name": "不可能をパールにするお姉さん シーキングザパール",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Character",
+  "color": "Yellow",
+  "level": 0,
+  "cost": 0,
+  "power": 1000,
+  "soul": 1,
+  "rarity": "C",
+  "traits": [
+   "ウマ娘"
+  ],
+  "trigger": [],
+  "text": "【自】［あなたの控え室のキャラを2枚山札に戻し、その山札をシャッフルする］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは他の自分のキャラを1枚選び、そのターン中、パワーを＋1500。 【自】 このカードがアタックした時、あなたは相手の前列のキャラを1枚選び、そのターン中、パワーを－1000。",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_023.png"
+ },
+ {
+  "id": "UMA/W106-024",
+  "name": "スーパーカーお姉さん マルゼンスキー",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Character",
+  "color": "Yellow",
+  "level": 0,
+  "cost": 0,
+  "power": 1500,
+  "soul": 1,
+  "rarity": "C",
+  "traits": [
+   "ウマ娘"
+  ],
+  "trigger": [],
+  "text": "【自】 相手のアタックフェイズの始めに、あなたのキャラすべてが《ウマ娘》なら、あなたは自分の山札の上から1枚を、控え室に置いてよい。そのカードがレベル2以下のキャラなら、そのターン中、このカードは次の能力を得る。『【自】 このカードがフロントアタックされた時、あなたはこのカードを手札に戻してよい。』 【自】 継承 他のあなたのキャラが手札から舞台に置かれた時、そのキャラの下にマーカーがないなら、あなたはこのカードの下のマーカー1枚までとこのカードを選び、その舞台に置かれたキャラの下にマーカーとして好きな順番で表向きに置いてよい。そうしたら、残りのマーカーを控え室に置く。",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_024.png"
+ },
+ {
+  "id": "UMA/W106-025",
+  "name": "謹厳実直なメッチェン エイシンフラッシュ",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Character",
+  "color": "Yellow",
+  "level": 0,
+  "cost": 0,
+  "power": 1500,
+  "soul": 1,
+  "rarity": "C",
+  "traits": [
+   "ウマ娘"
+  ],
+  "trigger": [],
+  "text": "【自】 このカードがアタックした時、他のあなたの《ウマ娘》のキャラが2枚以上なら、そのターン中、このカードのパワーを＋2000。 【自】 このカードのバトル相手が【リバース】した時、あなたは1枚引いてよい。そうしたら、あなたは自分の手札を1枚選び、控え室に置く。",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_025.png"
+ },
+ {
+  "id": "UMA/W106-026",
+  "name": "気配り上手なウマ娘 ニシノフラワー",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Character",
+  "color": "Yellow",
+  "level": 0,
+  "cost": 0,
+  "power": 1500,
+  "soul": 1,
+  "rarity": "C",
+  "traits": [
+   "ウマ娘"
+  ],
+  "trigger": [],
+  "text": "【永】 あなたのターン中、他のあなたの《ウマ娘》のキャラがいるなら、このカードのパワーを＋3000。 【自】［このカードを控え室に置く］ 他のあなたの《ウマ娘》のキャラがフロントアタックされた時、あなたはコストを払ってよい。そうしたら、あなたは自分のバトル中のキャラを1枚選び、そのターン中、パワーを＋1000。",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_026.png"
+ },
+ {
+  "id": "UMA/W106-027",
+  "name": "漂う雲のように… セイウンスカイ",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Character",
+  "color": "Yellow",
+  "level": 0,
+  "cost": 0,
+  "power": 2000,
+  "soul": 1,
+  "rarity": "C",
+  "traits": [
+   "ウマ娘"
+  ],
+  "trigger": [],
+  "text": "【自】［手札を1枚控え室に置く］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、そのアタック中、あなたはトリガーステップにトリガーチェックを2回行う。 【自】 このカードのトリガーチェックでトリガーアイコンにがあるカードがでた時、あなたは他の自分の《ウマ娘》のキャラを1枚選び、そのターン中、ソウルを＋1。",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_027.png"
+ },
+ {
+  "id": "UMA/W106-028",
+  "name": "高飛車お嬢様 キングヘイロー",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Character",
+  "color": "Yellow",
+  "level": 0,
+  "cost": 0,
+  "power": 2000,
+  "soul": 1,
+  "rarity": "C",
+  "traits": [
+   "ウマ娘"
+  ],
+  "trigger": [],
+  "text": "【永】 他のあなたのキャラがいないなら、このカードのレベルを＋2し、パワーを＋3000。",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_028.png"
+ },
+ {
+  "id": "UMA/W106-029",
+  "name": "常識外れの天才ガール エアシャカール",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Character",
+  "color": "Yellow",
+  "level": 1,
+  "cost": 0,
+  "power": 1500,
+  "soul": 1,
+  "rarity": "C",
+  "traits": [
+   "ウマ娘"
+  ],
+  "trigger": [],
+  "text": "【起】【カウンター】 助太刀1000 レベル1 ［手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1000） 【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から5枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の山札を見て《ウマ娘》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_029.png"
+ },
+ {
+  "id": "UMA/W106-030",
+  "name": "北米の怪鳥！ エルコンドルパサー",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Character",
+  "color": "Yellow",
+  "level": 1,
+  "cost": 0,
+  "power": 2000,
+  "soul": 1,
+  "rarity": "C",
+  "traits": [
+   "ウマ娘"
+  ],
+  "trigger": [
+   "SOUL"
+  ],
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《ウマ娘》のキャラなら、そのターン中、このカードのソウルを＋1。（公開したカードは元に戻す） 【自】 このカードが【リバース】した時、このカードのバトル相手のコストが0以下なら、あなたはそのキャラをストック置場に置いてよい。そうしたら、あなたは相手のストックの下から1枚を、控え室に置く。",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_030.png"
+ },
+ {
+  "id": "UMA/W106-031",
+  "name": "熱きヒーロー、見参！ ビコーペガサス",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Character",
+  "color": "Yellow",
+  "level": 1,
+  "cost": 0,
+  "power": 3500,
+  "soul": 1,
+  "rarity": "C",
+  "traits": [
+   "ウマ娘"
+  ],
+  "trigger": [],
+  "text": "【永】 他のあなたの《ウマ娘》のキャラ1枚につき、このカードのパワーを＋500。 【自】 このカードがアタックした時、このカードの正面のキャラのレベルが2なら、そのターン中、このカードのパワーを＋6000。",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_031.png"
+ },
+ {
+  "id": "UMA/W106-032",
+  "name": "夢は三冠！！常に全力！！ ツルマルツヨシ",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Character",
+  "color": "Yellow",
+  "level": 1,
+  "cost": 0,
+  "power": 3500,
+  "soul": 1,
+  "rarity": "C",
+  "traits": [
+   "ウマ娘"
+  ],
+  "trigger": [],
+  "text": "【永】 あなたのターン中、他のあなたの《ウマ娘》のキャラすべてに、パワーを＋1000。 【自】 継承 他のあなたのキャラが手札から舞台に置かれた時、そのキャラの下にマーカーがないなら、あなたはこのカードの下のマーカー1枚までとこのカードを選び、その舞台に置かれたキャラの下にマーカーとして好きな順番で表向きに置いてよい。そうしたら、残りのマーカーを控え室に置く。 【起】［このカードを【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋500。",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_032.png"
+ },
+ {
+  "id": "UMA/W106-033",
+  "name": "ボーノをどうぞ♪ ヒシアケボノ",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Character",
+  "color": "Yellow",
+  "level": 2,
+  "cost": 1,
+  "power": 5500,
+  "soul": 1,
+  "rarity": "C",
+  "traits": [
+   "ウマ娘"
+  ],
+  "trigger": [
+   "SOUL"
+  ],
+  "text": "【自】 他のあなたの《ウマ娘》のキャラがアタックした時、そのターン中、このカードのパワーを＋3000。 【自】［(1)］ アンコールステップの始めに、他のあなたの前列の【レスト】しているキャラがいないなら、あなたはコストを払ってよい。そうしたら、このカードを【レスト】する。",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_033.png"
+ },
+ {
+  "id": "UMA/W106-034",
+  "name": "未来のトップウマドル スマートファルコン",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Character",
+  "color": "Yellow",
+  "level": 2,
+  "cost": 1,
+  "power": 7000,
+  "soul": 1,
+  "rarity": "C",
+  "traits": [
+   "ウマ娘"
+  ],
+  "trigger": [
+   "SOUL"
+  ],
+  "text": "【自】 このカードがアタックした時、そのターン中、このカードのパワーを＋Ｘ。Ｘは他のあなたの《ウマ娘》のキャラの枚数×1000に等しい。 【自】 このカードのバトル中、あなたの受けたダメージがキャンセルされた時、あなたはこのカードを手札に戻してよい。",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_034.png"
+ },
+ {
+  "id": "UMA/W106-035",
+  "name": "学園理事長 秋川やよい",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Event",
+  "color": "Yellow",
+  "level": 2,
+  "cost": 0,
+  "power": 0,
+  "soul": 0,
+  "rarity": "C",
+  "traits": [],
+  "trigger": [],
+  "text": "あなたの思い出が2枚以下なら、このカードを思い出にする。 【起】 記憶 ［思い出置場のこのカードを控え室に置く］ あなたは自分の控え室のキャラを1枚選び、手札に戻す。 【起】 記憶 ［他のあなたの思い出置場の「学園理事長 秋川やよい」を1枚とこのカードを控え室に置く］ 相手に2ダメージを与える。（ダメージキャンセルは発生する） 【起】 記憶 ［他のあなたの思い出置場の「学園理事長 秋川やよい」を2枚とこのカードを控え室に置く］ 相手に3ダメージを与え、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋3000。（ダメージキャンセルは発生する）",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_035.png"
+ },
+ {
+  "id": "UMA/W106-036",
+  "name": "みんなにとっての\"日本一\"",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Climax",
+  "color": "Yellow",
+  "level": 0,
+  "cost": 0,
+  "power": 0,
+  "soul": 0,
+  "rarity": "CC",
+  "traits": [],
+  "trigger": [
+   "CHOICE"
+  ],
+  "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。 （：このカードがトリガーした時、あなたは自分の控え室のトリガーアイコンにがあるキャラを1枚選び、手札に戻すかストック置場に置いてよい）",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_036.png"
+ },
+ {
+  "id": "UMA/W106-036S",
+  "name": "みんなにとっての\"日本一\"",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Climax",
+  "color": "Yellow",
+  "level": 0,
+  "cost": 0,
+  "power": 0,
+  "soul": 0,
+  "rarity": "PR",
+  "traits": [],
+  "trigger": [
+   "CHOICE"
+  ],
+  "text": "",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_036s.png"
+ },
+ {
+  "id": "UMA/W106-037",
+  "name": "Gigue.",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Climax",
+  "color": "Yellow",
+  "level": 0,
+  "cost": 0,
+  "power": 0,
+  "soul": 0,
+  "rarity": "CC",
+  "traits": [],
+  "trigger": [
+   "CHOICE"
+  ],
+  "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。 （：このカードがトリガーした時、あなたは自分の控え室のトリガーアイコンにがあるキャラを1枚選び、手札に戻すかストック置場に置いてよい）",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_037.png"
+ },
+ {
+  "id": "UMA/W106-037S",
+  "name": "Gigue.",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Climax",
+  "color": "Yellow",
+  "level": 0,
+  "cost": 0,
+  "power": 0,
+  "soul": 0,
+  "rarity": "PR",
+  "traits": [],
+  "trigger": [
+   "CHOICE"
+  ],
+  "text": "",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_037s.png"
+ },
+ {
+  "id": "UMA/W106-038",
+  "name": "登場、暴走、団長",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Climax",
+  "color": "Yellow",
+  "level": 0,
+  "cost": 0,
+  "power": 0,
+  "soul": 0,
+  "rarity": "CC",
+  "traits": [],
+  "trigger": [
+   "SOUL",
+   "RETURN"
+  ],
+  "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。 （：このカードがトリガーした時、あなたは相手のキャラを1枚選び、手札に戻してよい）",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_038.png"
+ },
+ {
+  "id": "UMA/W106-038S",
+  "name": "登場、暴走、団長",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Climax",
+  "color": "Yellow",
+  "level": 0,
+  "cost": 0,
+  "power": 0,
+  "soul": 0,
+  "rarity": "PR",
+  "traits": [],
+  "trigger": [
+   "SOUL",
+   "RETURN"
+  ],
+  "text": "",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_038s.png"
+ },
+ {
+  "id": "UMA/W106-039",
+  "name": "いつだって一緒だよ！",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Climax",
+  "color": "Yellow",
+  "level": 0,
+  "cost": 0,
+  "power": 0,
+  "soul": 0,
+  "rarity": "CC",
+  "traits": [],
+  "trigger": [
+   "SOUL",
+   "SOUL"
+  ],
+  "text": "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは自分の控え室のレベル1以下のキャラを1枚まで選び、ストック置場に置き、自分のキャラすべてに、そのターン中、ソウルを＋1。",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_039.png"
+ },
+ {
+  "id": "UMA/W106-039S",
+  "name": "いつだって一緒だよ！",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Climax",
+  "color": "Yellow",
+  "level": 0,
+  "cost": 0,
+  "power": 0,
+  "soul": 0,
+  "rarity": "PR",
+  "traits": [],
+  "trigger": [
+   "SOUL",
+   "SOUL"
+  ],
+  "text": "",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_039s.png"
+ },
+ {
+  "id": "UMA/W106-040",
+  "name": "独奏・螺旋追走曲 マンハッタンカフェ",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Character",
+  "color": "Green",
+  "level": 0,
+  "cost": 0,
+  "power": 1500,
+  "soul": 1,
+  "rarity": "RR",
+  "traits": [
+   "ウマ娘"
+  ],
+  "trigger": [],
+  "text": "【永】 他のあなたの《ウマ娘》のキャラが2枚以上なら、このカードのパワーを＋1000。 【自】［あなたのストックの上から1枚をクロック置場に置く］ このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て自分のレベル以下でコスト0以下の《ウマ娘》のキャラを1枚まで選び、舞台の好きな枠に【レスト】して置き、その山札をシャッフルする。",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_040.png"
+ },
+ {
+  "id": "UMA/W106-041",
+  "name": "桃色のバックショット ナリタトップロード",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Character",
+  "color": "Green",
+  "level": 0,
+  "cost": 0,
+  "power": 1500,
+  "soul": 1,
+  "rarity": "RR",
+  "traits": [
+   "ウマ娘"
+  ],
+  "trigger": [],
+  "text": "【永】 あなたのキャラすべてが《ウマ娘》なら、このカードのパワーを＋1000。 【永】 相手のターン中、他のあなたの《ウマ娘》のキャラがいるなら、このカードのパワーを＋1500。 【自】 相手のアタックフェイズの始めに、あなたはこのカードを、前列のキャラのいない枠で、正面に相手のキャラがいる枠に動かしてよい。",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_041.png"
+ },
+ {
+  "id": "UMA/W106-042",
+  "name": "Noble Seamair ファインモーション",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Character",
+  "color": "Green",
+  "level": 0,
+  "cost": 0,
+  "power": 500,
+  "soul": 1,
+  "rarity": "R",
+  "traits": [
+   "ウマ娘"
+  ],
+  "trigger": [],
+  "text": "【自】［手札を1枚控え室に置く］ あなたのクライマックスがクライマックス置場に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札の上から2枚を公開し、相手はそれらのカードのキャラかイベントを1枚選び、あなたの手札に加え、残りのカードを控え室に置く。 【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、次の行動を行う。『あなたは自分の山札を上から3枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。』",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_042.png"
+ },
+ {
+  "id": "UMA/W106-043",
+  "name": "サイレントイノセンス サイレンススズカ",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Character",
+  "color": "Green",
+  "level": 1,
+  "cost": 0,
+  "power": 4000,
+  "soul": 1,
+  "rarity": "R",
+  "traits": [
+   "ウマ娘"
+  ],
+  "trigger": [],
+  "text": "【永】 あなたのターン中、このカードのパワーを＋2000。 【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「夢を目指す二人三脚」があり、他のあなたの《ウマ娘》のキャラが4枚以上なら、あなたは自分の控え室の《ウマ娘》のキャラを1枚選び、手札に戻し、他のあなたの前列の【レスト】しているキャラがいないなら、次の相手のターンの終わりまで、このカードは次の能力を得る。『【自】 このカードがフロントアタックされた時、あなたは自分の山札の上から1枚を、控え室に置く。そのカードがレベル2以下のキャラなら、あなたはこのカードを手札に戻してよい。』",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_043.png"
+ },
+ {
+  "id": "UMA/W106-044",
+  "name": "tach-nology アグネスタキオン",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Character",
+  "color": "Green",
+  "level": 1,
+  "cost": 0,
+  "power": 4000,
+  "soul": 1,
+  "rarity": "R",
+  "traits": [
+   "ウマ娘"
+  ],
+  "trigger": [],
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から2枚まで見て、山札の上に元の順番で置く。その後、その山札をシャッフルしてよい。 【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1500。",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_044.png"
+ },
+ {
+  "id": "UMA/W106-045",
+  "name": "一等星を目指して アドマイヤベガ",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Character",
+  "color": "Green",
+  "level": 1,
+  "cost": 0,
+  "power": 4500,
+  "soul": 1,
+  "rarity": "R",
+  "traits": [
+   "ウマ娘"
+  ],
+  "trigger": [],
+  "text": "【永】 あなたのターン中、このカードの下にマーカーがあり、他のあなたの《ウマ娘》のキャラがいるなら、このカードのパワーを＋5000。 【自】［(1)］ アンコールステップの始めに、他のあなたの前列の【レスト】しているキャラがいないなら、あなたはコストを払ってよい。そうしたら、このカードを【レスト】する。",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_045.png"
+ },
+ {
+  "id": "UMA/W106-046",
+  "name": "スター・ライト・シップ ホッコータルマエ",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Character",
+  "color": "Green",
+  "level": 1,
+  "cost": 0,
+  "power": 5000,
+  "soul": 1,
+  "rarity": "R",
+  "traits": [
+   "ウマ娘"
+  ],
+  "trigger": [],
+  "text": "【自】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場にクライマックスがあるなら、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_046.png"
+ },
+ {
+  "id": "UMA/W106-047",
+  "name": "偉大なるフォトグラフィーア テイエムオペラオー",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Character",
+  "color": "Green",
+  "level": 3,
+  "cost": 2,
+  "power": 8500,
+  "soul": 2,
+  "rarity": "R",
+  "traits": [
+   "ウマ娘"
+  ],
+  "trigger": [
+   "SOUL"
+  ],
+  "text": "【永】 あなたの《ウマ娘》のキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。 【永】 このカードの下にマーカーがあり、他のあなたの《ウマ娘》のキャラがいるなら、このカードのパワーを＋2500。 【永】 大活躍 （相手がアタックする時、【リバース】していないこのカードが前列の中央の枠にいるなら、かわりに相手はこのカードにフロントアタックする） 【自】［(1) 手札を1枚控え室に置く］ このカードのバトル相手が【リバース】した時、あなたはコストを払ってよい。そうしたら、相手に1ダメージを与える。（ダメージキャンセルは発生する）",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_047.png"
+ },
+ {
+  "id": "UMA/W106-048",
+  "name": "うるさい監視役 ウオッカ",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Character",
+  "color": "Green",
+  "level": 3,
+  "cost": 2,
+  "power": 9500,
+  "soul": 2,
+  "rarity": "R",
+  "traits": [
+   "ウマ娘"
+  ],
+  "trigger": [
+   "SOUL"
+  ],
+  "text": "【永】 このカードのバトル中、相手は『助太刀』を手札からプレイできない。 【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。 【自】 チェンジ ［このカードを手札に戻す］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の手札の「努力は裏切らない！ ダイワスカーレット」を1枚まで選び、このカードがいた枠に置く。（クライマックスフェイズの始めにこのカードがいないなら発動しない）",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_048.png"
+ },
+ {
+  "id": "UMA/W106-049",
+  "name": "努力は裏切らない！ ダイワスカーレット",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Character",
+  "color": "Green",
+  "level": 3,
+  "cost": 2,
+  "power": 9500,
+  "soul": 2,
+  "rarity": "R",
+  "traits": [
+   "ウマ娘"
+  ],
+  "trigger": [
+   "SOUL"
+  ],
+  "text": "【永】 このカードのバトル中、相手はイベントを手札からプレイできない。 【自】 このカードが手札から舞台に置かれた時、他のあなたの《ウマ娘》のキャラがいるなら、あなたは相手に1ダメージを与えてよい。（ダメージキャンセルは発生する） 【自】 チェンジ ［このカードを手札に戻す］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の手札の「うるさい監視役 ウオッカ」を1枚まで選び、このカードがいた枠に置く。（クライマックスフェイズの始めにこのカードがいないなら発動しない）",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_049.png"
+ },
+ {
+  "id": "UMA/W106-050",
+  "name": "フィーユ・エクレール カレンチャン",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Character",
+  "color": "Green",
+  "level": 3,
+  "cost": 2,
+  "power": 10000,
+  "soul": 2,
+  "rarity": "R",
+  "traits": [
+   "ウマ娘"
+  ],
+  "trigger": [
+   "SOUL"
+  ],
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上からＸ枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。Ｘはあなたの《ウマ娘》のキャラの枚数に等しい。 【自】【CXコンボ】［手札を1枚控え室に置く］ このカードがアタックした時、クライマックス置場に「紅葉の賀は賑わいて」があり、このカードの下にマーカーがあるなら、あなたはコストを払ってよい。そうしたら、相手に1ダメージを与え、あなたは相手の山札を上から2枚まで見て、カードを2枚まで選び、山札の上に好きな順番で置き、残りのカードを控え室に置く。（ダメージキャンセルは発生する）",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_050.png"
+ },
+ {
+  "id": "UMA/W106-051",
+  "name": "エンプレスロード エアグルーヴ",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Character",
+  "color": "Green",
+  "level": 0,
+  "cost": 0,
+  "power": 1000,
+  "soul": 1,
+  "rarity": "U",
+  "traits": [
+   "ウマ娘"
+  ],
+  "trigger": [],
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の《ウマ娘》のキャラを1枚選び、そのターン中、パワーを＋1500。 【自】 このカードがアタックした時、あなたは自分の《ウマ娘》のキャラを1枚選び、そのターン中、パワーを＋1500。",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_051.png"
+ },
+ {
+  "id": "UMA/W106-052",
+  "name": "ワイルド・フロンティア タイキシャトル",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Character",
+  "color": "Green",
+  "level": 0,
+  "cost": 0,
+  "power": 1500,
+  "soul": 1,
+  "rarity": "U",
+  "traits": [
+   "ウマ娘"
+  ],
+  "trigger": [],
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から2枚を、控え室に置く。それらのカードにクライマックスがあるなら、あなたは自分の山札を上から4枚まで見て、《ウマ娘》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_052.png"
+ },
+ {
+  "id": "UMA/W106-053",
+  "name": "オー・ソレ・スーオ！ テイエムオペラオー",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Character",
+  "color": "Green",
+  "level": 0,
+  "cost": 0,
+  "power": 1500,
+  "soul": 1,
+  "rarity": "U",
+  "traits": [
+   "ウマ娘"
+  ],
+  "trigger": [],
+  "text": "【永】 他のあなたの《ウマ娘》のキャラすべてに、パワーを＋500。 【起】［このカードを【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、レベルを＋1し、パワーを＋1000。このカードは次のあなたのスタンドフェイズに【スタンド】しない。",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_053.png"
+ },
+ {
+  "id": "UMA/W106-054",
+  "name": "運気上昇☆幸福万来 マチカネフクキタル",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Character",
+  "color": "Green",
+  "level": 0,
+  "cost": 0,
+  "power": 1500,
+  "soul": 1,
+  "rarity": "U",
+  "traits": [
+   "ウマ娘"
+  ],
+  "trigger": [],
+  "text": "【自】 あなたのクライマックスがクライマックス置場に置かれた時、あなたは自分のキャラを1枚選び、そのターン中、次の能力を与える。『【自】 このカードがアタックした時、あなたは自分の山札を上から2枚まで見て、カードを1枚選び、山札の上に置き、残りのカードを控え室に置く。』 【自】 他のあなたの《ウマ娘》のキャラがアタックした時、そのターン中、このカードのパワーを＋1500。",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_054.png"
+ },
+ {
+  "id": "UMA/W106-055",
+  "name": "Starry Nocturne アドマイヤベガ",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Character",
+  "color": "Green",
+  "level": 0,
+  "cost": 0,
+  "power": 2000,
+  "soul": 1,
+  "rarity": "U",
+  "traits": [
+   "ウマ娘"
+  ],
+  "trigger": [],
+  "text": "【永】 他のあなたの《ウマ娘》のキャラが2枚以上なら、このカードのパワーを＋1000。 【自】［(1) 手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《ウマ娘》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_055.png"
+ },
+ {
+  "id": "UMA/W106-056",
+  "name": "Creeping Black マンハッタンカフェ",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Character",
+  "color": "Green",
+  "level": 0,
+  "cost": 0,
+  "power": 3500,
+  "soul": 1,
+  "rarity": "U",
+  "traits": [
+   "ウマ娘"
+  ],
+  "trigger": [],
+  "text": "【永】 相手のキャラすべてに、『【自】 アンコール ［(2)］』を与える。 【起】［あなたの《ウマ娘》のキャラを1枚【レスト】する］ そのターン中、このカードのパワーを＋1000。",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_056.png"
+ },
+ {
+  "id": "UMA/W106-057",
+  "name": "トップ・オブ・ブルー ダイワスカーレット",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Character",
+  "color": "Green",
+  "level": 1,
+  "cost": 0,
+  "power": 2500,
+  "soul": 1,
+  "rarity": "U",
+  "traits": [
+   "ウマ娘"
+  ],
+  "trigger": [],
+  "text": "【永】 あなたのターン中、他のあなたの《ウマ娘》のキャラがいるなら、このカードのパワーを＋3000。 【自】 このカードが手札から舞台に置かれた時か舞台から控え室に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《ウマ娘》のキャラなら手札に加え、あなたは自分の手札を1枚選び、控え室に置く。（そうでないなら元に戻す）",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_057.png"
+ },
+ {
+  "id": "UMA/W106-058",
+  "name": "黒鉄の大志 バンブーメモリー",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Character",
+  "color": "Green",
+  "level": 1,
+  "cost": 0,
+  "power": 2500,
+  "soul": 1,
+  "rarity": "U",
+  "traits": [
+   "ウマ娘"
+  ],
+  "trigger": [],
+  "text": "【永】 他のあなたの《ウマ娘》のキャラすべてに、パワーを＋500。 【自】 あなたのクライマックスフェイズの始めに、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_058.png"
+ },
+ {
+  "id": "UMA/W106-059",
+  "name": "ワイルドトップギア ウオッカ",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Character",
+  "color": "Green",
+  "level": 1,
+  "cost": 0,
+  "power": 4000,
+  "soul": 1,
+  "rarity": "U",
+  "traits": [
+   "ウマ娘"
+  ],
+  "trigger": [],
+  "text": "【自】 このカードが手札から舞台に置かれた時、他のあなたの《ウマ娘》のキャラがいるなら、そのターン中、このカードのパワーを＋2000。 【自】［(1) 手札を2枚控え室に置く］ このカードが手札から舞台に置かれたターン中、このカードがアタックした時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《ウマ娘》のキャラを2枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_059.png"
+ },
+ {
+  "id": "UMA/W106-060",
+  "name": "ブルー/レイジング メイショウドトウ",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Character",
+  "color": "Green",
+  "level": 1,
+  "cost": 0,
+  "power": 4000,
+  "soul": 1,
+  "rarity": "U",
+  "traits": [
+   "ウマ娘"
+  ],
+  "trigger": [],
+  "text": "【永】 他のあなたの後列の《ウマ娘》のキャラ1枚につき、このカードのパワーを＋1000。 【自】 このカードがアタックした時、他のあなたの《ウマ娘》のキャラが2枚以上なら、あなたは自分の山札を上から2枚まで見て、カードを1枚選び、山札の上に置き、残りのカードを控え室に置く。",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_060.png"
+ },
+ {
+  "id": "UMA/W106-061",
+  "name": "超特急！フルカラー特殊PP アグネスデジタル",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Character",
+  "color": "Green",
+  "level": 2,
+  "cost": 1,
+  "power": 500,
+  "soul": 1,
+  "rarity": "U",
+  "traits": [
+   "ウマ娘"
+  ],
+  "trigger": [
+   "SOUL"
+  ],
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたは2枚引いてよい。そうしたら、あなたは自分の手札を2枚選び、控え室に置く。 【自】 このカードがアタックした時、あなたは他の自分の《ウマ娘》のキャラを2枚まで選び、次の相手のターンの終わりまで、パワーを＋1500し、『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を与える。",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_061.png"
+ },
+ {
+  "id": "UMA/W106-062",
+  "name": "オーセンティック/1928 ゴールドシチー",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Character",
+  "color": "Green",
+  "level": 2,
+  "cost": 1,
+  "power": 2500,
+  "soul": 1,
+  "rarity": "U",
+  "traits": [
+   "ウマ娘"
+  ],
+  "trigger": [
+   "SOUL"
+  ],
+  "text": "【永】 他のあなたの《ウマ娘》のキャラが2枚以上なら、このカードのパワーを＋8000。 【自】 このカードが手札から舞台に置かれた時、次の相手のターンの終わりまで、このカードは次の2つの能力を得る。『【永】 相手のターン中、このカードのパワーを＋2000。』『【永】 大活躍』",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_062.png"
+ },
+ {
+  "id": "UMA/W106-063",
+  "name": "めんこいめんこいむつのはな ユキノビジン",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Character",
+  "color": "Green",
+  "level": 2,
+  "cost": 1,
+  "power": 6000,
+  "soul": 1,
+  "rarity": "U",
+  "traits": [
+   "ウマ娘"
+  ],
+  "trigger": [
+   "SOUL"
+  ],
+  "text": "【永】 他のあなたの《ウマ娘》のキャラすべてに、パワーを＋1000。 【自】［このカードの下のマーカーを1枚控え室に置き、このカードを【レスト】する］ 他のあなたのキャラが舞台から控え室に置かれた時、後列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、そのキャラをそのキャラがいた枠に【レスト】して置く。",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_063.png"
+ },
+ {
+  "id": "UMA/W106-064",
+  "name": "たくさん愛してね♪ カレンチャン",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Character",
+  "color": "Green",
+  "level": 0,
+  "cost": 0,
+  "power": 500,
+  "soul": 1,
+  "rarity": "C",
+  "traits": [
+   "ウマ娘"
+  ],
+  "trigger": [],
+  "text": "【自】 このカードがダイレクトアタックした時、次の2つの効果のうちあなたが選んだ1つを行う。『あなたは1枚引いてよい。そうしたら、あなたは自分の手札を1枚選び、控え室に置く。』『あなたは他の自分の《ウマ娘》のキャラを1枚選び、そのターン中、ソウルを＋1。』 【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたは相手のクロックの上から1枚を、控え室に置いてよい。そうしたら、あなたはそのキャラをクロック置場に置く。",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_064.png"
+ },
+ {
+  "id": "UMA/W106-065",
+  "name": "スーパー万能オタク娘 アグネスデジタル",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Character",
+  "color": "Green",
+  "level": 0,
+  "cost": 0,
+  "power": 1500,
+  "soul": 1,
+  "rarity": "C",
+  "traits": [
+   "ウマ娘"
+  ],
+  "trigger": [],
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の手札を1枚選び、ストック置場に置いてよい。 【自】 他のあなたの《ウマ娘》のキャラがアタックした時、そのターン中、このカードのパワーを＋1500。",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_065.png"
+ },
+ {
+  "id": "UMA/W106-066",
+  "name": "目指せシチーガール！ ユキノビジン",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Character",
+  "color": "Green",
+  "level": 0,
+  "cost": 0,
+  "power": 1500,
+  "soul": 1,
+  "rarity": "C",
+  "traits": [
+   "ウマ娘"
+  ],
+  "trigger": [],
+  "text": "【自】 このカードが手札から舞台に置かれた時、次の行動を2回行う。『あなたは自分の山札を上から1枚見て、山札の上か控え室に置く。』 【自】 継承 他のあなたのキャラが手札から舞台に置かれた時、そのキャラの下にマーカーがないなら、あなたはこのカードの下のマーカー1枚までとこのカードを選び、その舞台に置かれたキャラの下にマーカーとして好きな順番で表向きに置いてよい。そうしたら、残りのマーカーを控え室に置く。",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_066.png"
+ },
+ {
+  "id": "UMA/W106-067",
+  "name": "ハイクオリティ・ギャル ゴールドシチー",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Character",
+  "color": "Green",
+  "level": 0,
+  "cost": 0,
+  "power": 2000,
+  "soul": 1,
+  "rarity": "C",
+  "traits": [
+   "ウマ娘"
+  ],
+  "trigger": [],
+  "text": "【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1500。 【自】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場にクライマックスがあるなら、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_067.png"
+ },
+ {
+  "id": "UMA/W106-068",
+  "name": "熱血・風紀委員長！ バンブーメモリー",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Character",
+  "color": "Green",
+  "level": 1,
+  "cost": 0,
+  "power": 4000,
+  "soul": 1,
+  "rarity": "C",
+  "traits": [
+   "ウマ娘"
+  ],
+  "trigger": [],
+  "text": "【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの《ウマ娘》のキャラの枚数×500に等しい。 【自】 このカードがアタックした時、あなたは自分の《ウマ娘》のキャラを1枚選び、そのターン中、パワーを＋1500。",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_068.png"
+ },
+ {
+  "id": "UMA/W106-069",
+  "name": "フレンドリーガール タイキシャトル",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Character",
+  "color": "Green",
+  "level": 1,
+  "cost": 0,
+  "power": 4500,
+  "soul": 1,
+  "rarity": "C",
+  "traits": [
+   "ウマ娘"
+  ],
+  "trigger": [],
+  "text": "【永】 このカードの下にマーカーがあり、他のあなたの《ウマ娘》のキャラがいるなら、このカードのパワーを＋2000し、このカードは次の能力を得る。『【自】［(1)］ アンコールステップの始めに、他のあなたの前列の【レスト】しているキャラがいないなら、あなたはコストを払ってよい。そうしたら、このカードを【レスト】する。』 【自】 このカードがアタックした時、あなたは他の自分の《ウマ娘》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘはそのキャラのソウル×1000に等しい。",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_069.png"
+ },
+ {
+  "id": "UMA/W106-070",
+  "name": "箱入りロイヤルレディ ファインモーション",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Character",
+  "color": "Green",
+  "level": 2,
+  "cost": 1,
+  "power": 2000,
+  "soul": 1,
+  "rarity": "C",
+  "traits": [
+   "ウマ娘"
+  ],
+  "trigger": [
+   "SOUL"
+  ],
+  "text": "【自】 あなたがこのカードの『助太刀』を使った時、あなたは自分の山札の上から1枚を公開する。そのカードが《ウマ娘》のキャラなら手札に加え、あなたは自分の手札を1枚選び、控え室に置く。（そうでないなら元に戻す） 【起】【カウンター】 助太刀2500 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2500）",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_070.png"
+ },
+ {
+  "id": "UMA/W106-071",
+  "name": "ネガティブな頑張り屋 メイショウドトウ",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Character",
+  "color": "Green",
+  "level": 2,
+  "cost": 1,
+  "power": 3000,
+  "soul": 1,
+  "rarity": "C",
+  "traits": [
+   "ウマ娘"
+  ],
+  "trigger": [
+   "SOUL"
+  ],
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から3枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置き、自分の手札を1枚選び、控え室に置く。 【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが相手のレベルより高いなら、あなたは相手のクロックの上から1枚を、控え室に置いてよい。そうしたら、あなたはそのキャラをクロック置場に置く。",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_071.png"
+ },
+ {
+  "id": "UMA/W106-072",
+  "name": "いたずら大好き！ シンコウウインディ",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Character",
+  "color": "Green",
+  "level": 2,
+  "cost": 1,
+  "power": 5000,
+  "soul": 1,
+  "rarity": "C",
+  "traits": [
+   "ウマ娘"
+  ],
+  "trigger": [
+   "SOUL"
+  ],
+  "text": "【永】 他のあなたのレベル3以上のキャラがいるなら、このカードのパワーを＋4000。 【永】 他のあなたの《ウマ娘》のキャラが2枚以上なら、このカードのパワーを＋3000。",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_072.png"
+ },
+ {
+  "id": "UMA/W106-073",
+  "name": "冷徹なる\"女帝\" エアグルーヴ",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Character",
+  "color": "Green",
+  "level": 2,
+  "cost": 1,
+  "power": 5000,
+  "soul": 1,
+  "rarity": "C",
+  "traits": [
+   "ウマ娘"
+  ],
+  "trigger": [
+   "SOUL"
+  ],
+  "text": "【永】 他のあなたの《ウマ娘》のキャラ1枚につき、このカードのパワーを＋1500。 【自】［このカードの下のマーカーを2枚控え室に置く］ このカードのバトル相手が【リバース】した時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札の上から3枚までを、ストック置場に置く。",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_073.png"
+ },
+ {
+  "id": "UMA/W106-074",
+  "name": "ブスッといっとく？ 安心沢刺々美",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Event",
+  "color": "Green",
+  "level": 2,
+  "cost": 0,
+  "power": 0,
+  "soul": 0,
+  "rarity": "R",
+  "traits": [],
+  "trigger": [],
+  "text": "このカードは、あなたの《ウマ娘》のキャラがいないなら、手札からプレイできない。 次の2つの効果のうちあなたが選んだ1つを行う。 『あなたは自分の《ウマ娘》のキャラを1枚選び、そのターン中、パワーを＋5000し、ソウルを＋2。』 『あなたは自分の山札の上から1枚を公開する。そのカードが《ウマ娘》のキャラなら舞台の好きな枠に置く。』（そうでないなら元に戻す）",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_074.png"
+ },
+ {
+  "id": "UMA/W106-075",
+  "name": "夢を目指す二人三脚",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Climax",
+  "color": "Green",
+  "level": 0,
+  "cost": 0,
+  "power": 0,
+  "soul": 0,
+  "rarity": "CC",
+  "traits": [],
+  "trigger": [
+   "TREASURE"
+  ],
+  "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。 （：このカードがトリガーした時、あなたはこのカードを手札に戻す。あなたは自分の山札の上から1枚を、ストック置場に置いてよい）",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_075.png"
+ },
+ {
+  "id": "UMA/W106-075S",
+  "name": "夢を目指す二人三脚",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Climax",
+  "color": "Green",
+  "level": 0,
+  "cost": 0,
+  "power": 0,
+  "soul": 0,
+  "rarity": "PR",
+  "traits": [],
+  "trigger": [
+   "TREASURE"
+  ],
+  "text": "",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_075s.png"
+ },
+ {
+  "id": "UMA/W106-076",
+  "name": "紅葉の賀は賑わいて",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Climax",
+  "color": "Green",
+  "level": 0,
+  "cost": 0,
+  "power": 0,
+  "soul": 0,
+  "rarity": "CC",
+  "traits": [],
+  "trigger": [
+   "TREASURE"
+  ],
+  "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。 （：このカードがトリガーした時、あなたはこのカードを手札に戻す。あなたは自分の山札の上から1枚を、ストック置場に置いてよい）",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_076.png"
+ },
+ {
+  "id": "UMA/W106-076S",
+  "name": "紅葉の賀は賑わいて",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Climax",
+  "color": "Green",
+  "level": 0,
+  "cost": 0,
+  "power": 0,
+  "soul": 0,
+  "rarity": "PR",
+  "traits": [],
+  "trigger": [
+   "TREASURE"
+  ],
+  "text": "",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_076s.png"
+ },
+ {
+  "id": "UMA/W106-077",
+  "name": "マチタン☆アドベンチャー マチカネタンホイザ",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Character",
+  "color": "Red",
+  "level": 0,
+  "cost": 0,
+  "power": 500,
+  "soul": 1,
+  "rarity": "RR",
+  "traits": [
+   "ウマ娘"
+  ],
+  "trigger": [],
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から2枚を、控え室に置く。それらのカードにクライマックスがあるなら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1500。 【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札の上から1枚を公開し、自分の控え室のレベルＸ以下のキャラを1枚選び、手札に戻す。Ｘは公開されたカードのレベルに等しい。（クライマックスのレベルは0として扱う。公開したカードは元に戻す）",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_077.png"
+ },
+ {
+  "id": "UMA/W106-078",
+  "name": "迫る熱に押されて キタサンブラック",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Character",
+  "color": "Red",
+  "level": 0,
+  "cost": 0,
+  "power": 1000,
+  "soul": 1,
+  "rarity": "RR",
+  "traits": [
+   "ウマ娘"
+  ],
+  "trigger": [],
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の《ウマ娘》のキャラを1枚選び、そのターン中、パワーを＋1500。 【自】［手札を1枚控え室に置く］ このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から4枚まで見て、レベル1以上のカードを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。（クライマックスのレベルは0として扱う）",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_078.png"
+ },
+ {
+  "id": "UMA/W106-079",
+  "name": "願いまでは拭わない ナイスネイチャ",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Character",
+  "color": "Red",
+  "level": 0,
+  "cost": 0,
+  "power": 2000,
+  "soul": 1,
+  "rarity": "RR",
+  "traits": [
+   "ウマ娘"
+  ],
+  "trigger": [],
+  "text": "【自】［(1)］ あなたのクライマックスがクライマックス置場に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から4枚まで見て、《ウマ娘》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。 【自】 相手のアタックフェイズの始めに、あなたは自分の山札の上から1枚を、控え室に置いてよい。そのカードが《ウマ娘》のキャラなら、あなたはこのカードを前列のキャラのいない枠に動かしてよい。",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_079.png"
+ },
+ {
+  "id": "UMA/W106-080",
+  "name": "天嗤う鏑矢 ナリタブライアン",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Character",
+  "color": "Red",
+  "level": 3,
+  "cost": 2,
+  "power": 10000,
+  "soul": 2,
+  "rarity": "RR",
+  "traits": [
+   "ウマ娘"
+  ],
+  "trigger": [
+   "SOUL"
+  ],
+  "text": "【永】 前列にこのカードがいるなら、あなたの《ウマ娘》のキャラすべてに、パワーを＋1500。 【自】【CXコンボ】［(1) 手札を1枚控え室に置く］ このカードがアタックした時、クライマックス置場に「才能の塊」があり、他のあなたの《ウマ娘》のキャラが2枚以上なら、あなたはコストを払ってよい。そうしたら、相手に3ダメージを与える。（ダメージキャンセルは発生する）",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_080.png"
+ },
+ {
+  "id": "UMA/W106-081",
+  "name": "Enchaînement シンボリルドルフ",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Character",
+  "color": "Red",
+  "level": 3,
+  "cost": 2,
+  "power": 10000,
+  "soul": 2,
+  "rarity": "RR",
+  "traits": [
+   "ウマ娘"
+  ],
+  "trigger": [
+   "SOUL"
+  ],
+  "text": "【永】 あなたの控え室のクライマックスが2枚以下なら、あなたの手札のこのカードのレベルを－1。 【自】 このカードが手札から舞台に置かれた時、あなたは2枚まで引き、自分の手札を2枚選び、控え室に置き、自分の山札の上から1枚までを、ストック置場に置く。 【自】［(1) 手札を1枚控え室に置く］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのパワーを＋2000し、このカードは次の能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたは相手に1ダメージを与えてよい。』（ダメージキャンセルは発生する）",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_081.png"
+ },
+ {
+  "id": "UMA/W106-082",
+  "name": "幸せは曲がり角の向こう ライスシャワー",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Character",
+  "color": "Red",
+  "level": 3,
+  "cost": 2,
+  "power": 10000,
+  "soul": 2,
+  "rarity": "RR",
+  "traits": [
+   "ウマ娘"
+  ],
+  "trigger": [
+   "SOUL"
+  ],
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。 【自】【CXコンボ】［(2) 手札を1枚控え室に置く］ このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「ライバルの背中のその先へ」があるなら、相手に1ダメージを与え、このカードの下にマーカーがあり、他のあなたの《ウマ娘》のキャラが2枚以上なら、あなたはコストを払ってよい。そうしたら、相手に3ダメージを与える。（ダメージキャンセルは発生する）",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_082.png"
+ },
+ {
+  "id": "UMA/W106-083",
+  "name": "Flare アストンマーチャン",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Character",
+  "color": "Red",
+  "level": 0,
+  "cost": 0,
+  "power": 2000,
+  "soul": 1,
+  "rarity": "R",
+  "traits": [
+   "ウマ娘"
+  ],
+  "trigger": [],
+  "text": "【永】 前列の中央の枠にこのカードがいるなら、このカードのパワーを＋1000。 【自】［(1) 手札のクライマックスを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のクライマックスを1枚選び、手札に戻す。",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_083.png"
+ },
+ {
+  "id": "UMA/W106-084",
+  "name": "Butterfly Sting ワンダーアキュート",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Character",
+  "color": "Red",
+  "level": 0,
+  "cost": 0,
+  "power": 2500,
+  "soul": 1,
+  "rarity": "R",
+  "traits": [
+   "ウマ娘"
+  ],
+  "trigger": [],
+  "text": "【自】［(1) あなたの山札の上から1枚をクロック置場に置く］ このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から4枚まで見て、レベル1以上のカードを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。（クライマックスのレベルは0として扱う）",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_084.png"
+ },
+ {
+  "id": "UMA/W106-085",
+  "name": "疾風迅雷 タマモクロス",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Character",
+  "color": "Red",
+  "level": 1,
+  "cost": 0,
+  "power": 500,
+  "soul": 1,
+  "rarity": "R",
+  "traits": [
+   "ウマ娘"
+  ],
+  "trigger": [],
+  "text": "【自】 このカードがフロントアタックされた時、あなたは自分の山札を上から1枚見て、山札の上か控え室に置く。 【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く） 【起】［このカードを控え室に置く］ あなたは自分の控え室の「スターライトビート オグリキャップ」を1枚選び、このカードがいた枠に置く。",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_085.png"
+ },
+ {
+  "id": "UMA/W106-086",
+  "name": "スターライトビート オグリキャップ",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Character",
+  "color": "Red",
+  "level": 1,
+  "cost": 0,
+  "power": 3000,
+  "soul": 1,
+  "rarity": "R",
+  "traits": [
+   "ウマ娘"
+  ],
+  "trigger": [],
+  "text": "【永】 あなたのターン中、他のあなたの《ウマ娘》のキャラがいるなら、このカードのパワーを＋3000。 【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「おもいかけ」があり、他のあなたの《ウマ娘》のキャラがいるなら、あなたは自分の山札を上から4枚まで見て、《ウマ娘》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。 【自】 チェンジ ［このカードを控え室に置く］ あなたのアンコールステップの始めに、前列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「疾風迅雷 タマモクロス」を1枚選び、このカードがいた枠に置く。",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_086.png"
+ },
+ {
+  "id": "UMA/W106-087",
+  "name": "Go To Winning! ウイニングチケット",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Character",
+  "color": "Red",
+  "level": 1,
+  "cost": 0,
+  "power": 4000,
+  "soul": 1,
+  "rarity": "R",
+  "traits": [
+   "ウマ娘"
+  ],
+  "trigger": [],
+  "text": "【永】 あなたのターン中、他のあなたの《ウマ娘》のキャラがいるなら、このカードのパワーを＋3000。 【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「『友』と書いて『ライバル』」があるなら、次の行動を2回行う。『あなたは自分の山札の上から1枚を、控え室に置いてよい。そのカードが《ウマ娘》のキャラなら手札に戻す。』",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_087.png"
+ },
+ {
+  "id": "UMA/W106-088",
+  "name": "マーベラス☆大作戦 マーベラスサンデー",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Character",
+  "color": "Red",
+  "level": 1,
+  "cost": 0,
+  "power": 4000,
+  "soul": 1,
+  "rarity": "R",
+  "traits": [
+   "ウマ娘"
+  ],
+  "trigger": [],
+  "text": "【永】 他のあなたの《ウマ娘》のキャラ1枚につき、このカードのパワーを＋500。 【自】［このカードの下のマーカーを1枚控え室に置く］ このカードのバトル相手が【リバース】した時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《ウマ娘》のキャラを1枚選び、手札に戻す。",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_088.png"
+ },
+ {
+  "id": "UMA/W106-089",
+  "name": "ローゼスドリーム ライスシャワー",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Character",
+  "color": "Red",
+  "level": 1,
+  "cost": 1,
+  "power": 4000,
+  "soul": 1,
+  "rarity": "R",
+  "traits": [
+   "ウマ娘"
+  ],
+  "trigger": [
+   "SOUL"
+  ],
+  "text": "【永】 応援 このカードの前のあなたの《ウマ娘》のキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。 【起】［(2) このカードを【レスト】する］ あなたは自分のクロックの上から1枚を、控え室に置く。",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_089.png"
+ },
+ {
+  "id": "UMA/W106-090",
+  "name": "MB-19890425 ミホノブルボン",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Character",
+  "color": "Red",
+  "level": 2,
+  "cost": 1,
+  "power": 7000,
+  "soul": 1,
+  "rarity": "R",
+  "traits": [
+   "ウマ娘"
+  ],
+  "trigger": [
+   "SOUL"
+  ],
+  "text": "【自】 他のあなたの「幸せは曲がり角の向こう ライスシャワー」が手札から舞台に置かれた時、あなたは相手の山札を上から2枚まで見て、山札の上に元の順番で置き、そのターン中、そのキャラのパワーを＋1000し、そのキャラに次の能力を与える。『【永】 このカードのバトル中、相手は『助太刀』を手札からプレイできない。』 【自】 継承 他のあなたのキャラが手札から舞台に置かれた時、そのキャラの下にマーカーがないなら、あなたはこのカードの下のマーカー1枚までとこのカードを選び、その舞台に置かれたキャラの下にマーカーとして好きな順番で表向きに置いてよい。そうしたら、残りのマーカーを控え室に置き、あなたは自分の山札の上から1枚を、ストック置場に置く。",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_090.png"
+ },
+ {
+  "id": "UMA/W106-091",
+  "name": "pf.Victory formula... ビワハヤヒデ",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Character",
+  "color": "Red",
+  "level": 2,
+  "cost": 2,
+  "power": 5000,
+  "soul": 2,
+  "rarity": "R",
+  "traits": [
+   "ウマ娘"
+  ],
+  "trigger": [
+   "SOUL"
+  ],
+  "text": "【永】 他のあなたの後列の《ウマ娘》のキャラ1枚につき、このカードのパワーを＋2000。 【永】 他のあなたの《ウマ娘》のキャラすべてに、パワーを＋500。 【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_091.png"
+ },
+ {
+  "id": "UMA/W106-092",
+  "name": "Step! Smile! Wink! トウカイテイオー",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Character",
+  "color": "Red",
+  "level": 3,
+  "cost": 2,
+  "power": 10000,
+  "soul": 2,
+  "rarity": "R",
+  "traits": [
+   "ウマ娘"
+  ],
+  "trigger": [
+   "SOUL"
+  ],
+  "text": "【自】［(1)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、相手は自分のストックすべてを、控え室に置き、自分の山札の上から同じ枚数をストック置場に置く。 【自】［(1) 手札の「Step! Smile! Wink! トウカイテイオー」を1枚控え室に置く］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、相手に1ダメージを与える。（ダメージキャンセルは発生する）",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_092.png"
+ },
+ {
+  "id": "UMA/W106-093",
+  "name": "稲荷所縁江戸紫 イナリワン",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Character",
+  "color": "Red",
+  "level": 0,
+  "cost": 0,
+  "power": 1000,
+  "soul": 1,
+  "rarity": "U",
+  "traits": [
+   "ウマ娘"
+  ],
+  "trigger": [],
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《ウマ娘》のキャラなら手札に加え、あなたは自分の手札を1枚選び、控え室に置く。（そうでないなら元に戻す） 【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたはそのキャラを【リバース】してよい。",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_093.png"
+ },
+ {
+  "id": "UMA/W106-094",
+  "name": "Maverick ナリタブライアン",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Character",
+  "color": "Red",
+  "level": 0,
+  "cost": 0,
+  "power": 1500,
+  "soul": 1,
+  "rarity": "U",
+  "traits": [
+   "ウマ娘"
+  ],
+  "trigger": [],
+  "text": "【永】 他のあなたの前列の中央の枠の《ウマ娘》のキャラに、パワーを＋500。 【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の控え室のキャラを1枚まで選び、手札に戻す。",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_094.png"
+ },
+ {
+  "id": "UMA/W106-095",
+  "name": "トップ・オブ・ジョイフル トウカイテイオー",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Character",
+  "color": "Red",
+  "level": 0,
+  "cost": 0,
+  "power": 1500,
+  "soul": 1,
+  "rarity": "U",
+  "traits": [
+   "ウマ娘"
+  ],
+  "trigger": [],
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から2枚を、控え室に置き、そのターン中、このカードのパワーを＋Ｘ。Ｘはそれらのカードの《ウマ娘》のキャラの枚数×1000に等しい。 【自】 このカードが手札から舞台に置かれたターン中、あなたのターンの終わりに、あなたは自分の前列の《ウマ娘》のキャラを1枚と自分の後列の《ウマ娘》のキャラを1枚選び、それぞれを【レスト】して入れ替えてよい。",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_095.png"
+ },
+ {
+  "id": "UMA/W106-096",
+  "name": "すくらんぶる☆ゾーン マヤノトップガン",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Character",
+  "color": "Red",
+  "level": 0,
+  "cost": 0,
+  "power": 2000,
+  "soul": 1,
+  "rarity": "U",
+  "traits": [
+   "ウマ娘"
+  ],
+  "trigger": [],
+  "text": "【自】【CXコンボ】 あなたのクライマックス置場に「そしてビューティーなエンディング」が置かれた時、あなたのストックが6枚以下で、他のあなたの《ウマ娘》のキャラがいるなら、あなたは自分の山札を上から3枚まで見て、《ウマ娘》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。 【自】 継承 他のあなたのキャラが手札から舞台に置かれた時、そのキャラの下にマーカーがないなら、あなたはこのカードの下のマーカー1枚までとこのカードを選び、その舞台に置かれたキャラの下にマーカーとして好きな順番で表向きに置いてよい。そうしたら、残りのマーカーを控え室に置く。",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_096.png"
+ },
+ {
+  "id": "UMA/W106-097",
+  "name": "アマゾネス・ラピス ヒシアマゾン",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Character",
+  "color": "Red",
+  "level": 1,
+  "cost": 0,
+  "power": 500,
+  "soul": 1,
+  "rarity": "U",
+  "traits": [
+   "ウマ娘"
+  ],
+  "trigger": [],
+  "text": "【自】 あなたがこのカードの『助太刀』を使った時、あなたは自分の山札の上から3枚を、控え室に置く。 【起】【カウンター】 助太刀1500 レベル1 ［手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1500）",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_097.png"
+ },
+ {
+  "id": "UMA/W106-098",
+  "name": "マーマリングストリーム スーパークリーク",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Character",
+  "color": "Red",
+  "level": 1,
+  "cost": 0,
+  "power": 3500,
+  "soul": 1,
+  "rarity": "U",
+  "traits": [
+   "ウマ娘"
+  ],
+  "trigger": [],
+  "text": "【永】 このカードの下にマーカーがあり、他のあなたの《ウマ娘》のキャラが2枚以上なら、このカードのパワーを＋3000。 【永】 他のあなたの《ウマ娘》のキャラが2枚以上なら、このカードのパワーを＋2000。 【自】 継承 他のあなたのキャラが手札から舞台に置かれた時、そのキャラの下にマーカーがないなら、あなたはこのカードの下のマーカー1枚までとこのカードを選び、その舞台に置かれたキャラの下にマーカーとして好きな順番で表向きに置いてよい。そうしたら、残りのマーカーを控え室に置く。",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_098.png"
+ },
+ {
+  "id": "UMA/W106-099",
+  "name": "錦上・大判御輿 キタサンブラック",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Character",
+  "color": "Red",
+  "level": 1,
+  "cost": 0,
+  "power": 4000,
+  "soul": 1,
+  "rarity": "U",
+  "traits": [
+   "ウマ娘"
+  ],
+  "trigger": [],
+  "text": "【永】 他のあなたの《ウマ娘》のキャラが2枚以上なら、このカードのパワーを＋1000し、このカードは次の能力を得る。『【自】［(1)］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、そのアタック中、あなたはトリガーステップにトリガーチェックを2回行う。』 【自】 このカードのトリガーチェックでトリガーアイコンにがあるカードがでた時、次の相手のターンの終わりまで、このカードのパワーを＋1000。",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_099.png"
+ },
+ {
+  "id": "UMA/W106-100",
+  "name": "Nevertheless ナリタタイシン",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Character",
+  "color": "Red",
+  "level": 1,
+  "cost": 1,
+  "power": 3500,
+  "soul": 1,
+  "rarity": "U",
+  "traits": [
+   "ウマ娘"
+  ],
+  "trigger": [
+   "SOUL"
+  ],
+  "text": "【永】 このカードの正面のキャラのコストが0以下なら、このカードは【リバース】しない。 【自】 このカードが手札から舞台に置かれた時、あなたは他の自分の《ウマ娘》のキャラを1枚選び、そのターン中、パワーを＋2000。",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_100.png"
+ },
+ {
+  "id": "UMA/W106-101",
+  "name": "ロード・オブ・エンペラー シンボリルドルフ",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Character",
+  "color": "Red",
+  "level": 2,
+  "cost": 1,
+  "power": 5500,
+  "soul": 1,
+  "rarity": "U",
+  "traits": [
+   "ウマ娘"
+  ],
+  "trigger": [
+   "SOUL"
+  ],
+  "text": "【永】 応援 このカードの前のあなたのレベル3以上のキャラすべてに、パワーを＋2000。 【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から3枚までを、公開してよい。1枚以上公開したなら、あなたはそれらのカードの《ウマ娘》のキャラを1枚まで選び、手札に加え、残りのカードを控え室に置き、自分の手札を1枚選び、控え室に置く。 【自】 絆／「Step! Smile! Wink! トウカイテイオー」 ［手札を1枚控え室に置く］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「Step! Smile! Wink! トウカイテイオー」を1枚選び、手札に戻す）",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_101.png"
+ },
+ {
+  "id": "UMA/W106-102",
+  "name": "頼れる我らの姐御寮長 ヒシアマゾン",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Character",
+  "color": "Red",
+  "level": 0,
+  "cost": 0,
+  "power": 500,
+  "soul": 1,
+  "rarity": "C",
+  "traits": [
+   "ウマ娘"
+  ],
+  "trigger": [],
+  "text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。 【自】 あなたのクライマックスがクライマックス置場に置かれた時、あなたは自分のキャラを2枚まで選び、そのターン中、パワーを＋1000。",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_102.png"
+ },
+ {
+  "id": "UMA/W106-103",
+  "name": "サイボーグ・ウマ娘 ミホノブルボン",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Character",
+  "color": "Red",
+  "level": 0,
+  "cost": 0,
+  "power": 1000,
+  "soul": 1,
+  "rarity": "C",
+  "traits": [
+   "ウマ娘"
+  ],
+  "trigger": [],
+  "text": "【永】 他のあなたの《ウマ娘》のキャラすべてに、パワーを＋500。 【自】 継承 他のあなたのキャラが手札から舞台に置かれた時、そのキャラの下にマーカーがないなら、あなたはこのカードの下のマーカー1枚までとこのカードを選び、その舞台に置かれたキャラの下にマーカーとして好きな順番で表向きに置いてよい。そうしたら、残りのマーカーを控え室に置く。 【起】［このカードを【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋500。",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_103.png"
+ },
+ {
+  "id": "UMA/W106-104",
+  "name": "どこか儚い不思議ちゃん アストンマーチャン",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Character",
+  "color": "Red",
+  "level": 0,
+  "cost": 0,
+  "power": 2000,
+  "soul": 1,
+  "rarity": "C",
+  "traits": [
+   "ウマ娘"
+  ],
+  "trigger": [],
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたは他の自分の《ウマ娘》のキャラを1枚選び、そのターン中、パワーを＋1000。 【自】［このカードを手札に戻す］ あなたのクライマックスがクライマックス置場に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分のキャラを1枚選び、そのターン中、ソウルを＋1。",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_104.png"
+ },
+ {
+  "id": "UMA/W106-105",
+  "name": "限界知らずの爆走ウマ娘！ ツインターボ",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Character",
+  "color": "Red",
+  "level": 0,
+  "cost": 0,
+  "power": 2000,
+  "soul": 1,
+  "rarity": "C",
+  "traits": [
+   "ウマ娘"
+  ],
+  "trigger": [],
+  "text": "【自】 あなたのクライマックスフェイズの始めに、前列にこのカードがいるなら、あなたは自分のキャラを2枚まで選び、そのターン中、次の能力を与える。『【自】 このカードがアタックした時、そのアタック中、あなたはトリガーステップにトリガーチェックを2回行う。2回行ったら、あなたは自分のストックの上から1枚を、控え室に置く。』",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_105.png"
+ },
+ {
+  "id": "UMA/W106-106",
+  "name": "冷熱併せた敏腕ウマ娘 イクノディクタス",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Character",
+  "color": "Red",
+  "level": 0,
+  "cost": 0,
+  "power": 2500,
+  "soul": 1,
+  "rarity": "C",
+  "traits": [
+   "ウマ娘"
+  ],
+  "trigger": [],
+  "text": "【起】［手札を2枚控え室に置き、このカードを山札の下に置く］ あなたは自分の控え室の自分のレベル以下のレベルの《ウマ娘》のキャラを1枚選び、このカードがいた枠に置く。",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_106.png"
+ },
+ {
+  "id": "UMA/W106-107",
+  "name": "情熱的知性派 ビワハヤヒデ",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Character",
+  "color": "Red",
+  "level": 1,
+  "cost": 1,
+  "power": 4000,
+  "soul": 1,
+  "rarity": "C",
+  "traits": [
+   "ウマ娘"
+  ],
+  "trigger": [
+   "SOUL"
+  ],
+  "text": "【永】 他のあなたの「天嗤う鏑矢 ナリタブライアン」すべてに、パワーを＋500し、『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を与える。 【永】 応援 このカードの前のあなたの《ウマ娘》のキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_107.png"
+ },
+ {
+  "id": "UMA/W106-108",
+  "name": "電光石火の自称・江戸っ子 イナリワン",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Character",
+  "color": "Red",
+  "level": 2,
+  "cost": 1,
+  "power": 6000,
+  "soul": 1,
+  "rarity": "C",
+  "traits": [
+   "ウマ娘"
+  ],
+  "trigger": [
+   "SOUL"
+  ],
+  "text": "【永】 あなたのターン中、他のあなたの《ウマ娘》のキャラ1枚につき、このカードのパワーを＋2000。 【自】［このカードの下のマーカーを1枚控え室に置く］ このカードが手札から舞台に置かれたターン中、このカードのバトル相手が【リバース】した時、あなたはコストを2回まで払う。次の行動をＸ回行う。『あなたは自分の控え室のキャラを1枚選び、手札に戻す。』Ｘはこの能力のコストを払った回数に等しい。",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_108.png"
+ },
+ {
+  "id": "UMA/W106-109",
+  "name": "華麗なる一族のウマ娘 ダイイチルビー",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Character",
+  "color": "Red",
+  "level": 2,
+  "cost": 1,
+  "power": 6500,
+  "soul": 1,
+  "rarity": "C",
+  "traits": [
+   "ウマ娘"
+  ],
+  "trigger": [
+   "SOUL"
+  ],
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたのストックが相手のストックより少ないなら、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。 【自】 このカードがアタックした時、このカードの正面のキャラのレベルが3以上なら、そのターン中、このカードのパワーを＋6000。",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_109.png"
+ },
+ {
+  "id": "UMA/W106-110",
+  "name": "クール＆ドライ！ ナリタタイシン",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Character",
+  "color": "Red",
+  "level": 2,
+  "cost": 2,
+  "power": 7000,
+  "soul": 2,
+  "rarity": "C",
+  "traits": [
+   "ウマ娘"
+  ],
+  "trigger": [
+   "SOUL"
+  ],
+  "text": "【永】 あなたのキャラすべてが《ウマ娘》なら、このカードのパワーを＋2500し、このカードは『【自】 アンコール ［手札の《ウマ娘》のキャラを1枚控え室に置く］』を得る。 【自】【CXコンボ】［あなたのクライマックス置場の「スクラップ・メドレー」を1枚控え室に置く］ あなたのクライマックスフェイズ中、このカードが「スクラップ・メドレー」の効果で舞台に置かれた時、他のあなたの《ウマ娘》のキャラが4枚以上なら、あなたはコストを払ってよい。そうしたら、このカードを【スタンド】し、次の相手のターンの終わりまで、このカードのパワーを＋1500。",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_110.png"
+ },
+ {
+  "id": "UMA/W106-111",
+  "name": "徹底管理主義 樫本理子",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Event",
+  "color": "Red",
+  "level": 3,
+  "cost": 0,
+  "power": 0,
+  "soul": 0,
+  "rarity": "R",
+  "traits": [],
+  "trigger": [],
+  "text": "このカードは、あなたの《ウマ娘》のキャラがいないなら、手札からプレイできない。 次の2つの効果を好きな順番で1回ずつ行う。 『あなたは1枚引いてよい。』 『［手札のクライマックスを1枚控え室に置く］ あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のクライマックスを1枚選び、手札に戻す。』",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_111.png"
+ },
+ {
+  "id": "UMA/W106-112",
+  "name": "ライバルの背中のその先へ",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Climax",
+  "color": "Red",
+  "level": 0,
+  "cost": 0,
+  "power": 0,
+  "soul": 0,
+  "rarity": "CC",
+  "traits": [],
+  "trigger": [
+   "COMEBACK"
+  ],
+  "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。 （：このカードがトリガーした時、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい）",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_112.png"
+ },
+ {
+  "id": "UMA/W106-112S",
+  "name": "ライバルの背中のその先へ",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Climax",
+  "color": "Red",
+  "level": 0,
+  "cost": 0,
+  "power": 0,
+  "soul": 0,
+  "rarity": "PR",
+  "traits": [],
+  "trigger": [
+   "COMEBACK"
+  ],
+  "text": "",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_112s.png"
+ },
+ {
+  "id": "UMA/W106-113",
+  "name": "『友』と書いて『ライバル』",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Climax",
+  "color": "Red",
+  "level": 0,
+  "cost": 0,
+  "power": 0,
+  "soul": 0,
+  "rarity": "CC",
+  "traits": [],
+  "trigger": [
+   "SOUL",
+   "STANDBY"
+  ],
+  "text": "【自】 このカードが手札からクライマックス置場に置かれた時、の効果を行う。 （：このカードがトリガーした時、あなたは自分の控え室の自分のレベル＋1以下のレベルのキャラを1枚選び、舞台の好きな枠に【レスト】して置いてよい）",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_113.png"
+ },
+ {
+  "id": "UMA/W106-113S",
+  "name": "『友』と書いて『ライバル』",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Climax",
+  "color": "Red",
+  "level": 0,
+  "cost": 0,
+  "power": 0,
+  "soul": 0,
+  "rarity": "PR",
+  "traits": [],
+  "trigger": [
+   "SOUL",
+   "STANDBY"
+  ],
+  "text": "",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_113s.png"
+ },
+ {
+  "id": "UMA/W106-114",
+  "name": "才能の塊",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Climax",
+  "color": "Red",
+  "level": 0,
+  "cost": 0,
+  "power": 0,
+  "soul": 0,
+  "rarity": "CC",
+  "traits": [],
+  "trigger": [
+   "SOUL",
+   "STANDBY"
+  ],
+  "text": "【自】 このカードが手札からクライマックス置場に置かれた時、の効果を行う。 （：このカードがトリガーした時、あなたは自分の控え室の自分のレベル＋1以下のレベルのキャラを1枚選び、舞台の好きな枠に【レスト】して置いてよい）",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_114.png"
+ },
+ {
+  "id": "UMA/W106-114S",
+  "name": "才能の塊",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Climax",
+  "color": "Red",
+  "level": 0,
+  "cost": 0,
+  "power": 0,
+  "soul": 0,
+  "rarity": "PR",
+  "traits": [],
+  "trigger": [
+   "SOUL",
+   "STANDBY"
+  ],
+  "text": "",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_114s.png"
+ },
+ {
+  "id": "UMA/W106-115",
+  "name": "そしてビューティーなエンディング",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Climax",
+  "color": "Red",
+  "level": 0,
+  "cost": 0,
+  "power": 0,
+  "soul": 0,
+  "rarity": "CC",
+  "traits": [],
+  "trigger": [
+   "COMEBACK"
+  ],
+  "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。 （：このカードがトリガーした時、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい）",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_115.png"
+ },
+ {
+  "id": "UMA/W106-115S",
+  "name": "そしてビューティーなエンディング",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Climax",
+  "color": "Red",
+  "level": 0,
+  "cost": 0,
+  "power": 0,
+  "soul": 0,
+  "rarity": "PR",
+  "traits": [],
+  "trigger": [
+   "COMEBACK"
+  ],
+  "text": "",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_115s.png"
+ },
+ {
+  "id": "UMA/W106-116",
+  "name": "スクラップ・メドレー",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Climax",
+  "color": "Red",
+  "level": 0,
+  "cost": 0,
+  "power": 0,
+  "soul": 0,
+  "rarity": "CC",
+  "traits": [],
+  "trigger": [
+   "SOUL",
+   "STANDBY"
+  ],
+  "text": "【自】 このカードが手札からクライマックス置場に置かれた時、の効果を行う。 （：このカードがトリガーした時、あなたは自分の控え室の自分のレベル＋1以下のレベルのキャラを1枚選び、舞台の好きな枠に【レスト】して置いてよい）",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_116.png"
+ },
+ {
+  "id": "UMA/W106-116S",
+  "name": "スクラップ・メドレー",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Climax",
+  "color": "Red",
+  "level": 0,
+  "cost": 0,
+  "power": 0,
+  "soul": 0,
+  "rarity": "PR",
+  "traits": [],
+  "trigger": [
+   "SOUL",
+   "STANDBY"
+  ],
+  "text": "",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_116s.png"
+ },
+ {
+  "id": "UMA/W106-117",
+  "name": "おもいかけ",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Climax",
+  "color": "Red",
+  "level": 0,
+  "cost": 0,
+  "power": 0,
+  "soul": 0,
+  "rarity": "CC",
+  "traits": [],
+  "trigger": [
+   "COMEBACK"
+  ],
+  "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。 （：このカードがトリガーした時、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい）",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_117.png"
+ },
+ {
+  "id": "UMA/W106-117S",
+  "name": "おもいかけ",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Climax",
+  "color": "Red",
+  "level": 0,
+  "cost": 0,
+  "power": 0,
+  "soul": 0,
+  "rarity": "PR",
+  "traits": [],
+  "trigger": [
+   "COMEBACK"
+  ],
+  "text": "",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_117s.png"
+ },
+ {
+  "id": "UMA/W106-118",
+  "name": "おどれ・さわげ・フェスれ！ ダイタクヘリオス",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Character",
+  "color": "Blue",
+  "level": 0,
+  "cost": 0,
+  "power": 500,
+  "soul": 1,
+  "rarity": "RR",
+  "traits": [
+   "ウマ娘"
+  ],
+  "trigger": [],
+  "text": "【自】［(1) 手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から3枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。 【自】［あなたの控え室のキャラを2枚山札に戻し、その山札をシャッフルする］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、そのターン中、このカードはサイドアタックしてもソウルが減少しない。",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_118.png"
+ },
+ {
+  "id": "UMA/W106-119",
+  "name": "その背中を越えて サトノダイヤモンド",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Character",
+  "color": "Blue",
+  "level": 0,
+  "cost": 0,
+  "power": 2000,
+  "soul": 1,
+  "rarity": "RR",
+  "traits": [
+   "ウマ娘"
+  ],
+  "trigger": [],
+  "text": "【自】 このカードが手札から舞台に置かれた時、他のあなたの《ウマ娘》のキャラがいるなら、そのターン中、このカードのパワーを＋1500し、このカードは次の能力を得る。『【自】 このカードがアタックした時、あなたは自分の山札を上から1枚見て、山札の上か下に置く。』 【自】 このカードのバトル相手が【リバース】した時、あなたは他の自分の《ウマ娘》のキャラを1枚選び、【レスト】し、後列のキャラのいない枠に動かす。",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_119.png"
+ },
+ {
+  "id": "UMA/W106-120",
+  "name": "『エース』として メジロマックイーン",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Character",
+  "color": "Blue",
+  "level": 1,
+  "cost": 0,
+  "power": 4000,
+  "soul": 1,
+  "rarity": "RR",
+  "traits": [
+   "ウマ娘"
+  ],
+  "trigger": [],
+  "text": "【永】 あなたのターン中、他のあなたの《ウマ娘》のキャラがいるなら、このカードのパワーを＋3000。 【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「おかえり、チームのエース」があり、他のあなたの《ウマ娘》のキャラが2枚以上なら、あなたは自分の山札を上から3枚まで見て、《ウマ娘》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置き、このカードの下にマーカーがあるなら、あなたは自分の控え室のレベル2以上のキャラを1枚選び、手札に戻す。",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_120.png"
+ },
+ {
+  "id": "UMA/W106-121",
+  "name": "不沈艦の進撃 ゴールドシップ",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Character",
+  "color": "Blue",
+  "level": 3,
+  "cost": 2,
+  "power": 9000,
+  "soul": 2,
+  "rarity": "RR",
+  "traits": [
+   "ウマ娘"
+  ],
+  "trigger": [
+   "SOUL"
+  ],
+  "text": "【永】 あなたのターン中、このカードのパワーを＋2000。 【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。 【自】【CXコンボ】 この能力は1ターンにつき1回まで発動する。このカードがアタックした時、クライマックス置場に「第1回ファンタジー記念」があり、このカードの下にマーカーがあるなら、あなたは自分の山札の上から1枚を公開する。そのカードが《ウマ娘》のキャラかイベントなら、このカードを【スタンド】し、そのターン中、このカードのパワーを＋1000。（公開したカードは元に戻す）",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_121.png"
+ },
+ {
+  "id": "UMA/W106-122",
+  "name": "日下開山・花あかり サクラチヨノオー",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Character",
+  "color": "Blue",
+  "level": 0,
+  "cost": 0,
+  "power": 1000,
+  "soul": 1,
+  "rarity": "R",
+  "traits": [
+   "ウマ娘"
+  ],
+  "trigger": [],
+  "text": "【永】 このカードは相手の効果に選ばれない。 【自】 継承 他のあなたのキャラが手札から舞台に置かれた時、そのキャラの下にマーカーがないなら、あなたはこのカードの下のマーカー1枚までとこのカードを選び、その舞台に置かれたキャラの下にマーカーとして好きな順番で表向きに置いてよい。そうしたら、残りのマーカーを控え室に置く。 【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の控え室のキャラを1枚まで選び、手札に戻す。",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_122.png"
+ },
+ {
+  "id": "UMA/W106-123",
+  "name": "ツイステッド・ライン メジロドーベル",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Character",
+  "color": "Blue",
+  "level": 1,
+  "cost": 0,
+  "power": 3000,
+  "soul": 1,
+  "rarity": "R",
+  "traits": [
+   "ウマ娘"
+  ],
+  "trigger": [],
+  "text": "【永】 あなたのターン中、他のあなたの《ウマ娘》のキャラがいるなら、このカードのパワーを＋3000。 【自】 このカードが手札から舞台に置かれたターン中、このカードがアタックした時、このカードの下にマーカーがあるなら、あなたは自分の控え室の《ウマ娘》のキャラを1枚選び、手札に戻す。 【自】 継承 他のあなたのキャラが手札から舞台に置かれた時、そのキャラの下にマーカーがないなら、あなたはこのカードの下のマーカー1枚までとこのカードを選び、その舞台に置かれたキャラの下にマーカーとして好きな順番で表向きに置いてよい。そうしたら、残りのマーカーを控え室に置く。",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_123.png"
+ },
+ {
+  "id": "UMA/W106-124",
+  "name": "Heroic Author ゼンノロブロイ",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Character",
+  "color": "Blue",
+  "level": 2,
+  "cost": 1,
+  "power": 5500,
+  "soul": 1,
+  "rarity": "R",
+  "traits": [
+   "ウマ娘"
+  ],
+  "trigger": [
+   "SOUL"
+  ],
+  "text": "【永】 他のあなたの《ウマ娘》のキャラ1枚につき、このカードのパワーを＋1000。 【自】 このカードが手札から舞台に置かれた時、他のあなたの《ウマ娘》のキャラが4枚以上なら、あなたは自分の控え室の《ウマ娘》のキャラを1枚選び、ストック置場に置いてよい。 【自】【CXコンボ】［あなたのクライマックス置場の「ゆかいな旅路」を1枚控え室に置く］ このカードのバトル相手が【リバース】した時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から4枚まで見て、《ウマ娘》のキャラを4枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_124.png"
+ },
+ {
+  "id": "UMA/W106-125",
+  "name": "Fluttertail Spirit ヤマニンゼファー",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Character",
+  "color": "Blue",
+  "level": 3,
+  "cost": 2,
+  "power": 9000,
+  "soul": 2,
+  "rarity": "R",
+  "traits": [
+   "ウマ娘"
+  ],
+  "trigger": [
+   "SOUL"
+  ],
+  "text": "【永】 あなたの控え室のクライマックスが2枚以下なら、あなたの手札のこのカードのレベルを－1。 【永】 他のあなたの《ウマ娘》のキャラが2枚以上なら、このカードのパワーを＋1500し、このカードは『【自】 アンコール ［手札の《ウマ娘》のキャラを1枚控え室に置く］』を得る。 【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から3枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_125.png"
+ },
+ {
+  "id": "UMA/W106-126",
+  "name": "レッドストライフ ゴールドシップ",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Character",
+  "color": "Blue",
+  "level": 0,
+  "cost": 0,
+  "power": 1500,
+  "soul": 1,
+  "rarity": "U",
+  "traits": [
+   "ウマ娘"
+  ],
+  "trigger": [],
+  "text": "【自】［手札の《ウマ娘》のキャラを1枚控え室に置く］ あなたのキャラのトリガーチェックでトリガーアイコンがのクライマックスがでた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のキャラを1枚選び、手札に戻す。 【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の山札を見て《ウマ娘》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_126.png"
+ },
+ {
+  "id": "UMA/W106-127",
+  "name": "ストレート・ライン メジロライアン",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Character",
+  "color": "Blue",
+  "level": 0,
+  "cost": 0,
+  "power": 2000,
+  "soul": 1,
+  "rarity": "U",
+  "traits": [
+   "ウマ娘"
+  ],
+  "trigger": [],
+  "text": "【自】［手札のトリガーアイコンがのクライマックスを1枚控え室に置く］ このカードが手札から舞台に置かれた時か舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から5枚まで見て、《ウマ娘》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。 【自】 継承 他のあなたのキャラが手札から舞台に置かれた時、そのキャラの下にマーカーがないなら、あなたはこのカードの下のマーカー1枚までとこのカードを選び、その舞台に置かれたキャラの下にマーカーとして好きな順番で表向きに置いてよい。そうしたら、残りのマーカーを控え室に置く。",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_127.png"
+ },
+ {
+  "id": "UMA/W106-128",
+  "name": "サクラ、すすめ！ サクラバクシンオー",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Character",
+  "color": "Blue",
+  "level": 0,
+  "cost": 0,
+  "power": 2000,
+  "soul": 1,
+  "rarity": "U",
+  "traits": [
+   "ウマ娘"
+  ],
+  "trigger": [],
+  "text": "【自】【CXコンボ】 あなたのクライマックス置場に「ラッシュ→バーニング」が置かれた時、他のあなたの《ウマ娘》のキャラが2枚以上で、前列の中央の枠に他のあなたのキャラがいるなら、あなたは次の行動を行ってよい。『あなたは自分の山札を見て《ウマ娘》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルし、自分の前列の中央の枠のキャラを1枚選び、そのターン中、ソウルを－1。』 【自】 継承 他のあなたのキャラが手札から舞台に置かれた時、そのキャラの下にマーカーがないなら、あなたはこのカードの下のマーカー1枚までとこのカードを選び、その舞台に置かれたキャラの下にマーカーとして好きな順番で表向きに置いてよい。そうしたら、残りのマーカーを控え室に置く。",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_128.png"
+ },
+ {
+  "id": "UMA/W106-129",
+  "name": "死中求活 ナカヤマフェスタ",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Character",
+  "color": "Blue",
+  "level": 0,
+  "cost": 0,
+  "power": 2000,
+  "soul": 1,
+  "rarity": "U",
+  "traits": [
+   "ウマ娘"
+  ],
+  "trigger": [],
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《ウマ娘》のキャラなら、そのターン中、このカードのパワーを＋2000。（公開したカードは元に戻す） 【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から2枚を、控え室に置く。それらのカードにクライマックスがあるなら、あなたは相手の前列のキャラを1枚選び、そのターン中、パワーを－1000。",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_129.png"
+ },
+ {
+  "id": "UMA/W106-130",
+  "name": "エレガンス・ライン メジロマックイーン",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Character",
+  "color": "Blue",
+  "level": 1,
+  "cost": 0,
+  "power": 500,
+  "soul": 1,
+  "rarity": "U",
+  "traits": [
+   "ウマ娘"
+  ],
+  "trigger": [],
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から6枚を、控え室に置く。それらのカードに「エレガンス・ライン メジロマックイーン」があるなら、あなたは2枚まで引く。",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_130.png"
+ },
+ {
+  "id": "UMA/W106-131",
+  "name": "ブリュニサージュ・ライン メジロブライト",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Character",
+  "color": "Blue",
+  "level": 1,
+  "cost": 0,
+  "power": 3000,
+  "soul": 1,
+  "rarity": "U",
+  "traits": [
+   "ウマ娘"
+  ],
+  "trigger": [],
+  "text": "【自】［手札を2枚控え室に置く］ このカードが手札から舞台に置かれた時、他のあなたの《ウマ娘》のキャラが2枚以上なら、あなたはコストを払ってよい。そうしたら、あなたは2枚まで引く。 【自】 継承 他のあなたのキャラが手札から舞台に置かれた時、そのキャラの下にマーカーがないなら、あなたはこのカードの下のマーカー1枚までとこのカードを選び、その舞台に置かれたキャラの下にマーカーとして好きな順番で表向きに置いてよい。そうしたら、残りのマーカーを控え室に置く。",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_131.png"
+ },
+ {
+  "id": "UMA/W106-132",
+  "name": "Natural Brilliance サトノダイヤモンド",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Character",
+  "color": "Blue",
+  "level": 1,
+  "cost": 0,
+  "power": 3500,
+  "soul": 1,
+  "rarity": "U",
+  "traits": [
+   "ウマ娘"
+  ],
+  "trigger": [],
+  "text": "【自】 このカードがアタックした時、あなたは自分の山札の上から1枚を公開する。そのカードが《ウマ娘》のキャラかイベントなら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋3000。（公開したカードは元に戻す）",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_132.png"
+ },
+ {
+  "id": "UMA/W106-133",
+  "name": "クリノクロア・ライン メジロアルダン",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Character",
+  "color": "Blue",
+  "level": 1,
+  "cost": 0,
+  "power": 3500,
+  "soul": 1,
+  "rarity": "U",
+  "traits": [
+   "ウマ娘"
+  ],
+  "trigger": [],
+  "text": "【永】 応援 このカードの下にマーカーがあり、他のあなたの《ウマ娘》のキャラが2枚以上なら、このカードの前のあなたのキャラすべてに、パワーを＋500し、次の能力を与える。『【自】［(1)］ アンコールステップの始めに、他のあなたの前列の【レスト】しているキャラがいないなら、あなたはコストを払ってよい。そうしたら、このカードを【レスト】する。』 【起】［このカードを【レスト】する］ あなたは自分の《ウマ娘》のキャラを1枚選び、そのターン中、パワーを＋1500。",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_133.png"
+ },
+ {
+  "id": "UMA/W106-134",
+  "name": "オールタイム・フィーバー アイネスフウジン",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Character",
+  "color": "Blue",
+  "level": 1,
+  "cost": 1,
+  "power": 3500,
+  "soul": 1,
+  "rarity": "U",
+  "traits": [
+   "ウマ娘"
+  ],
+  "trigger": [
+   "SOUL"
+  ],
+  "text": "【永】 応援 このカードの前のあなたの《ウマ娘》のキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。 【自】［手札を1枚控え室に置く］ あなたのキャラのトリガーチェックでトリガーアイコンがのクライマックスがでた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から2枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_134.png"
+ },
+ {
+  "id": "UMA/W106-135",
+  "name": "ポップス☆ジョーカー トーセンジョーダン",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Character",
+  "color": "Blue",
+  "level": 2,
+  "cost": 1,
+  "power": 2500,
+  "soul": 1,
+  "rarity": "U",
+  "traits": [
+   "ウマ娘"
+  ],
+  "trigger": [
+   "SOUL"
+  ],
+  "text": "【自】［(1) 手札の《ウマ娘》のキャラを1枚控え室に置き、あなたの舞台のキャラを1枚控え室に置く］ あなたがこのカードの『助太刀』を使った時、あなたはコストを払ってよい。そうしたら、あなたは相手の、レベルが相手のレベルより高いキャラを1枚選び、山札の下に置く。 【起】【カウンター】 助太刀2500 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2500）",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_135.png"
+ },
+ {
+  "id": "UMA/W106-136",
+  "name": "プラタナス・ウィッチ スイープトウショウ",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Character",
+  "color": "Blue",
+  "level": 2,
+  "cost": 1,
+  "power": 5000,
+  "soul": 1,
+  "rarity": "U",
+  "traits": [
+   "ウマ娘"
+  ],
+  "trigger": [
+   "SOUL"
+  ],
+  "text": "【永】 他のあなたの《ウマ娘》のキャラすべてに、パワーを＋1000。 【自】 継承 他のあなたのキャラが手札から舞台に置かれた時、そのキャラの下にマーカーがないなら、あなたはこのカードの下のマーカー1枚までとこのカードを選び、その舞台に置かれたキャラの下にマーカーとして好きな順番で表向きに置いてよい。そうしたら、残りのマーカーを控え室に置き、あなたは自分の山札の上から1枚を、ストック置場に置く。 【起】［このカードを【レスト】する］ あなたは自分の山札を上から2枚まで見て、山札の上に好きな順番で置く。",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_136.png"
+ },
+ {
+  "id": "UMA/W106-137",
+  "name": "Fun☆Fun☆ぱりない ダイタクヘリオス",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Character",
+  "color": "Blue",
+  "level": 2,
+  "cost": 2,
+  "power": 7000,
+  "soul": 2,
+  "rarity": "U",
+  "traits": [
+   "ウマ娘"
+  ],
+  "trigger": [
+   "SOUL"
+  ],
+  "text": "【永】 相手のターン中、他のあなたの《ウマ娘》のキャラ1枚につき、このカードのパワーを＋1000。 【自】 このカードが手札から舞台に置かれた時、他のあなたの《ウマ娘》のキャラが4枚以上なら、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。 【自】 このカードがダイレクトアタックした時、あなたは自分の控え室の《ウマ娘》のキャラを1枚選び、ストック置場に置いてよい。",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_137.png"
+ },
+ {
+  "id": "UMA/W106-138",
+  "name": "Line Breakthrough メジロパーマー",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Character",
+  "color": "Blue",
+  "level": 3,
+  "cost": 2,
+  "power": 10000,
+  "soul": 2,
+  "rarity": "U",
+  "traits": [
+   "ウマ娘"
+  ],
+  "trigger": [
+   "SOUL"
+  ],
+  "text": "【自】 このカードが手札から舞台に置かれた時、他のあなたの《ウマ娘》のキャラがいるなら、次の2つの効果のうちあなたが選んだ1つを行う。『あなたは自分のクロックの上から1枚を、控え室に置いてよい。』『［(1)］ あなたはコストを払ってよい。そうしたら、あなたは1枚まで引き、自分の手札の「Fun☆Fun☆ぱりない ダイタクヘリオス」を1枚まで選び、舞台の好きな枠に置く。』 【自】【CXコンボ】［手札を1枚控え室に置く］ あなたのクライマックス置場に「彼女のワガママ」が置かれた時、他のあなたの《ウマ娘》のキャラが4枚以上なら、あなたはコストを払ってよい。そうしたら、あなたは相手のキャラを1枚選び、山札の上に置く。",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_138.png"
+ },
+ {
+  "id": "UMA/W106-139",
+  "name": "頼れるポジティブギャル メジロパーマー",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Character",
+  "color": "Blue",
+  "level": 0,
+  "cost": 0,
+  "power": 500,
+  "soul": 1,
+  "rarity": "C",
+  "traits": [
+   "ウマ娘"
+  ],
+  "trigger": [],
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から2枚を、控え室に置く。それらのカードにクライマックスがあるなら、次の相手のターンの終わりまで、このカードのパワーを＋3000。 【自】 あなたのクライマックスフェイズの始めに、あなたは自分の《ウマ娘》のキャラを1枚選び、そのターン中、パワーを＋1500。",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_139.png"
+ },
+ {
+  "id": "UMA/W106-140",
+  "name": "優しく穏やかなウマ娘 ケイエスミラクル",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Character",
+  "color": "Blue",
+  "level": 0,
+  "cost": 0,
+  "power": 1000,
+  "soul": 1,
+  "rarity": "C",
+  "traits": [
+   "ウマ娘"
+  ],
+  "trigger": [],
+  "text": "【永】 あなたのターン中、他のあなたの《ウマ娘》のキャラすべてに、パワーを＋500。 【起】［(1) あなたのキャラを2枚【レスト】する］ あなたは自分の山札の上から1枚を公開する。そのカードが《ウマ娘》のキャラかイベントなら手札に加える。（そうでないなら元に戻す）",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_140.png"
+ },
+ {
+  "id": "UMA/W106-141",
+  "name": "家族思いの働き者 アイネスフウジン",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Character",
+  "color": "Blue",
+  "level": 0,
+  "cost": 0,
+  "power": 1500,
+  "soul": 1,
+  "rarity": "C",
+  "traits": [
+   "ウマ娘"
+  ],
+  "trigger": [],
+  "text": "【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの《ウマ娘》のキャラの枚数×1000に等しい。 【自】 このカードのバトル中、あなたの受けたダメージがキャンセルされた時、あなたはこのカードを手札に戻してよい。",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_141.png"
+ },
+ {
+  "id": "UMA/W106-142",
+  "name": "想像力豊かな読書家 ゼンノロブロイ",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Character",
+  "color": "Blue",
+  "level": 1,
+  "cost": 0,
+  "power": 3000,
+  "soul": 1,
+  "rarity": "C",
+  "traits": [
+   "ウマ娘"
+  ],
+  "trigger": [],
+  "text": "【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋3000。 【自】［(1)］ このカードのバトル相手が【リバース】した時、あなたはコストを払ってよい。そうしたら、あなたは1枚引く。",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_142.png"
+ },
+ {
+  "id": "UMA/W106-143",
+  "name": "イマドキギャル☆ トーセンジョーダン",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Character",
+  "color": "Blue",
+  "level": 1,
+  "cost": 0,
+  "power": 3000,
+  "soul": 1,
+  "rarity": "C",
+  "traits": [
+   "ウマ娘"
+  ],
+  "trigger": [],
+  "text": "【永】 あなたのターン中、他のあなたの《ウマ娘》のキャラ1枚につき、このカードのパワーを＋500。 【自】 このカードのバトル相手が【リバース】した時、あなたは他の自分の《ウマ娘》のキャラを1枚選び、手札に戻してよい。",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_143.png"
+ },
+ {
+  "id": "UMA/W106-144",
+  "name": "傷を抱えて走るお嬢様 メジロドーベル",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Character",
+  "color": "Blue",
+  "level": 1,
+  "cost": 0,
+  "power": 4000,
+  "soul": 1,
+  "rarity": "C",
+  "traits": [
+   "ウマ娘"
+  ],
+  "trigger": [],
+  "text": "【自】 他のあなたの《ウマ娘》のキャラがアタックした時、そのターン中、このカードのパワーを＋2000。",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_144.png"
+ },
+ {
+  "id": "UMA/W106-145",
+  "name": "絶対魔女になるもん！ スイープトウショウ",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Character",
+  "color": "Blue",
+  "level": 1,
+  "cost": 1,
+  "power": 2500,
+  "soul": 1,
+  "rarity": "C",
+  "traits": [
+   "ウマ娘"
+  ],
+  "trigger": [
+   "SOUL"
+  ],
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたは相手の前列のキャラを1枚選び、そのターン中、パワーを－1000。 【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが相手のレベルより高いなら、あなたはそのキャラを山札の下に置いてよい。",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_145.png"
+ },
+ {
+  "id": "UMA/W106-146",
+  "name": "カリスマ野心家ウマ娘 シリウスシンボリ",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Character",
+  "color": "Blue",
+  "level": 2,
+  "cost": 1,
+  "power": 7000,
+  "soul": 1,
+  "rarity": "C",
+  "traits": [
+   "ウマ娘"
+  ],
+  "trigger": [
+   "SOUL"
+  ],
+  "text": "【自】 このカードがアタックした時、このカードの正面のキャラのレベルが3以上なら、そのターン中、このカードのパワーを＋6000し、ソウルを＋2。",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_146.png"
+ },
+ {
+  "id": "UMA/W106-147",
+  "name": "ギリギリ攻めるアウトロー勝負師 ナカヤマフェスタ",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Character",
+  "color": "Blue",
+  "level": 2,
+  "cost": 1,
+  "power": 7500,
+  "soul": 1,
+  "rarity": "C",
+  "traits": [
+   "ウマ娘"
+  ],
+  "trigger": [
+   "SOUL"
+  ],
+  "text": "【永】 あなたのターン中、他のあなたの《ウマ娘》のキャラ1枚につき、このカードのパワーを＋1000。 【自】 このカードかこのカードのバトル相手が【リバース】した時、そのターン中、そのキャラは『【自】 アンコール』を使えない。（ルールによる『【自】 アンコール ［(3)］』も使えない）",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_147.png"
+ },
+ {
+  "id": "UMA/W106-148",
+  "name": "ようこそ、トレセン学園へ！ 駿川たづな",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Event",
+  "color": "Blue",
+  "level": 3,
+  "cost": 0,
+  "power": 0,
+  "soul": 0,
+  "rarity": "R",
+  "traits": [],
+  "trigger": [],
+  "text": "このカードは、あなたの《ウマ娘》のキャラが2枚以下なら、手札からプレイできない。 ［あなたの《ウマ娘》のキャラを1枚【レスト】する］ あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から11枚まで見て、《ウマ娘》のキャラを1枚まで選び、舞台の好きな枠に置き、残りのカードを控え室に置く。",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_148.png"
+ },
+ {
+  "id": "UMA/W106-149",
+  "name": "厳しくも優しい仕事人 樫本理子",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Event",
+  "color": "Blue",
+  "level": 1,
+  "cost": 1,
+  "power": 0,
+  "soul": 0,
+  "rarity": "C",
+  "traits": [],
+  "trigger": [],
+  "text": "次の2つの効果のうちあなたが選んだ1つを行う。 『あなたは自分の控え室のキャラを1枚選び、手札に戻す。』 『あなたは自分の山札を見て《ウマ娘》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。』",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_149.png"
+ },
+ {
+  "id": "UMA/W106-150",
+  "name": "学園理事長秘書さん 駿川たづな",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Event",
+  "color": "Blue",
+  "level": 2,
+  "cost": 0,
+  "power": 0,
+  "soul": 0,
+  "rarity": "C",
+  "traits": [],
+  "trigger": [],
+  "text": "すべてのプレイヤーは自分の山札の上から3枚を、控え室に置く。あなたのこの効果で控え室に置かれたレベル1以下のキャラの枚数が、相手のこの効果で控え室に置かれたレベル0以下のキャラの枚数より多いなら、あなたは1枚引いてよい。 このカードをストック置場に置く。",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_150.png"
+ },
+ {
+  "id": "UMA/W106-151",
+  "name": "おかえり、チームのエース",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Climax",
+  "color": "Blue",
+  "level": 0,
+  "cost": 0,
+  "power": 0,
+  "soul": 0,
+  "rarity": "CC",
+  "traits": [],
+  "trigger": [
+   "SOUL",
+   "GATE"
+  ],
+  "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。 （：このカードがトリガーした時、あなたは自分の控え室のクライマックスを1枚選び、手札に戻してよい）",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_151.png"
+ },
+ {
+  "id": "UMA/W106-151S",
+  "name": "おかえり、チームのエース",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Climax",
+  "color": "Blue",
+  "level": 0,
+  "cost": 0,
+  "power": 0,
+  "soul": 0,
+  "rarity": "PR",
+  "traits": [],
+  "trigger": [
+   "SOUL",
+   "GATE"
+  ],
+  "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。 （：このカードがトリガーした時、あなたは自分の控え室のクライマックスを1枚選び、手札に戻してよい）",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_151s.png"
+ },
+ {
+  "id": "UMA/W106-152",
+  "name": "第1回ファンタジー記念",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Climax",
+  "color": "Blue",
+  "level": 0,
+  "cost": 0,
+  "power": 0,
+  "soul": 0,
+  "rarity": "CC",
+  "traits": [],
+  "trigger": [
+   "SOUL",
+   "GATE"
+  ],
+  "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。 （：このカードがトリガーした時、あなたは自分の控え室のクライマックスを1枚選び、手札に戻してよい）",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_152.png"
+ },
+ {
+  "id": "UMA/W106-152S",
+  "name": "第1回ファンタジー記念",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Climax",
+  "color": "Blue",
+  "level": 0,
+  "cost": 0,
+  "power": 0,
+  "soul": 0,
+  "rarity": "PR",
+  "traits": [],
+  "trigger": [
+   "SOUL",
+   "GATE"
+  ],
+  "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。 （：このカードがトリガーした時、あなたは自分の控え室のクライマックスを1枚選び、手札に戻してよい）",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_152s.png"
+ },
+ {
+  "id": "UMA/W106-153",
+  "name": "ラッシュ→バーニング",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Climax",
+  "color": "Blue",
+  "level": 0,
+  "cost": 0,
+  "power": 0,
+  "soul": 0,
+  "rarity": "CC",
+  "traits": [],
+  "trigger": [
+   "SOUL",
+   "SOUL"
+  ],
+  "text": "【永】 あなたのキャラすべてに、ソウルを＋2。",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_153.png"
+ },
+ {
+  "id": "UMA/W106-153S",
+  "name": "ラッシュ→バーニング",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Climax",
+  "color": "Blue",
+  "level": 0,
+  "cost": 0,
+  "power": 0,
+  "soul": 0,
+  "rarity": "PR",
+  "traits": [],
+  "trigger": [
+   "SOUL",
+   "SOUL"
+  ],
+  "text": "【永】 あなたのキャラすべてに、ソウルを＋2。",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_153s.png"
+ },
+ {
+  "id": "UMA/W106-154",
+  "name": "ゆかいな旅路",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Climax",
+  "color": "Blue",
+  "level": 0,
+  "cost": 0,
+  "power": 0,
+  "soul": 0,
+  "rarity": "CC",
+  "traits": [],
+  "trigger": [
+   "DRAW"
+  ],
+  "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。 （：このカードがトリガーした時、あなたは1枚引いてよい）",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_154.png"
+ },
+ {
+  "id": "UMA/W106-154S",
+  "name": "ゆかいな旅路",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Climax",
+  "color": "Blue",
+  "level": 0,
+  "cost": 0,
+  "power": 0,
+  "soul": 0,
+  "rarity": "PR",
+  "traits": [],
+  "trigger": [
+   "DRAW"
+  ],
+  "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。 （：このカードがトリガーした時、あなたは1枚引いてよい）",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_154s.png"
+ },
+ {
+  "id": "UMA/W106-155",
+  "name": "彼女のワガママ",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Climax",
+  "color": "Blue",
+  "level": 0,
+  "cost": 0,
+  "power": 0,
+  "soul": 0,
+  "rarity": "CC",
+  "traits": [],
+  "trigger": [
+   "SOUL",
+   "GATE"
+  ],
+  "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。 （：このカードがトリガーした時、あなたは自分の控え室のクライマックスを1枚選び、手札に戻してよい）",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_155.png"
+ },
+ {
+  "id": "UMA/W106-155S",
+  "name": "彼女のワガママ",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Climax",
+  "color": "Blue",
+  "level": 0,
+  "cost": 0,
+  "power": 0,
+  "soul": 0,
+  "rarity": "PR",
+  "traits": [],
+  "trigger": [
+   "SOUL",
+   "GATE"
+  ],
+  "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。 （：このカードがトリガーした時、あなたは自分の控え室のクライマックスを1枚選び、手札に戻してよい）",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_155s.png"
+ },
+ {
+  "id": "UMA/W106-156",
+  "name": "天衣無縫の陽気なウマ娘 ミスターシービー",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Character",
+  "color": "Yellow",
+  "level": 3,
+  "cost": 2,
+  "power": 10000,
+  "soul": 2,
+  "rarity": "PR",
+  "traits": [
+   "ウマ娘"
+  ],
+  "trigger": [
+   "SOUL"
+  ],
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。 【自】［(3) 手札を1枚控え室に置く］ このカードのバトル相手が【リバース】した時、あなたはコストを払ってよい。そうしたら、相手に2ダメージを与え、あなたは自分の山札を上から1枚見て、山札の上か下に置く。（ダメージキャンセルは発生する）",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_156.png"
+ },
+ {
+  "id": "UMA/W106-157",
+  "name": "君臨する\"皇帝\" シンボリルドルフ",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Character",
+  "color": "Green",
+  "level": 1,
+  "cost": 0,
+  "power": 4500,
+  "soul": 1,
+  "rarity": "PR",
+  "traits": [
+   "ウマ娘"
+  ],
+  "trigger": [],
+  "text": "【自】 この能力は1ターンにつき1回まで発動する。あなたが【起】を使った時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの《ウマ娘》のキャラの枚数×500に等しい。 【起】［あなたの《ウマ娘》のキャラを1枚【レスト】する］ そのターン中、このカードは次の能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラを山札の下に置いてよい。』",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_157.png"
+ },
+ {
+  "id": "UMA/W106-P01",
+  "name": "私たちと夢、掴みましょう！ スペシャルウィーク",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Character",
+  "color": "Yellow",
+  "level": 0,
+  "cost": 0,
+  "power": 2000,
+  "soul": 1,
+  "rarity": "PR",
+  "traits": [
+   "ウマ娘"
+  ],
+  "trigger": [],
+  "text": "",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_p01.png"
+ },
+ {
+  "id": "UMA/W106-P01S",
+  "name": "私たちと夢、掴みましょう！ スペシャルウィーク",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Character",
+  "color": "Yellow",
+  "level": 0,
+  "cost": 0,
+  "power": 2000,
+  "soul": 1,
+  "rarity": "PR",
+  "traits": [
+   "ウマ娘"
+  ],
+  "trigger": [],
+  "text": "",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_p01s.png"
+ },
+ {
+  "id": "UMA/W106-P02",
+  "name": "まだ見ぬ景色を求めて サイレンススズカ",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Character",
+  "color": "Green",
+  "level": 1,
+  "cost": 0,
+  "power": 4500,
+  "soul": 1,
+  "rarity": "PR",
+  "traits": [
+   "ウマ娘"
+  ],
+  "trigger": [],
+  "text": "",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_p02.png"
+ },
+ {
+  "id": "UMA/W106-T01",
+  "name": "素朴なクールドリーマー オグリキャップ",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Character",
+  "color": "Yellow",
+  "level": 0,
+  "cost": 0,
+  "power": 1000,
+  "soul": 1,
+  "rarity": "TD",
+  "traits": [
+   "ウマ娘"
+  ],
+  "trigger": [],
+  "text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。 【起】［(1) このカードを控え室に置く］ あなたは自分の山札を上から4枚まで見て、《ウマ娘》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_t01.png"
+ },
+ {
+  "id": "UMA/W106-T02",
+  "name": "天真爛漫ホッピン少女 トウカイテイオー",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Character",
+  "color": "Yellow",
+  "level": 0,
+  "cost": 0,
+  "power": 2000,
+  "soul": 1,
+  "rarity": "TD",
+  "traits": [
+   "ウマ娘"
+  ],
+  "trigger": [],
+  "text": "【自】 このカードが手札から舞台に置かれた時、他のあなたの《ウマ娘》のキャラがいるなら、そのターン中、このカードのパワーを＋2000。 【自】 このカードのバトル相手が【リバース】した時、他のあなたの《ウマ娘》のキャラがいるなら、あなたは自分の山札の上から1枚を公開する。そのカードがレベル2以上のキャラなら手札に加える。（そうでないなら元に戻す）",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_t02.png"
+ },
+ {
+  "id": "UMA/W106-T03",
+  "name": "謎テンションな黄金電波娘 ゴールドシップ",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Character",
+  "color": "Yellow",
+  "level": 0,
+  "cost": 0,
+  "power": 4000,
+  "soul": 1,
+  "rarity": "TD",
+  "traits": [
+   "ウマ娘"
+  ],
+  "trigger": [],
+  "text": "【永】 あなたはイベントと『助太刀』を手札からプレイできない。",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_t03.png"
+ },
+ {
+  "id": "UMA/W106-T04",
+  "name": "夢一直線の純真どさん娘 スペシャルウィーク",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Character",
+  "color": "Yellow",
+  "level": 1,
+  "cost": 0,
+  "power": 4000,
+  "soul": 1,
+  "rarity": "TD",
+  "traits": [
+   "ウマ娘"
+  ],
+  "trigger": [],
+  "text": "【永】 あなたのターン中、他のあなたの《ウマ娘》のキャラがいるなら、このカードのパワーを＋3000。 【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「旅立ちの日、挑戦の日」があり、他のあなたの《ウマ娘》のキャラがいるなら、あなたは自分の控え室の《ウマ娘》のキャラを1枚まで選び、手札に戻し、次の相手のターンの終わりまで、このカードは次の能力を得る。『【永】 相手のターン中、このカードのパワーを＋1500し、このカードは『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を得る。』",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_t04.png"
+ },
+ {
+  "id": "UMA/W106-T05",
+  "name": "感情全開の正直娘 ウイニングチケット",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Character",
+  "color": "Yellow",
+  "level": 1,
+  "cost": 0,
+  "power": 4500,
+  "soul": 1,
+  "rarity": "TD",
+  "traits": [
+   "ウマ娘"
+  ],
+  "trigger": [],
+  "text": "【自】 このカードがアタックした時、そのターン中、このカードのパワーを＋Ｘ。Ｘは他のあなたの《ウマ娘》のキャラの枚数×500に等しい。 【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_t05.png"
+ },
+ {
+  "id": "UMA/W106-T06",
+  "name": "甘々な末っ子ガール マヤノトップガン",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Character",
+  "color": "Yellow",
+  "level": 1,
+  "cost": 0,
+  "power": 5500,
+  "soul": 1,
+  "rarity": "TD",
+  "traits": [
+   "ウマ娘"
+  ],
+  "trigger": [],
+  "text": "",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_t06.png"
+ },
+ {
+  "id": "UMA/W106-T07",
+  "name": "優しいお姉さん スーパークリーク",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Character",
+  "color": "Yellow",
+  "level": 1,
+  "cost": 1,
+  "power": 5000,
+  "soul": 1,
+  "rarity": "TD",
+  "traits": [
+   "ウマ娘"
+  ],
+  "trigger": [],
+  "text": "【永】 他のあなたの後列の《ウマ娘》のキャラ1枚につき、このカードのパワーを＋1000。 【永】 他のあなたの《ウマ娘》のキャラすべてに、パワーを＋500。",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_t07.png"
+ },
+ {
+  "id": "UMA/W106-T08",
+  "name": "七転八起ガール ハルウララ",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Character",
+  "color": "Yellow",
+  "level": 2,
+  "cost": 1,
+  "power": 2500,
+  "soul": 1,
+  "rarity": "TD",
+  "traits": [
+   "ウマ娘"
+  ],
+  "trigger": [
+   "SOUL"
+  ],
+  "text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。 【起】［このカードを【レスト】する］ あなたは1枚引き、自分の手札を1枚選び、控え室に置く。",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_t08.png"
+ },
+ {
+  "id": "UMA/W106-T09",
+  "name": "優雅で一途なお嬢様 メジロマックイーン",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Character",
+  "color": "Yellow",
+  "level": 3,
+  "cost": 2,
+  "power": 9000,
+  "soul": 2,
+  "rarity": "TD",
+  "traits": [
+   "ウマ娘"
+  ],
+  "trigger": [
+   "SOUL"
+  ],
+  "text": "【永】 他のあなたの《ウマ娘》のキャラが2枚以上なら、このカードのパワーを＋2500し、このカードは『【自】 アンコール ［手札の《ウマ娘》のキャラを1枚控え室に置く］』を得る。 【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から3枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_t09.png"
+ },
+ {
+  "id": "UMA/W106-T10",
+  "name": "旅立ちの日、挑戦の日",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Climax",
+  "color": "Yellow",
+  "level": 0,
+  "cost": 0,
+  "power": 0,
+  "soul": 0,
+  "rarity": "TD",
+  "traits": [],
+  "trigger": [
+   "CHOICE"
+  ],
+  "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。 （：このカードがトリガーした時、あなたは自分の控え室のトリガーアイコンにがあるキャラを1枚選び、手札に戻すかストック置場に置いてよい）",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_t10.png"
+ },
+ {
+  "id": "UMA/W106-T11",
+  "name": "シニカルガール ナイスネイチャ",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Character",
+  "color": "Green",
+  "level": 0,
+  "cost": 0,
+  "power": 500,
+  "soul": 1,
+  "rarity": "TD",
+  "traits": [
+   "ウマ娘"
+  ],
+  "trigger": [],
+  "text": "【自】 絆／「甘々な末っ子ガール マヤノトップガン」 ［あなたの山札の上から1枚をクロック置場に置く］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「甘々な末っ子ガール マヤノトップガン」を1枚選び、手札に戻す） 【起】［手札を1枚控え室に置き、このカードを控え室に置く］ あなたは自分の控え室の《ウマ娘》のキャラを1枚選び、手札に戻す。",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_t11.png"
+ },
+ {
+  "id": "UMA/W106-T12",
+  "name": "禁断のマッド科学者 アグネスタキオン",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Character",
+  "color": "Green",
+  "level": 0,
+  "cost": 0,
+  "power": 500,
+  "soul": 1,
+  "rarity": "TD",
+  "traits": [
+   "ウマ娘"
+  ],
+  "trigger": [],
+  "text": "【永】 あなたのターン中、他のあなたの《ウマ娘》のキャラすべてに、パワーを＋500。 【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から5枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは1枚まで引く。",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_t12.png"
+ },
+ {
+  "id": "UMA/W106-T13",
+  "name": "負けん気満点のツンツンガール ダイワスカーレット",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Character",
+  "color": "Green",
+  "level": 0,
+  "cost": 0,
+  "power": 1000,
+  "soul": 1,
+  "rarity": "TD",
+  "traits": [
+   "ウマ娘"
+  ],
+  "trigger": [],
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《ウマ娘》のキャラなら手札に加え、あなたは自分の手札を1枚選び、控え室に置く。（そうでないなら元に戻す） 【自】 このカードが手札から舞台に置かれた時、あなたは自分の《ウマ娘》のキャラを1枚選び、そのターン中、パワーを＋1500。",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_t13.png"
+ },
+ {
+  "id": "UMA/W106-T14",
+  "name": "占い大好きなハッピー祈願娘 マチカネフクキタル",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Character",
+  "color": "Green",
+  "level": 1,
+  "cost": 0,
+  "power": 2000,
+  "soul": 1,
+  "rarity": "TD",
+  "traits": [
+   "ウマ娘"
+  ],
+  "trigger": [],
+  "text": "【自】 あなたがこのカードの『助太刀』を使った時、あなたの《ウマ娘》のキャラがいるなら、あなたは自分のバトル中のキャラを1枚選び、そのターン中、パワーを＋1000。 【起】【カウンター】 助太刀1000 レベル1 ［手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1000）",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_t14.png"
+ },
+ {
+  "id": "UMA/W106-T15",
+  "name": "純情不良なロードスター ウオッカ",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Character",
+  "color": "Green",
+  "level": 2,
+  "cost": 1,
+  "power": 7000,
+  "soul": 1,
+  "rarity": "TD",
+  "traits": [
+   "ウマ娘"
+  ],
+  "trigger": [
+   "SOUL"
+  ],
+  "text": "【自】 このカードがアタックした時、そのターン中、このカードのパワーを＋Ｘ。Ｘは他のあなたの《ウマ娘》のキャラの枚数×1000に等しい。 【自】 アンコール ［手札の《ウマ娘》のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_t15.png"
+ },
+ {
+  "id": "UMA/W106-T16",
+  "name": "静かなる疾走者 サイレンススズカ",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Character",
+  "color": "Green",
+  "level": 3,
+  "cost": 2,
+  "power": 9000,
+  "soul": 2,
+  "rarity": "TD",
+  "traits": [
+   "ウマ娘"
+  ],
+  "trigger": [
+   "SOUL"
+  ],
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚までを、控え室に置き、そのターン中、このカードのパワーを＋3000。 【自】【CXコンボ】［(1)］ このカードがアタックした時、クライマックス置場に「きっとここから、必ずここで」があり、他のあなたの《ウマ娘》のキャラがいるなら、あなたはコストを払ってよい。そうしたら、相手に2ダメージを与え、そのターン中、このカードのソウルを－1。（ダメージキャンセルは発生する）",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_t16.png"
+ },
+ {
+  "id": "UMA/W106-T17",
+  "name": "誰より速く駆け抜けたい",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Event",
+  "color": "Green",
+  "level": 2,
+  "cost": 0,
+  "power": 0,
+  "soul": 0,
+  "rarity": "TD",
+  "traits": [],
+  "trigger": [],
+  "text": "このカードは、あなたの《ウマ娘》のキャラが1枚以下なら、手札からプレイできない。 あなたの思い出が2枚以下なら、このカードを思い出にする。 【自】 記憶 思い出置場にこのカードがあるなら、あなたのメインフェイズの始めに、そのターン中、このカードは次の能力を得る。『【起】 記憶 ［思い出置場のこのカードを控え室に置く］ あなたは自分の手札の「静かなる疾走者 サイレンススズカ」を1枚まで選び、舞台の好きな枠に置き、そのターン中、そのキャラのパワーを＋1000。』",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_t17.png"
+ },
+ {
+  "id": "UMA/W106-T18",
+  "name": "きっとここから、必ずここで",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Climax",
+  "color": "Green",
+  "level": 0,
+  "cost": 0,
+  "power": 0,
+  "soul": 0,
+  "rarity": "TD",
+  "traits": [],
+  "trigger": [
+   "SOUL",
+   "SOUL"
+  ],
+  "text": "【永】 あなたのキャラすべてに、ソウルを＋2。",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_t18.png"
+ },
+ {
+  "id": "UMA/W106-T19",
+  "name": "無骨なウマ娘 ヤエノムテキ",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Character",
+  "color": "Red",
+  "level": 0,
+  "cost": 0,
+  "power": 500,
+  "soul": 1,
+  "rarity": "TD",
+  "traits": [
+   "ウマ娘"
+  ],
+  "trigger": [],
+  "text": "【自】［手札の《ウマ娘》のキャラを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは1枚引く。 【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から5枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは1枚まで引く。",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_t19.png"
+ },
+ {
+  "id": "UMA/W106-T20",
+  "name": "孤高貫く一等星 アドマイヤベガ",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Character",
+  "color": "Red",
+  "level": 0,
+  "cost": 0,
+  "power": 1500,
+  "soul": 1,
+  "rarity": "TD",
+  "traits": [
+   "ウマ娘"
+  ],
+  "trigger": [],
+  "text": "【自】 この能力は1ターンにつき1回まで発動する。あなたが【起】を使った時、あなたは自分の《ウマ娘》のキャラを1枚選び、そのターン中、パワーを＋1000。 【自】［(1) このカードを控え室に置く］ 他のあなたの《ウマ娘》のキャラがフロントアタックされた時、あなたはコストを払ってよい。そうしたら、そのキャラを手札に戻す。",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_t20.png"
+ },
+ {
+  "id": "UMA/W106-T21",
+  "name": "愛され未完の大器 マチカネタンホイザ",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Character",
+  "color": "Red",
+  "level": 0,
+  "cost": 0,
+  "power": 2000,
+  "soul": 1,
+  "rarity": "TD",
+  "traits": [
+   "ウマ娘"
+  ],
+  "trigger": [],
+  "text": "【自】［(1) 手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《ウマ娘》のキャラを1枚選び、手札に戻し、他の自分の《ウマ娘》のキャラを1枚選び、そのターン中、パワーを＋1000。 【起】［あなたの《ウマ娘》のキャラを1枚【レスト】する］ そのターン中、このカードのパワーを＋1000。",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_t21.png"
+ },
+ {
+  "id": "UMA/W106-T22",
+  "name": "尊大なる歌劇王 テイエムオペラオー",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Character",
+  "color": "Red",
+  "level": 1,
+  "cost": 1,
+  "power": 5500,
+  "soul": 1,
+  "rarity": "TD",
+  "traits": [
+   "ウマ娘"
+  ],
+  "trigger": [],
+  "text": "【永】 他のあなたの《ウマ娘》のキャラが2枚以上なら、このカードのパワーを＋2000。 【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_t22.png"
+ },
+ {
+  "id": "UMA/W106-T23",
+  "name": "マーベラース！ マーベラスサンデー",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Character",
+  "color": "Red",
+  "level": 2,
+  "cost": 1,
+  "power": 3500,
+  "soul": 1,
+  "rarity": "TD",
+  "traits": [
+   "ウマ娘"
+  ],
+  "trigger": [
+   "SOUL"
+  ],
+  "text": "【永】 あなたのターン中、このカードのパワーを＋10000。",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_t23.png"
+ },
+ {
+  "id": "UMA/W106-T24",
+  "name": "硬派で頑固な一匹狼 ナリタブライアン",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Character",
+  "color": "Red",
+  "level": 2,
+  "cost": 1,
+  "power": 4500,
+  "soul": 1,
+  "rarity": "TD",
+  "traits": [
+   "ウマ娘"
+  ],
+  "trigger": [
+   "SOUL"
+  ],
+  "text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。 【起】［このカードを【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_t24.png"
+ },
+ {
+  "id": "UMA/W106-T25",
+  "name": "明朗快活お祭り娘！ キタサンブラック",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Character",
+  "color": "Red",
+  "level": 3,
+  "cost": 2,
+  "power": 10000,
+  "soul": 2,
+  "rarity": "TD",
+  "traits": [
+   "ウマ娘"
+  ],
+  "trigger": [
+   "SOUL"
+  ],
+  "text": "【永】 あなたのターン中、このカードのパワーを＋2000。 【自】 このカードがアタックした時、あなたは自分の山札の上から1枚を公開する。そのカードが《ウマ娘》のキャラなら、相手にＸダメージを与える。Ｘはそのキャラのレベルに等しい。（ダメージキャンセルは発生する。公開したカードは元に戻す）",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_t25.png"
+ },
+ {
+  "id": "UMA/W106-T26",
+  "name": "輝く汗も純粋に メジロライアン",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Character",
+  "color": "Blue",
+  "level": 0,
+  "cost": 0,
+  "power": 500,
+  "soul": 1,
+  "rarity": "TD",
+  "traits": [
+   "ウマ娘"
+  ],
+  "trigger": [],
+  "text": "【永】 あなたのターン中、他のあなたの「のんびりご令嬢 メジロブライト」すべてに、パワーを＋2000。 【自】 絆／「のんびりご令嬢 メジロブライト」 ［あなたの山札の上から1枚をクロック置場に置く］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「のんびりご令嬢 メジロブライト」を1枚選び、手札に戻す）",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_t26.png"
+ },
+ {
+  "id": "UMA/W106-T27",
+  "name": "素直な努力家ウマ娘 サクラチヨノオー",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Character",
+  "color": "Blue",
+  "level": 0,
+  "cost": 0,
+  "power": 1500,
+  "soul": 1,
+  "rarity": "TD",
+  "traits": [
+   "ウマ娘"
+  ],
+  "trigger": [],
+  "text": "【永】 応援 このカードの前のあなたのレベル0以下のキャラすべてに、パワーを＋1000。 【自】 継承 他のあなたのキャラが手札から舞台に置かれた時、そのキャラの下にマーカーがないなら、あなたはこのカードの下のマーカー1枚までとこのカードを選び、その舞台に置かれたキャラの下にマーカーとして好きな順番で表向きに置いてよい。そうしたら、残りのマーカーを控え室に置く。",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_t27.png"
+ },
+ {
+  "id": "UMA/W106-T28",
+  "name": "大暴走・学級委員長 サクラバクシンオー",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Character",
+  "color": "Blue",
+  "level": 0,
+  "cost": 0,
+  "power": 1500,
+  "soul": 1,
+  "rarity": "TD",
+  "traits": [
+   "ウマ娘"
+  ],
+  "trigger": [],
+  "text": "【永】 他のあなたの《ウマ娘》のキャラが2枚以上なら、このカードのパワーを＋2000。 【自】 継承 他のあなたのキャラが手札から舞台に置かれた時、そのキャラの下にマーカーがないなら、あなたはこのカードの下のマーカー1枚までとこのカードを選び、その舞台に置かれたキャラの下にマーカーとして好きな順番で表向きに置いてよい。そうしたら、残りのマーカーを控え室に置く。",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_t28.png"
+ },
+ {
+  "id": "UMA/W106-T29",
+  "name": "冬を越えて咲くサクラ サクラローレル",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Character",
+  "color": "Blue",
+  "level": 1,
+  "cost": 0,
+  "power": 3500,
+  "soul": 1,
+  "rarity": "TD",
+  "traits": [
+   "ウマ娘"
+  ],
+  "trigger": [],
+  "text": "【永】 このカードの下にマーカーがあり、他のあなたの《ウマ娘》のキャラが2枚以上なら、このカードのパワーを＋3000。 【永】 他のあなたの《ウマ娘》のキャラが2枚以上なら、このカードのパワーを＋2000。 【自】［手札を1枚控え室に置く］ このカードが舞台から控え室に置かれた時、あなたは自分の山札の上から2枚を、控え室に置く。それらのカードにクライマックスがあるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のキャラを1枚選び、手札に戻す。",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_t29.png"
+ },
+ {
+  "id": "UMA/W106-T30",
+  "name": "ジンクスに挑むお嬢様 サトノダイヤモンド",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Character",
+  "color": "Blue",
+  "level": 1,
+  "cost": 0,
+  "power": 4000,
+  "soul": 1,
+  "rarity": "TD",
+  "traits": [
+   "ウマ娘"
+  ],
+  "trigger": [],
+  "text": "【永】 あなたのターン中、他のあなたの《ウマ娘》のキャラが2枚以上なら、このカードのパワーを＋4000。 【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「風のはじまり」があり、他のあなたの《ウマ娘》のキャラが2枚以上なら、あなたは自分の山札を上から5枚まで見て、《ウマ娘》のキャラをＸ枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。Ｘはこのカードの下にマーカーがあるなら2、ないなら1に等しい。",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_t30.png"
+ },
+ {
+  "id": "UMA/W106-T31",
+  "name": "のんびりご令嬢 メジロブライト",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Character",
+  "color": "Blue",
+  "level": 1,
+  "cost": 0,
+  "power": 5500,
+  "soul": 1,
+  "rarity": "TD",
+  "traits": [
+   "ウマ娘"
+  ],
+  "trigger": [],
+  "text": "",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_t31.png"
+ },
+ {
+  "id": "UMA/W106-T32",
+  "name": "ガラスの脚を持つ令嬢 メジロアルダン",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Character",
+  "color": "Blue",
+  "level": 1,
+  "cost": 1,
+  "power": 1000,
+  "soul": 1,
+  "rarity": "TD",
+  "traits": [
+   "ウマ娘"
+  ],
+  "trigger": [
+   "SOUL"
+  ],
+  "text": "【自】 あなたがこのカードの『助太刀』を使った時、あなたのキャラすべてが《ウマ娘》なら、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。 【起】【カウンター】 助太刀2000 レベル1 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2000）",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_t32.png"
+ },
+ {
+  "id": "UMA/W106-T33",
+  "name": "爽やか完璧優等生！ ナリタトップロード",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Character",
+  "color": "Blue",
+  "level": 3,
+  "cost": 2,
+  "power": 10000,
+  "soul": 2,
+  "rarity": "TD",
+  "traits": [
+   "ウマ娘"
+  ],
+  "trigger": [
+   "SOUL"
+  ],
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。 【自】【CXコンボ】 あなたのクライマックス置場に「もっと、輝きの先へ」が置かれた時、前列にこのカードがいて、このカードの下にマーカーがあり、他のあなたの《ウマ娘》のキャラが4枚以上なら、そのターン中、このカードは次の能力を得る。『【自】 この能力は1ターンにつき1回まで発動する。このカードの与えたダメージがキャンセルされた時、あなたは相手に3ダメージを与えてよい。このダメージがキャンセルされたなら、あなたは相手に1ダメージを与えてよい。』（ダメージキャンセルは発生する）",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_t33.png"
+ },
+ {
+  "id": "UMA/W106-T34",
+  "name": "NEXT DREAM",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Event",
+  "color": "Blue",
+  "level": 2,
+  "cost": 3,
+  "power": 0,
+  "soul": 0,
+  "rarity": "TD",
+  "traits": [],
+  "trigger": [],
+  "text": "【カウンター】 あなたの《ウマ娘》のキャラが5枚以上なら、あなたはバトル中のキャラを1枚選び、そのターン中、次の能力を与える。『【永】 このカードはプレイヤーにダメージを与えることができない。』 あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1500。",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_t34.png"
+ },
+ {
+  "id": "UMA/W106-T35",
+  "name": "もっと、輝きの先へ",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Climax",
+  "color": "Blue",
+  "level": 0,
+  "cost": 0,
+  "power": 0,
+  "soul": 0,
+  "rarity": "TD",
+  "traits": [],
+  "trigger": [
+   "SOUL",
+   "GATE"
+  ],
+  "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。 （：このカードがトリガーした時、あなたは自分の控え室のクライマックスを1枚選び、手札に戻してよい）",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_t35.png"
+ },
+ {
+  "id": "UMA/W106-T36",
+  "name": "風のはじまり",
+  "franchise": "ウマ娘 プリティーダービー",
+  "setCode": "UMA/W106",
+  "type": "Climax",
+  "color": "Blue",
+  "level": 0,
+  "cost": 0,
+  "power": 0,
+  "soul": 0,
+  "rarity": "TD",
+  "traits": [],
+  "trigger": [
+   "SOUL",
+   "SOUL"
+  ],
+  "text": "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは自分の控え室のレベル1以下のキャラを1枚まで選び、ストック置場に置き、自分のキャラすべてに、そのターン中、ソウルを＋1。",
+  "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_t36.png"
+ }
+]
