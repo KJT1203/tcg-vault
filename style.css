@@ -766,6 +766,40 @@ a:hover {
   letter-spacing: 0.04em;
   color: var(--text-2);
 }
+.ebay-actions {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+.ebay-refresh {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 28px;
+  height: 28px;
+  border: 1px solid var(--border);
+  background: var(--surface);
+  color: var(--text-2);
+  border-radius: 8px;
+  cursor: pointer;
+  transition: color 0.15s ease, border-color 0.15s ease;
+}
+.ebay-refresh:hover:not(:disabled) {
+  color: var(--accent);
+  border-color: var(--accent);
+}
+.ebay-refresh:disabled {
+  cursor: default;
+  opacity: 0.6;
+}
+.ebay-refresh.is-loading svg {
+  animation: ebay-spin 0.7s linear infinite;
+}
+@keyframes ebay-spin {
+  to {
+    transform: rotate(360deg);
+  }
+}
 .ebay-grade {
   appearance: none;
   -webkit-appearance: none;
@@ -844,8 +878,14 @@ a:hover {
   font-size: 13px;
   color: var(--text-2);
 }
-.ebay-note {
+.ebay-meta {
   margin: 10px 0 0;
+  font-size: 11px;
+  font-weight: 600;
+  color: var(--text-2);
+}
+.ebay-note {
+  margin: 6px 0 0;
   font-size: 11px;
   color: var(--text-2);
   opacity: 0.85;

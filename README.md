@@ -87,6 +87,9 @@ steps in [worker/README.md](worker/README.md). One Worker serves both:
   these are *asking* prices, not completed sales — eBay's sold-price API is
   access-restricted.
 
+The panel shows when the figures were last checked and has a **refresh**
+button to re-fetch in place (Pokémon refreshes bypass the per-card cache).
+
 For ungraded Pokémon, the TCGplayer *market* price is also already shown on
 every card with no setup at all.
 

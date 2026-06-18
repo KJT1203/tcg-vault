@@ -432,12 +432,55 @@ const priceBlock = $("#priceBlock");
 const priceTitle = $("#priceTitle");
 const priceResult = $("#priceResult");
 const priceNote = $("#priceNote");
+const priceMeta = $("#priceMeta");
+const priceRefresh = $("#priceRefresh");
 const ebayGrade = $("#ebayGrade");
 let priceReqId = 0; // guards against out-of-order responses
-const gradedCache = new Map(); // card.id -> graded payload (saves API credits)
+const gradedCache = new Map(); // card.id -> { data, fetchedAt } (saves API credits)
+let metaFetchedAt = 0; // when the currently shown prices were fetched
+let metaTimer = null; // keeps the "checked … ago" label fresh
 
 const money = (n, currency) =>
   (currency === "USD" || !currency ? "$" : currency + " ") + Number(n).toFixed(2);
+
+function relTime(ts) {
+  const s = Math.round((Date.now() - ts) / 1000);
+  if (s < 10) return "just now";
+  if (s < 60) return s + "s ago";
+  const m = Math.round(s / 60);
+  if (m < 60) return m + " min ago";
+  const h = Math.round(m / 60);
+  if (h < 24) return h + " hr ago";
+  return Math.round(h / 24) + " day(s) ago";
+}
+
+function renderMeta() {
+  if (!metaFetchedAt) {
+    priceMeta.hidden = true;
+    return;
+  }
+  priceMeta.hidden = false;
+  priceMeta.textContent = "Checked " + relTime(metaFetchedAt);
+}
+
+function stampMeta(ts) {
+  metaFetchedAt = ts || Date.now();
+  renderMeta();
+  if (metaTimer) clearInterval(metaTimer);
+  metaTimer = setInterval(renderMeta, 30000); // refresh the label while open
+}
+
+function clearMeta() {
+  metaFetchedAt = 0;
+  if (metaTimer) clearInterval(metaTimer);
+  metaTimer = null;
+  priceMeta.hidden = true;
+}
+
+function priceBusy(busy) {
+  priceRefresh.disabled = busy;
+  priceRefresh.classList.toggle("is-loading", busy);
+}
 
 function setupPrices(card) {
   if (!PROXY) {
@@ -445,6 +488,7 @@ function setupPrices(card) {
     return;
   }
   priceBlock.hidden = false;
+  clearMeta();
   if (card.game === "pokemon") {
     ebayGrade.hidden = true;
     priceTitle.textContent = "Graded prices";
@@ -462,8 +506,14 @@ function setupPrices(card) {
 // ----- Pokémon graded prices (PokemonPriceTracker) -----
 async function loadGraded(card) {
   const reqId = ++priceReqId;
-  if (gradedCache.has(card.id)) return renderGraded(gradedCache.get(card.id));
+  if (gradedCache.has(card.id)) {
+    const hit = gradedCache.get(card.id);
+    renderGraded(hit.data);
+    stampMeta(hit.fetchedAt);
+    return;
+  }
 
+  priceBusy(true);
   priceResult.innerHTML = '<span class="ebay-loading">Checking graded prices…</span>';
   const params = new URLSearchParams({ q: card.name });
   if (card.series) params.set("set", card.series);
@@ -473,11 +523,16 @@ async function loadGraded(card) {
     if (!res.ok) throw new Error("proxy " + res.status);
     const data = await res.json();
     if (reqId !== priceReqId) return;
-    gradedCache.set(card.id, data);
+    const fetchedAt = Date.now();
+    gradedCache.set(card.id, { data, fetchedAt });
     renderGraded(data);
+    stampMeta(fetchedAt);
   } catch (err) {
     if (reqId !== priceReqId) return;
     priceResult.innerHTML = '<span class="ebay-empty">Couldn’t reach the price proxy.</span>';
+    clearMeta();
+  } finally {
+    if (reqId === priceReqId) priceBusy(false);
   }
 }
 
@@ -510,6 +565,7 @@ function ebayQuery(card, grade) {
 
 async function loadEbay(card, grade) {
   const reqId = ++priceReqId;
+  priceBusy(true);
   priceResult.innerHTML = '<span class="ebay-loading">Checking eBay…</span>';
   const url = `${proxyBase}/search?q=${encodeURIComponent(ebayQuery(card, grade))}&limit=25`;
 
@@ -519,9 +575,13 @@ async function loadEbay(card, grade) {
     const data = await res.json();
     if (reqId !== priceReqId) return;
     renderEbay(data);
+    stampMeta(Date.now());
   } catch (err) {
     if (reqId !== priceReqId) return;
     priceResult.innerHTML = '<span class="ebay-empty">Couldn’t reach the price proxy.</span>';
+    clearMeta();
+  } finally {
+    if (reqId === priceReqId) priceBusy(false);
   }
 }
 
@@ -554,6 +614,16 @@ ebayGrade.addEventListener("change", () => {
   if (modalCard && modalCard.game === "weiss") loadEbay(modalCard, ebayGrade.value);
 });
 
+priceRefresh.addEventListener("click", () => {
+  if (!modalCard || priceRefresh.disabled) return;
+  if (modalCard.game === "pokemon") {
+    gradedCache.delete(modalCard.id); // force a fresh fetch past the cache
+    loadGraded(modalCard);
+  } else {
+    loadEbay(modalCard, ebayGrade.value);
+  }
+});
+
 function syncModalFav() {
   const btn = $("#modalFav");
   const inCol = modalCard && state.collection.has(modalCard.id);
@@ -566,6 +636,7 @@ function closeModal() {
   modal.hidden = true;
   document.body.style.overflow = "";
   modalCard = null;
+  clearMeta();
 }
 
 $("#modalFav").addEventListener("click", () => {

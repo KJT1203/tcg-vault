@@ -124,15 +124,27 @@
         <div class="ebay-block" id="priceBlock" hidden>
           <div class="ebay-head">
             <span class="ebay-title" id="priceTitle">Prices</span>
-            <select id="ebayGrade" class="ebay-grade" aria-label="Card grade" hidden>
-              <option value="raw">Ungraded</option>
-              <option value="PSA 10">PSA 10</option>
-              <option value="PSA 9">PSA 9</option>
-              <option value="BGS 9.5">BGS 9.5</option>
-              <option value="CGC 9.5">CGC 9.5</option>
-            </select>
+            <div class="ebay-actions">
+              <select id="ebayGrade" class="ebay-grade" aria-label="Card grade" hidden>
+                <option value="raw">Ungraded</option>
+                <option value="PSA 10">PSA 10</option>
+                <option value="PSA 9">PSA 9</option>
+                <option value="BGS 9.5">BGS 9.5</option>
+                <option value="CGC 9.5">CGC 9.5</option>
+              </select>
+              <button class="ebay-refresh" id="priceRefresh" type="button"
+                      aria-label="Refresh prices" title="Refresh prices">
+                <svg viewBox="0 0 24 24" width="14" height="14" fill="none"
+                     stroke="currentColor" stroke-width="2.2" stroke-linecap="round"
+                     stroke-linejoin="round" aria-hidden="true">
+                  <path d="M21 12a9 9 0 1 1-2.64-6.36" />
+                  <polyline points="21 3 21 9 15 9" />
+                </svg>
+              </button>
+            </div>
           </div>
           <div class="ebay-result" id="priceResult"></div>
+          <p class="ebay-meta" id="priceMeta" hidden></p>
           <p class="ebay-note" id="priceNote"></p>
         </div>
 
