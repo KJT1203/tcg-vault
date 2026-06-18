@@ -13,5 +13,5 @@
  * Example: proxyUrl: "https://tcg-vault-price-proxy.yourname.workers.dev"
  */
 window.TCG_VAULT_CONFIG = {
-  proxyUrl: "",
+  proxyUrl: "https://tcg-vault-price-proxy.khaijiant.workers.dev",
 };

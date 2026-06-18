@@ -41,17 +41,35 @@ function jsonResponse(obj, status, cors) {
   });
 }
 
-// "psa10" -> "PSA 10", "bgs95" -> "BGS 9.5", "cgc10" -> "CGC 10"
+// "psa10" -> "PSA 10", "psa8_5" -> "PSA 8.5", "bgs9_5" -> "BGS 9.5"
 function formatGrade(key) {
-  const m = key.match(/^([a-z]+)\s*([0-9]+)$/i);
+  const m = key.match(/^([a-z]+)([0-9]+(?:_[0-9]+)?)$/i);
   if (!m) return key.toUpperCase();
-  const company = m[1].toUpperCase();
-  let grade = m[2];
-  if (grade.length === 2 && grade !== "10") grade = grade[0] + "." + grade[1]; // 95 -> 9.5
-  return `${company} ${grade}`;
+  return `${m[1].toUpperCase()} ${m[2].replace("_", ".")}`;
 }
 
+// The grades we surface, in display order (most collected first).
+const GRADE_ORDER = [
+  "psa10", "psa9", "psa8", "psa7",
+  "bgs10", "bgs9_5", "bgs9",
+  "cgc10", "cgc9_5", "cgc9",
+  "sgc10",
+];
+
 // ---------- PokemonPriceTracker (graded) ----------
+// One PPT search returning the top card (+ graded data).
+async function pptFetchCard(searchText, set, env) {
+  const params = new URLSearchParams({ search: searchText, includeEbay: "true", limit: "1" });
+  if (set) params.set("set", set);
+  const res = await fetch(`${PPT_CARDS}?${params}`, {
+    headers: { Authorization: `Bearer ${env.PPT_API_KEY}` },
+  });
+  if (!res.ok) throw new Error(`ppt ${res.status}: ${await res.text()}`);
+  const body = await res.json();
+  const list = Array.isArray(body) ? body : body.data || body.cards || body.results || [];
+  return list[0] || null;
+}
+
 async function handleGraded(url, env, cors) {
   if (!env.PPT_API_KEY) {
     return jsonResponse({ error: "graded prices not configured (set PPT_API_KEY)" }, 501, cors);
@@ -59,41 +77,36 @@ async function handleGraded(url, env, cors) {
   const q = url.searchParams.get("q");
   if (!q) return jsonResponse({ error: "missing q" }, 400, cors);
   const set = url.searchParams.get("set");
+  const num = url.searchParams.get("num"); // padded collector number, e.g. "006/165"
 
-  const params = new URLSearchParams({ search: q, includeEbay: "true", limit: "1" });
-  if (set) params.set("set", set);
-
-  const res = await fetch(`${PPT_CARDS}?${params}`, {
-    headers: { Authorization: `Bearer ${env.PPT_API_KEY}` },
-  });
-  if (!res.ok) {
-    return jsonResponse({ error: `ppt ${res.status}`, detail: await res.text() }, 502, cors);
-  }
-
-  const body = await res.json();
-  // Be tolerant of the wrapper shape (array, {data:[]}, {cards:[]}, {results:[]}).
-  const list = Array.isArray(body) ? body : body.data || body.cards || body.results || [];
-  const card = list[0];
+  // Precise match first (name + collector number), then fall back to name only.
+  let card = await pptFetchCard(num ? `${q} ${num}` : q, set, env);
+  if (!card && num) card = await pptFetchCard(q, set, env);
+  if (!card && set) card = await pptFetchCard(q, null, env);
   if (!card) return jsonResponse({ found: false, query: q }, 200, cors);
 
-  const raw =
-    (card.prices && (card.prices.market ?? card.prices.raw ?? card.prices.value)) ?? null;
+  const raw = (card.prices && (card.prices.market ?? card.prices.low)) ?? null;
 
+  // Graded sold data lives under ebay.salesByGrade, keyed by grade.
+  const sbg = (card.ebay && card.ebay.salesByGrade) || {};
   const grades = [];
-  const ebay = card.ebay || card.graded || {};
-  for (const [key, val] of Object.entries(ebay)) {
-    if (val == null) continue;
-    const avg = typeof val === "object" ? (val.avg ?? val.average ?? val.market ?? val.price) : val;
-    if (typeof avg === "number") grades.push({ label: formatGrade(key), value: avg });
+  for (const key of GRADE_ORDER) {
+    const g = sbg[key];
+    if (!g) continue;
+    const value =
+      g.medianPrice ?? g.averagePrice ?? (g.smartMarketPrice && g.smartMarketPrice.price);
+    if (typeof value === "number" && value > 0) {
+      grades.push({ label: formatGrade(key), value, count: g.count || null });
+    }
   }
-  grades.sort((a, b) => b.value - a.value);
 
   return jsonResponse(
     {
       found: true,
       source: "pokemonpricetracker",
       name: card.name || q,
-      set: card.set || set || null,
+      set: card.setName || set || null,
+      number: card.cardNumber || null,
       raw: typeof raw === "number" ? raw : null,
       grades,
     },

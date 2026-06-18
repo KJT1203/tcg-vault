@@ -8,6 +8,10 @@ desktop.ini
 # Node (only used transiently by `npx serve`)
 node_modules/
 
+# Cloudflare Worker build cache
+.wrangler/
+worker/.wrangler/
+
 # Python
 __pycache__/
 *.pyc

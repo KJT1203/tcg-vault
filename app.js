@@ -517,6 +517,8 @@ async function loadGraded(card) {
   priceResult.innerHTML = '<span class="ebay-loading">Checking graded prices…</span>';
   const params = new URLSearchParams({ q: card.name });
   if (card.series) params.set("set", card.series);
+  const num = pokemonNumber(card); // padded "006/165" disambiguates printings
+  if (num) params.set("num", num);
 
   try {
     const res = await fetch(`${proxyBase}/graded?${params}`);
@@ -554,6 +556,15 @@ function renderGraded(data) {
       )
       .join("") +
     "</div>";
+}
+
+// PokemonPriceTracker matches on the zero-padded number, e.g. "6 / 165" -> "006/165".
+function pokemonNumber(card) {
+  const raw = (card.meta.find((m) => m[0] === "Number") || [])[1];
+  if (!raw) return null;
+  const [n, total] = raw.split("/").map((s) => s.trim());
+  const num = /^\d+$/.test(n) ? n.padStart(3, "0") : n;
+  return total ? `${num}/${total}` : num;
 }
 
 // ----- Weiss Schwarz asking prices (eBay) -----
